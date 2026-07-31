@@ -5,5 +5,12 @@
   {"company":"Meta AI","channel_url":"https://www.youtube.com/@MetaAI"},
   {"company":"Mistral AI","channel_url":"https://www.youtube.com/@MistralAI"},
   {"company":"Microsoft AI","channel_url":"https://www.youtube.com/@MicrosoftAI"},
-  {"company":"NVIDIA","channel_url":"https://www.youtube.com/@NVIDIAGTC"}
+  {"company":"NVIDIA","channel_url":"https://www.youtube.com/@NVIDIAGTC"},
+  {"company":"Runway","channel_url":"https://www.youtube.com/@RunwayML"},
+  {"company":"Adobe Firefly","channel_url":"https://www.youtube.com/@Adobe"},
+  {"company":"Canva","channel_url":"https://www.youtube.com/@Canva"},
+  {"company":"ElevenLabs","channel_url":"https://www.youtube.com/@ElevenLabs"},
+  {"company":"Perplexity","channel_url":"https://www.youtube.com/@perplexityai"},
+  {"company":"Cohere","channel_url":"https://www.youtube.com/@cohere"},
+  {"company":"Hugging Face","channel_url":"https://www.youtube.com/@huggingface"}
 ]
