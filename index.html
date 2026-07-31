@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="每日收集全球 AI 公司最新官方视频。" />
+    <title>Signal AI · 每日视频雷达</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="grain"></div>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Signal AI 首页"><span class="brand-mark">✦</span> SIGNAL <b>AI</b></a>
+      <nav>
+        <a class="active" href="#latest">今日雷达</a>
+        <a href="#companies">公司动态</a>
+        <a href="#about">关于</a>
+      </nav>
+      <button class="subscribe" type="button" id="subscribeButton">订阅每日信号 <span>↗</span></button>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <p class="eyebrow"><span class="live-dot"></span> DAILY INTELLIGENCE · 2026.07.31</p>
+        <h1>AI 行业的每一次<br /><em>重要发声。</em></h1>
+        <p class="hero-copy">从全球领先 AI 团队的官方频道中，筛选真正值得看的产品发布、能力演示与技术叙事。</p>
+        <div class="hero-meta">
+          <div><strong id="videoCount">08</strong><span>今日发现</span></div>
+          <div><strong>12</strong><span>追踪公司</span></div>
+          <div><strong>24h</strong><span>更新频率</span></div>
+        </div>
+      </section>
+
+      <section class="spotlight" aria-label="今日焦点">
+        <div class="spotlight-art"><span class="orb orb-one"></span><span class="orb orb-two"></span><span class="grid-lines"></span><span class="spotlight-type">o3</span></div>
+        <div class="spotlight-content">
+          <p class="eyebrow"><span class="company-dot openai"></span> OPENAI · 今日焦点</p>
+          <h2>Introducing deep research</h2>
+          <p>让 AI 自主完成多步骤线上研究：检索、分析来源并整合为一份带引用的报告。</p>
+          <div class="spotlight-footer"><span>02:43</span><span>·</span><span>发布于 5 小时前</span><a href="https://www.youtube.com/@OpenAI" target="_blank" rel="noreferrer">观看原片 <b>↗</b></a></div>
+        </div>
+      </section>
+
+      <section class="feed" id="latest">
+        <div class="section-heading">
+          <div><p class="eyebrow">LATEST SIGNALS</p><h2>最新视频</h2></div>
+          <button class="filter-toggle" id="filterToggle" type="button">筛选 <span>⌄</span></button>
+        </div>
+        <div class="filter-row" id="companies">
+          <button class="chip selected" data-company="all" type="button">全部 <span>8</span></button>
+          <button class="chip" data-company="OpenAI" type="button"><i class="company-dot openai"></i> OpenAI</button>
+          <button class="chip" data-company="Google DeepMind" type="button"><i class="company-dot google"></i> Google DeepMind</button>
+          <button class="chip" data-company="Anthropic" type="button"><i class="company-dot anthropic"></i> Anthropic</button>
+          <button class="chip" data-company="Meta AI" type="button"><i class="company-dot meta"></i> Meta AI</button>
+          <button class="chip" data-company="Mistral AI" type="button"><i class="company-dot mistral"></i> Mistral</button>
+        </div>
+        <div class="video-grid" id="videoGrid"></div>
+        <p class="empty-state" id="emptyState" hidden>这个公司今天还没有新的精选视频。</p>
+        <button class="load-more" id="loadMore" type="button">加载更早的信号 <span>↓</span></button>
+      </section>
+
+      <section class="newsletter" id="about">
+        <div><p class="eyebrow">THE FIVE-MINUTE BRIEF</p><h2>把 AI 的关键时刻<br />送到你的收件箱。</h2></div>
+        <form id="emailForm"><label class="sr-only" for="email">电子邮箱</label><input id="email" type="email" placeholder="你的电子邮箱" required /><button type="submit">免费订阅 <span>→</span></button><p id="formMessage" aria-live="polite"></p></form>
+      </section>
+    </main>
+    <footer><a class="brand" href="#top"><span class="brand-mark">✦</span> SIGNAL <b>AI</b></a><p>为好奇的人收集机器的下一句话。</p><span>© 2026 SIGNAL AI</span></footer>
+    <script src="app.js"></script>
+  </body>
+</html>
