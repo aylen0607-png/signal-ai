@@ -49,14 +49,7 @@
           <div><p class="eyebrow">LATEST SIGNALS</p><h2>最新视频</h2></div>
           <button class="filter-toggle" id="filterToggle" type="button">筛选 <span>⌄</span></button>
         </div>
-        <div class="filter-row" id="companies">
-          <button class="chip selected" data-company="all" type="button">全部 <span>8</span></button>
-          <button class="chip" data-company="OpenAI" type="button"><i class="company-dot openai"></i> OpenAI</button>
-          <button class="chip" data-company="Google DeepMind" type="button"><i class="company-dot google"></i> Google DeepMind</button>
-          <button class="chip" data-company="Anthropic" type="button"><i class="company-dot anthropic"></i> Anthropic</button>
-          <button class="chip" data-company="Meta AI" type="button"><i class="company-dot meta"></i> Meta AI</button>
-          <button class="chip" data-company="Mistral AI" type="button"><i class="company-dot mistral"></i> Mistral</button>
-        </div>
+        <div class="filter-row" id="companies" aria-label="按公司筛选视频"></div>
         <div class="video-grid" id="videoGrid"></div>
         <p class="empty-state" id="emptyState" hidden>这个公司今天还没有新的精选视频。</p>
         <button class="load-more" id="loadMore" type="button">加载更早的信号 <span>↓</span></button>
