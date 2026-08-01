@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-07-31T09:58:31.017187+00:00",
+  "updated_at": "2026-08-01T07:56:44.094449+00:00",
   "videos": [
+    {
+      "id": "OEmEfobzodE",
+      "company": "Google DeepMind",
+      "title": "This is Gemini Robotics 2 🤖",
+      "description": "",
+      "published_at": "2026-07-31T16:10:59+00:00",
+      "source_url": "https://www.youtube.com/watch?v=OEmEfobzodE",
+      "thumbnail_url": "https://i.ytimg.com/vi/OEmEfobzodE/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「This is Gemini Robotics 2 🤖」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "fo9WirRIaVs",
       "company": "Google DeepMind",
