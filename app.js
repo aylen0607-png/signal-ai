@@ -2,7 +2,7 @@ let videos = [];
 let selectedCompany = 'all';
 let searchQuery = '';
 let currentPage = 1;
-const pageSize = 50;
+const pageSize = 32;
 let favorites = new Set();
 try { favorites = new Set(JSON.parse(localStorage.getItem('signal-ai-favorites') || '[]')); } catch { /* local storage unavailable */ }
 
