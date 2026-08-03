@@ -1,5 +1,6 @@
 let videos = [];
 let selectedCompany = 'all';
+let searchQuery = '';
 let favorites = new Set();
 try { favorites = new Set(JSON.parse(localStorage.getItem('signal-ai-favorites') || '[]')); } catch { /* local storage unavailable */ }
 
@@ -14,6 +15,7 @@ const count = document.querySelector('#videoCount');
 const filterRow = document.querySelector('#companies');
 const navCount = document.querySelector('#favoriteNavCount');
 const titleCount = document.querySelector('#favoriteTitleCount');
+const videoSearch = document.querySelector('#videoSearch');
 const companyClass = { OpenAI: 'openai', 'Google DeepMind': 'google', Anthropic: 'anthropic', 'Meta AI': 'meta', 'Mistral AI': 'mistral' };
 
 function escapeHtml(value = '') { return String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[char])); }
@@ -37,12 +39,14 @@ function renderFilters() {
   filterRow.innerHTML = `<button class="chip ${selectedCompany === 'all' ? 'selected' : ''}" data-company="all" type="button">全部 <span>${videos.length}</span></button>` + companies.map((company) => { const [, accent] = colorFor(company); const total = videos.filter((video) => video.company === company).length; return `<button class="chip ${selectedCompany === company ? 'selected' : ''}" data-company="${escapeHtml(company)}" type="button"><i class="company-dot" style="background:${accent}"></i>${escapeHtml(company)} <span>${total}</span></button>`; }).join('');
 }
 function render() {
-  const shown = selectedCompany === 'all' ? videos : videos.filter((video) => video.company === selectedCompany);
+  const companyVideos = selectedCompany === 'all' ? videos : videos.filter((video) => video.company === selectedCompany);
+  const shown = companyVideos.filter((video) => !searchQuery || `${video.company} ${video.title} ${video.summary_zh || ''} ${video.marketing_takeaway_zh || ''}`.toLowerCase().includes(searchQuery));
   const savedVideos = videos.filter((video) => favorites.has(video.id));
   count.textContent = String(shown.length).padStart(2, '0');
   grid.innerHTML = shown.map(cardMarkup).join('');
   favoriteGrid.innerHTML = savedVideos.map(cardMarkup).join('');
   emptyState.hidden = shown.length !== 0;
+  if (!shown.length) emptyState.textContent = searchQuery ? `没有找到与“${searchQuery}”相关的视频。` : '这个公司今天还没有新的精选视频。';
   favoritesEmpty.hidden = savedVideos.length !== 0;
   navCount.textContent = savedVideos.length ? `(${savedVideos.length})` : '';
   titleCount.textContent = savedVideos.length ? `(${savedVideos.length})` : '';
@@ -61,6 +65,7 @@ function handleVideoAction(event) {
   const play = event.target.closest('.play'); if (play) openPlayer(play);
 }
 filterRow.addEventListener('click', (event) => { const button = event.target.closest('.chip'); if (!button) return; selectedCompany = button.dataset.company; renderFilters(); render(); });
+videoSearch.addEventListener('input', (event) => { searchQuery = event.target.value.trim().toLowerCase(); render(); });
 grid.addEventListener('click', handleVideoAction); favoriteGrid.addEventListener('click', handleVideoAction);
 document.querySelector('#emailForm').addEventListener('submit', (event) => { event.preventDefault(); document.querySelector('#formMessage').textContent = '已收到，明天开始向你发送每日信号。'; event.currentTarget.reset(); });
 document.querySelector('#subscribeButton').addEventListener('click', () => document.querySelector('#email').focus());
