@@ -3,6 +3,9 @@ let selectedCompany = 'all';
 let favorites = new Set();
 try { favorites = new Set(JSON.parse(localStorage.getItem('signal-ai-favorites') || '[]')); } catch { /* local storage unavailable */ }
 
+const dateParts = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
+document.querySelector('#currentDate').textContent = `${dateParts.find((part) => part.type === 'year').value}.${dateParts.find((part) => part.type === 'month').value}.${dateParts.find((part) => part.type === 'day').value}`;
+
 const grid = document.querySelector('#videoGrid');
 const favoriteGrid = document.querySelector('#favoriteGrid');
 const emptyState = document.querySelector('#emptyState');
