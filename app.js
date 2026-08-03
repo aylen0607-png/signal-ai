@@ -73,7 +73,6 @@ function handleVideoAction(event) {
 }
 filterRow.addEventListener('click', (event) => { const button = event.target.closest('.chip'); if (!button) return; selectedCompany = button.dataset.company; currentPage = 1; renderFilters(); render(); });
 function runSearch() { searchQuery = videoSearch.value.trim().toLowerCase(); currentPage = 1; render(); document.querySelector('#latest').scrollIntoView({ behavior: 'smooth', block: 'start' }); }
-videoSearch.addEventListener('input', runSearch);
 videoSearchForm.addEventListener('submit', (event) => { event.preventDefault(); runSearch(); });
 grid.addEventListener('click', handleVideoAction);
 document.querySelector('#emailForm').addEventListener('submit', (event) => { event.preventDefault(); document.querySelector('#formMessage').textContent = '已收到，明天开始向你发送每日信号。'; event.currentTarget.reset(); });
