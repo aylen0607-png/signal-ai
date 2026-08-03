@@ -73,5 +73,6 @@ grid.addEventListener('click', handleVideoAction); favoriteGrid.addEventListener
 document.querySelector('#emailForm').addEventListener('submit', (event) => { event.preventDefault(); document.querySelector('#formMessage').textContent = '已收到，明天开始向你发送每日信号。'; event.currentTarget.reset(); });
 document.querySelector('#subscribeButton').addEventListener('click', () => document.querySelector('#email').focus());
 document.querySelector('#loadMore').addEventListener('click', (event) => { event.currentTarget.textContent = '已加载全部信号'; event.currentTarget.disabled = true; });
+document.querySelector('#backToTop').addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 document.addEventListener('keydown', (event) => { if (event.key === 'Escape') closePlayer(); });
 fetch('data/videos.json').then((response) => response.ok ? response.json() : Promise.reject()).then((feed) => { videos = feed.videos || []; renderFilters(); render(); }).catch(() => { emptyState.hidden = false; emptyState.textContent = '暂无已收集的视频。运行采集脚本后，最新内容会出现在这里。'; });
