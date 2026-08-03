@@ -17,7 +17,7 @@ const titleCount = document.querySelector('#favoriteTitleCount');
 const companyClass = { OpenAI: 'openai', 'Google DeepMind': 'google', Anthropic: 'anthropic', 'Meta AI': 'meta', 'Mistral AI': 'mistral' };
 
 function escapeHtml(value = '') { return String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[char])); }
-function relativeTime(isoDate) { const hours = Math.max(0, Math.floor((Date.now() - new Date(isoDate).getTime()) / 3600000)); return hours < 1 ? '刚刚' : hours < 24 ? `${hours} 小时前` : `${Math.floor(hours / 24)} 天前`; }
+function relativeTime(isoDate) { const parts = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date(isoDate)); return `${parts.find((part) => part.type === 'year').value}.${parts.find((part) => part.type === 'month').value}.${parts.find((part) => part.type === 'day').value}`; }
 function colorFor(company) { return { OpenAI: ['#283b38', '#d2ff65'], 'Google DeepMind': ['#1c2943', '#7fa6ff'], Anthropic: ['#473c34', '#e6a879'], 'Meta AI': ['#18336a', '#76a7ff'], 'Mistral AI': ['#5d281f', '#ff8a55'] }[company] || ['#303740', '#aeb9c0']; }
 function fallbackNotes(video) { return { summary_zh: `${video.company} 的官方视频围绕「${video.title}」展开，重点呈现产品或能力的定位、使用场景与核心价值。`, marketing_takeaway_zh: '留意官方如何选择主角、场景和视觉重点。把复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。' }; }
 
