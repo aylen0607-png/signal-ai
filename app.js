@@ -10,13 +10,10 @@ const dateParts = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai', 
 document.querySelector('#currentDate').textContent = `${dateParts.find((part) => part.type === 'year').value}.${dateParts.find((part) => part.type === 'month').value}.${dateParts.find((part) => part.type === 'day').value}`;
 
 const grid = document.querySelector('#videoGrid');
-const favoriteGrid = document.querySelector('#favoriteGrid');
 const emptyState = document.querySelector('#emptyState');
-const favoritesEmpty = document.querySelector('#favoritesEmpty');
 const count = document.querySelector('#videoCount');
 const filterRow = document.querySelector('#companies');
 const navCount = document.querySelector('#favoriteNavCount');
-const titleCount = document.querySelector('#favoriteTitleCount');
 const videoSearch = document.querySelector('#videoSearch');
 const videoSearchForm = document.querySelector('#videoSearchForm');
 const pagination = document.querySelector('#pagination');
@@ -40,23 +37,23 @@ function renderFilters() {
     if (aRank !== -1 || bRank !== -1) return (aRank === -1 ? 99 : aRank) - (bRank === -1 ? 99 : bRank);
     return a.localeCompare(b);
   });
-  filterRow.innerHTML = `<button class="chip ${selectedCompany === 'all' ? 'selected' : ''}" data-company="all" type="button">全部 <span>${videos.length}</span></button>` + companies.map((company) => { const [, accent] = colorFor(company); const total = videos.filter((video) => video.company === company).length; return `<button class="chip ${selectedCompany === company ? 'selected' : ''}" data-company="${escapeHtml(company)}" type="button"><i class="company-dot" style="background:${accent}"></i>${escapeHtml(company)} <span>${total}</span></button>`; }).join('');
+  const savedTotal = videos.filter((video) => favorites.has(video.id)).length;
+  const allButton = `<button class="chip ${selectedCompany === 'all' ? 'selected' : ''}" data-company="all" type="button">全部 <span>${videos.length}</span></button>`;
+  const favoriteButton = `<button class="chip ${selectedCompany === 'favorites' ? 'selected' : ''}" data-company="favorites" type="button">我的星标 <span>${savedTotal}</span></button>`;
+  filterRow.innerHTML = allButton + favoriteButton + companies.map((company) => { const [, accent] = colorFor(company); const total = videos.filter((video) => video.company === company).length; return `<button class="chip ${selectedCompany === company ? 'selected' : ''}" data-company="${escapeHtml(company)}" type="button"><i class="company-dot" style="background:${accent}"></i>${escapeHtml(company)} <span>${total}</span></button>`; }).join('');
 }
 function render() {
-  const companyVideos = selectedCompany === 'all' ? videos : videos.filter((video) => video.company === selectedCompany);
+  const companyVideos = selectedCompany === 'all' ? videos : selectedCompany === 'favorites' ? videos.filter((video) => favorites.has(video.id)) : videos.filter((video) => video.company === selectedCompany);
   const shown = companyVideos.filter((video) => !searchQuery || `${video.company} ${video.title} ${video.summary_zh || ''} ${video.marketing_takeaway_zh || ''}`.toLowerCase().includes(searchQuery));
   const totalPages = Math.max(1, Math.ceil(shown.length / pageSize));
   currentPage = Math.min(currentPage, totalPages);
   const pageVideos = shown.slice((currentPage - 1) * pageSize, currentPage * pageSize);
-  const savedVideos = videos.filter((video) => favorites.has(video.id));
   count.textContent = String(shown.length).padStart(2, '0');
   grid.innerHTML = pageVideos.map(cardMarkup).join('');
-  favoriteGrid.innerHTML = savedVideos.map(cardMarkup).join('');
   emptyState.hidden = shown.length !== 0;
-  if (!shown.length) emptyState.textContent = searchQuery ? `没有找到与“${searchQuery}”相关的视频。` : '这个公司今天还没有新的精选视频。';
-  favoritesEmpty.hidden = savedVideos.length !== 0;
-  navCount.textContent = savedVideos.length ? `(${savedVideos.length})` : '';
-  titleCount.textContent = savedVideos.length ? `(${savedVideos.length})` : '';
+  if (!shown.length) emptyState.textContent = searchQuery ? `没有找到与“${searchQuery}”相关的视频。` : selectedCompany === 'favorites' ? '还没有星标视频。点击卡片右上角的 ☆ 收藏。' : '这个公司还没有新的精选视频。';
+  const savedTotal = videos.filter((video) => favorites.has(video.id)).length;
+  navCount.textContent = savedTotal ? `(${savedTotal})` : '';
   const firstPage = Math.floor((currentPage - 1) / 10) * 10 + 1;
   const pageButtons = Array.from({ length: Math.min(10, totalPages - firstPage + 1) }, (_, index) => firstPage + index).map((page) => `<button class="${page === currentPage ? 'current' : ''}" data-page="${page}" type="button" aria-label="第 ${page} 页">${page}</button>`).join('');
   pagination.innerHTML = totalPages > 1 ? `<button class="next" data-page="${currentPage - 1}" type="button" ${currentPage === 1 ? 'disabled' : ''}>上一页</button>${pageButtons}<button class="next" data-page="${currentPage + 1}" type="button" ${currentPage === totalPages ? 'disabled' : ''}>下一页</button>` : '';
@@ -71,14 +68,14 @@ function openPlayer(button) {
 }
 function handleVideoAction(event) {
   const favorite = event.target.closest('.favorite-button');
-  if (favorite) { favorites.has(favorite.dataset.favoriteId) ? favorites.delete(favorite.dataset.favoriteId) : favorites.add(favorite.dataset.favoriteId); saveFavorites(); render(); return; }
+  if (favorite) { favorites.has(favorite.dataset.favoriteId) ? favorites.delete(favorite.dataset.favoriteId) : favorites.add(favorite.dataset.favoriteId); saveFavorites(); renderFilters(); render(); return; }
   const play = event.target.closest('.play'); if (play) openPlayer(play);
 }
 filterRow.addEventListener('click', (event) => { const button = event.target.closest('.chip'); if (!button) return; selectedCompany = button.dataset.company; currentPage = 1; renderFilters(); render(); });
 function runSearch() { searchQuery = videoSearch.value.trim().toLowerCase(); currentPage = 1; render(); document.querySelector('#latest').scrollIntoView({ behavior: 'smooth', block: 'start' }); }
 videoSearch.addEventListener('input', runSearch);
 videoSearchForm.addEventListener('submit', (event) => { event.preventDefault(); runSearch(); });
-grid.addEventListener('click', handleVideoAction); favoriteGrid.addEventListener('click', handleVideoAction);
+grid.addEventListener('click', handleVideoAction);
 document.querySelector('#emailForm').addEventListener('submit', (event) => { event.preventDefault(); document.querySelector('#formMessage').textContent = '已收到，明天开始向你发送每日信号。'; event.currentTarget.reset(); });
 pagination.addEventListener('click', (event) => { const button = event.target.closest('[data-page]'); if (!button || button.disabled) return; currentPage = Number(button.dataset.page); render(); document.querySelector('#latest').scrollIntoView({ behavior: 'smooth', block: 'start' }); });
 document.querySelector('#backToTop').addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
