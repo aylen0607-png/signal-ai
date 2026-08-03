@@ -71,7 +71,6 @@ videoSearch.addEventListener('input', runSearch);
 videoSearchForm.addEventListener('submit', (event) => { event.preventDefault(); runSearch(); });
 grid.addEventListener('click', handleVideoAction); favoriteGrid.addEventListener('click', handleVideoAction);
 document.querySelector('#emailForm').addEventListener('submit', (event) => { event.preventDefault(); document.querySelector('#formMessage').textContent = '已收到，明天开始向你发送每日信号。'; event.currentTarget.reset(); });
-document.querySelector('#subscribeButton').addEventListener('click', () => document.querySelector('#email').focus());
 document.querySelector('#loadMore').addEventListener('click', (event) => { event.currentTarget.textContent = '已加载全部信号'; event.currentTarget.disabled = true; });
 document.querySelector('#backToTop').addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 document.addEventListener('keydown', (event) => { if (event.key === 'Escape') closePlayer(); });
