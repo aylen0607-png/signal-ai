@@ -12,6 +12,7 @@ document.querySelector('#currentDate').textContent = `${dateParts.find((part) =>
 const grid = document.querySelector('#videoGrid');
 const emptyState = document.querySelector('#emptyState');
 const count = document.querySelector('#videoCount');
+const companyCount = document.querySelector('#companyCount');
 const filterRow = document.querySelector('#companies');
 const navCount = document.querySelector('#favoriteNavCount');
 const videoSearch = document.querySelector('#videoSearch');
@@ -37,6 +38,7 @@ function renderFilters() {
     if (aRank !== -1 || bRank !== -1) return (aRank === -1 ? 99 : aRank) - (bRank === -1 ? 99 : bRank);
     return a.localeCompare(b);
   });
+  companyCount.textContent = String(companies.length).padStart(2, '0');
   const savedTotal = videos.filter((video) => favorites.has(video.id)).length;
   const allButton = `<button class="chip ${selectedCompany === 'all' ? 'selected' : ''}" data-company="all" type="button">全部 <span>${videos.length}</span></button>`;
   const favoriteButton = `<button class="chip ${selectedCompany === 'favorites' ? 'selected' : ''}" data-company="favorites" type="button">我的星标 <span>${savedTotal}</span></button>`;
@@ -48,7 +50,7 @@ function render() {
   const totalPages = Math.max(1, Math.ceil(shown.length / pageSize));
   currentPage = Math.min(currentPage, totalPages);
   const pageVideos = shown.slice((currentPage - 1) * pageSize, currentPage * pageSize);
-  count.textContent = String(shown.length).padStart(2, '0');
+  count.textContent = String(videos.length).padStart(2, '0');
   grid.innerHTML = pageVideos.map(cardMarkup).join('');
   emptyState.hidden = shown.length !== 0;
   if (!shown.length) emptyState.textContent = searchQuery ? `没有找到与“${searchQuery}”相关的视频。` : selectedCompany === 'favorites' ? '还没有星标视频。点击卡片右上角的 ☆ 收藏。' : '这个公司还没有新的精选视频。';

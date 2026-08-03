@@ -21,7 +21,18 @@
       .pagination button.next { width:auto; padding:0 12px; border-radius:17px; color:#17222b; }
       .pagination button:disabled { color:#b9c0bc; cursor:default; }
       .play { display:flex !important; align-items:center; justify-content:center; padding:0 !important; line-height:1; text-indent:2px; }
-      @media (max-width: 760px) { .header-search { margin-left: auto; } .header-search input { width: 92px; padding-left: 27px; } .header-search span { left: 9px; } .header-search button { padding: 9px 10px; } .subscribe { display: none; } }
+      /* 首页信息按「标题 → 简介 → 数据 → 标签」的顺序排列。保留原有配色。 */
+      .hero { display:block; padding-bottom:0; }
+      .hero h1 { letter-spacing:-4px; }
+      .hero-copy { max-width:620px; margin:28px 0 0; }
+      .hero-meta { border-top:0; padding-top:0; margin-top:54px; gap:64px; }
+      .hero-meta div { display:block; }
+      .hero-meta strong { display:block; font-size:28px; }
+      .hero-meta span { display:block; margin-top:7px; }
+      .hero-filters { border-top:1px solid #d6d7cf; margin-top:68px; }
+      .hero-filters .filter-row { padding:24px 0 27px; }
+      .feed { margin-top:42px; }
+      @media (max-width: 760px) { .header-search { margin-left: auto; } .header-search input { width: 92px; padding-left: 27px; } .header-search span { left: 9px; } .header-search button { padding: 9px 10px; } .subscribe { display: none; } .hero { padding-bottom:0; } .hero-copy { margin-top:24px; } .hero-meta { margin-top:38px; gap:18px; } .hero-meta strong { font-size:21px; } .hero-filters { margin-top:42px; } .hero-filters .filter-row { padding:18px 0 23px; } .feed { margin-top:28px; } }
     </style>
   </head>
   <body>
@@ -39,18 +50,20 @@
 
     <main id="top">
       <section class="hero">
-        <p class="eyebrow"><span class="live-dot"></span> DAILY INTELLIGENCE · <span id="currentDate"></span></p>
+        <p class="eyebrow"><span class="live-dot"></span> AI INDUSTRY MEDIA INTELLIGENCE · <span id="currentDate"></span></p>
         <h1>AI行业 重点发布</h1>
         <p class="hero-copy">从全球领先 AI 团队的官方频道中，筛选真正值得看的产品发布、能力演示与技术叙事。</p>
         <div class="hero-meta">
-          <div><strong id="videoCount">08</strong><span>今日发现</span></div>
-          <div><strong>12</strong><span>追踪公司</span></div>
-          <div><strong>24h</strong><span>更新频率</span></div>
+          <div><strong id="videoCount">00</strong><span>已归档视频</span></div>
+          <div><strong id="companyCount">00</strong><span>追踪公司</span></div>
+          <div><strong>24h</strong><span>每日自动刷新</span></div>
+        </div>
+        <div class="hero-filters">
+          <div class="filter-row" id="companies" aria-label="按公司筛选视频"></div>
         </div>
       </section>
 
       <section class="feed" id="latest">
-        <div class="filter-row" id="companies" aria-label="按公司筛选视频"></div>
         <div class="video-grid" id="videoGrid"></div>
         <p class="empty-state" id="emptyState" hidden>这个公司今天还没有新的精选视频。</p>
         <nav class="pagination" id="pagination" aria-label="视频分页"></nav>
