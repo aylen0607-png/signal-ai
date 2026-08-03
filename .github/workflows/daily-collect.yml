@@ -1,7 +1,8 @@
 name: Collect official AI videos
 on:
   schedule:
-    - cron: '10 0 * * *'
+    # GitHub Actions uses UTC; 02:00 UTC equals 10:00 in China Standard Time (UTC+8).
+    - cron: '0 2 * * *'
   workflow_dispatch:
     inputs:
       history:
