@@ -22,16 +22,17 @@ python3 scripts/collect_youtube.py
 
 ### 首次补齐最近一年
 
-日常更新使用 YouTube 公开 Feed，只获取最新视频。若要补齐每个频道最近 365 天的 AI 相关视频，首次运行：
+日常更新使用 YouTube 公开 Feed，只获取最新视频。补齐每个频道最近 365 天的 AI 相关视频需要官方 YouTube Data API Key。
+
+将 API Key 保存到环境变量后运行：
 
 ```bash
-python3 -m pip install yt-dlp
-python3 scripts/collect_youtube.py --history
+YOUTUBE_API_KEY="你的Key" python3 scripts/collect_youtube.py --history
 ```
 
 补齐后，日常任务仍然运行普通命令即可；它会保留一年内历史内容并更新新增视频。
 
-若网站已部署到 GitHub，推荐在 **Actions** → **Collect official AI videos** → **Run workflow** 中勾选 `history` 后运行。历史扫描会在 GitHub 云端执行，可能需要数十分钟；完成后数据会自动提交并发布。
+若网站已部署到 GitHub，请在仓库 **Settings** → **Secrets and variables** → **Actions** 中新建仓库 Secret：名称为 `YOUTUBE_API_KEY`，值为你的 Key。之后在 **Actions** → **Collect official AI videos** → **Run workflow** 中勾选 `history` 后运行。补齐完成后数据会自动提交并发布。
 
 ## 自动执行
 

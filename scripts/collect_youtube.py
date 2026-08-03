@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """Collect official AI videos from YouTube.
 
-Normal mode reads lightweight public Atom feeds for daily updates.  Pass
---history once to backfill AI-relevant videos published in the past 365 days;
-that mode requires `yt-dlp` but does not require a YouTube API key.
+Normal mode uses the public Atom feed for inexpensive daily updates. History
+mode uses the official YouTube Data API to retrieve the past 365 days.
 """
 import argparse
 import json
+import os
 import re
-import subprocess
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -28,11 +28,15 @@ def get(url):
     with urllib.request.urlopen(request, timeout=25) as response:
         return response.read().decode("utf-8", errors="replace"), response.geturl()
 
+def api_get(path, params, api_key):
+    params["key"] = api_key
+    text, _ = get(f"https://www.googleapis.com/youtube/v3/{path}?{urllib.parse.urlencode(params)}")
+    return json.loads(text)
+
 def load_json(path, default):
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else default
 
 def is_relevant(source, title, description=""):
-    """Keep all videos from AI-native channels; require an AI signal on broad channels."""
     return source["company"] in AI_FIRST_COMPANIES or bool(AI_TERMS.search(f"{title} {description}"))
 
 def resolve_channel_id(source, cache):
@@ -61,34 +65,35 @@ def parse_feed(source, channel_id):
             records.append(record(source, video_id, title, published, description))
     return records
 
-def parse_history(source, cutoff):
-    try:
-        import yt_dlp  # noqa: F401
-    except ImportError as error:
-        raise RuntimeError("History mode requires yt-dlp. Install it with: python3 -m pip install yt-dlp") from error
-    # Flat-playlist mode is fast but does not contain upload dates.  Full
-    # metadata is needed here so --dateafter is applied accurately.
-    command = [sys.executable, "-m", "yt_dlp", "--skip-download", "--dump-json", "--ignore-errors", "--no-warnings", "--dateafter", cutoff.strftime("%Y%m%d"), f"{source['channel_url'].rstrip('/')}/videos"]
-    process = subprocess.run(command, capture_output=True, text=True, timeout=300, check=False)
-    if process.returncode not in (0, 1):
-        raise RuntimeError(process.stderr.strip() or "yt-dlp could not read this channel")
-    records = []
-    for line in process.stdout.splitlines():
-        try:
-            item = json.loads(line)
-        except json.JSONDecodeError:
-            continue
-        date = item.get("upload_date")
-        if not date or len(date) != 8:
-            continue
-        published = f"{date[:4]}-{date[4:6]}-{date[6:]}T00:00:00+00:00"
-        title, description, video_id = item.get("title", ""), item.get("description", "") or "", item.get("id", "")
-        if video_id and is_relevant(source, title, description):
-            records.append(record(source, video_id, title, published, description))
-    return records
+def parse_api_history(source, channel_id, cutoff, api_key):
+    """Follow YouTube's official uploads playlist, newest first, until cutoff."""
+    channel = api_get("channels", {"part": "contentDetails", "id": channel_id}, api_key)
+    items = channel.get("items", [])
+    if not items:
+        raise ValueError(f"Channel {channel_id} was not returned by YouTube Data API")
+    uploads = items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    records, page_token = [], None
+    while True:
+        params = {"part": "snippet,contentDetails", "playlistId": uploads, "maxResults": 50}
+        if page_token:
+            params["pageToken"] = page_token
+        response = api_get("playlistItems", params, api_key)
+        for item in response.get("items", []):
+            snippet = item.get("snippet", {})
+            published = snippet.get("publishedAt", "")
+            if not published:
+                continue
+            if datetime.fromisoformat(published.replace("Z", "+00:00")) < cutoff:
+                return records
+            video_id = snippet.get("resourceId", {}).get("videoId", "")
+            title, description = snippet.get("title", ""), snippet.get("description", "")
+            if video_id and is_relevant(source, title, description):
+                records.append(record(source, video_id, title, published, description))
+        page_token = response.get("nextPageToken")
+        if not page_token:
+            return records
 
 def make_editorial_notes(title, description, company):
-    """Create a transparent first-pass Chinese brief without sharing video data with a third party."""
     text, topic = f"{title} {description}".lower(), title.strip().rstrip(".")
     if any(word in text for word in ("launch", "introducing", "announce", "release", "new")):
         takeaway = "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
@@ -102,22 +107,26 @@ def make_editorial_notes(title, description, company):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--history", action="store_true", help="Backfill AI-relevant videos from the past 365 days using yt-dlp.")
+    parser.add_argument("--history", action="store_true", help="Backfill AI-relevant videos from the past 365 days using YouTube Data API.")
     args = parser.parse_args()
+    api_key = os.environ.get("YOUTUBE_API_KEY")
+    if args.history and not api_key:
+        sys.exit("History mode requires YOUTUBE_API_KEY. Add it as a GitHub Actions secret before running.")
     sources, cache = load_json(SOURCES_PATH, []), load_json(CACHE_PATH, {})
     current = load_json(OUTPUT_PATH, {"videos": []})
     cutoff = datetime.now(timezone.utc) - timedelta(days=365)
     existing, errors = {video["id"]: video for video in current.get("videos", [])}, []
     for source in sources:
         try:
-            latest = parse_history(source, cutoff) if args.history else parse_feed(source, resolve_channel_id(source, cache))
+            channel_id = resolve_channel_id(source, cache)
+            latest = parse_api_history(source, channel_id, cutoff, api_key) if args.history else parse_feed(source, channel_id)
             for video in latest:
                 existing[video["id"]] = {**existing.get(video["id"], {}), **video}
             print(f"✓ {source['company']} ({len(latest)} 条)")
-        except (urllib.error.URLError, urllib.error.HTTPError, ET.ParseError, ValueError, RuntimeError, subprocess.TimeoutExpired) as error:
+        except (urllib.error.URLError, urllib.error.HTTPError, ET.ParseError, ValueError, KeyError, json.JSONDecodeError) as error:
             errors.append(f"{source['company']}: {error}")
             print(f"! {errors[-1]}", file=sys.stderr)
-        time.sleep(.4)
+        time.sleep(.2)
     CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     videos = [video for video in existing.values() if video.get("published_at", "") >= cutoff.isoformat()]
     videos.sort(key=lambda item: item.get("published_at", ""), reverse=True)
