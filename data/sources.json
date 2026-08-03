@@ -1,7 +1,7 @@
 [
   {"company":"OpenAI","channel_url":"https://www.youtube.com/@OpenAI"},
   {"company":"Google DeepMind","channel_url":"https://www.youtube.com/@GoogleDeepMind"},
-  {"company":"Anthropic","channel_url":"https://www.youtube.com/@AnthropicAI"},
+  {"company":"Claude（Anthropic）","channel_url":"https://www.youtube.com/@anthropic-ai"},
   {"company":"Meta AI","channel_url":"https://www.youtube.com/@MetaAI"},
   {"company":"Mistral AI","channel_url":"https://www.youtube.com/@MistralAI"},
   {"company":"Microsoft AI","channel_url":"https://www.youtube.com/@MicrosoftAI"},

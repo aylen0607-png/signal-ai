@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T07:56:34.421496+00:00",
+  "updated_at": "2026-08-03T03:29:14.806852+00:00",
   "videos": [
     {
       "id": "OEmEfobzodE",
@@ -379,6 +379,19 @@
       "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
     },
     {
+      "id": "rKV5JcALQoQ",
+      "company": "Claude（Anthropic）",
+      "title": "The different levels of how Claude thinks",
+      "description": "",
+      "published_at": "2026-07-06T16:59:51+00:00",
+      "source_url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/rKV5JcALQoQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「The different levels of how Claude thinks」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
+    },
+    {
       "id": "4ItFgQI2NOM",
       "company": "Hugging Face",
       "title": "Introducing Tau: An Educational Coding Agent",
@@ -561,6 +574,19 @@
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     },
     {
+      "id": "Y9Wz2PV404E",
+      "company": "Claude（Anthropic）",
+      "title": "Introducing Claude Fable 5",
+      "description": "",
+      "published_at": "2026-06-09T17:00:05+00:00",
+      "source_url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y9Wz2PV404E/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Introducing Claude Fable 5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
       "id": "w9VqzQoW32A",
       "company": "Runway",
       "title": "How to Create Mattes with Aleph 2.0 | Runway",
@@ -676,6 +702,162 @@
       "platform": "YouTube",
       "summary_zh": "Google DeepMind 的官方视频围绕「Build your next story with Gemini Omni」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "j2knrqAzYVY",
+      "company": "Claude（Anthropic）",
+      "title": "Translating Claude’s thoughts into language",
+      "description": "",
+      "published_at": "2026-05-07T17:01:21+00:00",
+      "source_url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "thumbnail_url": "https://i.ytimg.com/vi/j2knrqAzYVY/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Translating Claude’s thoughts into language」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "D4XTefP3Lsc",
+      "company": "Claude（Anthropic）",
+      "title": "When AIs act emotional",
+      "description": "",
+      "published_at": "2026-04-02T16:06:59+00:00",
+      "source_url": "https://www.youtube.com/watch?v=D4XTefP3Lsc",
+      "thumbnail_url": "https://i.ytimg.com/vi/D4XTefP3Lsc/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「When AIs act emotional」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "dPn3GBI8lII",
+      "company": "Claude（Anthropic）",
+      "title": "Introducing Claude Opus 4.6",
+      "description": "",
+      "published_at": "2026-02-05T17:45:22+00:00",
+      "source_url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+      "thumbnail_url": "https://i.ytimg.com/vi/dPn3GBI8lII/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Introducing Claude Opus 4.6」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "kYJO0y8fVTA",
+      "company": "Claude（Anthropic）",
+      "title": "Claude on Mars",
+      "description": "",
+      "published_at": "2026-01-30T19:09:11+00:00",
+      "source_url": "https://www.youtube.com/watch?v=kYJO0y8fVTA",
+      "thumbnail_url": "https://i.ytimg.com/vi/kYJO0y8fVTA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Claude on Mars」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "bluAmTHoEow",
+      "company": "Claude（Anthropic）",
+      "title": "Your tools are now interactive in Claude",
+      "description": "",
+      "published_at": "2026-01-26T19:06:25+00:00",
+      "source_url": "https://www.youtube.com/watch?v=bluAmTHoEow",
+      "thumbnail_url": "https://i.ytimg.com/vi/bluAmTHoEow/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Your tools are now interactive in Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "N5yJJA0NCU0",
+      "company": "Claude（Anthropic）",
+      "title": "AI on campus",
+      "description": "",
+      "published_at": "2026-01-12T22:41:27+00:00",
+      "source_url": "https://www.youtube.com/watch?v=N5yJJA0NCU0",
+      "thumbnail_url": "https://i.ytimg.com/vi/N5yJJA0NCU0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「AI on campus」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "UAmKyyZ-b9E",
+      "company": "Claude（Anthropic）",
+      "title": "Introducing Cowork: Claude Code for the rest of your work",
+      "description": "",
+      "published_at": "2026-01-12T20:02:22+00:00",
+      "source_url": "https://www.youtube.com/watch?v=UAmKyyZ-b9E",
+      "thumbnail_url": "https://i.ytimg.com/vi/UAmKyyZ-b9E/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Introducing Cowork: Claude Code for the rest of your work」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "mM9TY91FECI",
+      "company": "Claude（Anthropic）",
+      "title": "AI's limited self-knowledge",
+      "description": "",
+      "published_at": "2026-01-08T16:07:44+00:00",
+      "source_url": "https://www.youtube.com/watch?v=mM9TY91FECI",
+      "thumbnail_url": "https://i.ytimg.com/vi/mM9TY91FECI/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「AI's limited self-knowledge」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "nvbq39yVYRk",
+      "company": "Claude（Anthropic）",
+      "title": "What is sycophancy in AI models?",
+      "description": "",
+      "published_at": "2025-12-18T20:30:14+00:00",
+      "source_url": "https://www.youtube.com/watch?v=nvbq39yVYRk",
+      "thumbnail_url": "https://i.ytimg.com/vi/nvbq39yVYRk/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「What is sycophancy in AI models?」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
+    },
+    {
+      "id": "rBJnWMD0Pho",
+      "company": "Claude（Anthropic）",
+      "title": "Let Claude handle work in your browser",
+      "description": "",
+      "published_at": "2025-12-18T18:52:03+00:00",
+      "source_url": "https://www.youtube.com/watch?v=rBJnWMD0Pho",
+      "thumbnail_url": "https://i.ytimg.com/vi/rBJnWMD0Pho/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Let Claude handle work in your browser」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "5KTHvKCrQ00",
+      "company": "Claude（Anthropic）",
+      "title": "Claude ran a business in our office",
+      "description": "",
+      "published_at": "2025-12-18T12:04:53+00:00",
+      "source_url": "https://www.youtube.com/watch?v=5KTHvKCrQ00",
+      "thumbnail_url": "https://i.ytimg.com/vi/5KTHvKCrQ00/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Claude ran a business in our office」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "i9U_b-8KKno",
+      "company": "Claude（Anthropic）",
+      "title": "Binti helps social workers license foster families faster with Claude",
+      "description": "",
+      "published_at": "2025-12-17T18:13:19+00:00",
+      "source_url": "https://www.youtube.com/watch?v=i9U_b-8KKno",
+      "thumbnail_url": "https://i.ytimg.com/vi/i9U_b-8KKno/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Binti helps social workers license foster families faster with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
 }
