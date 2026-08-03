@@ -16,6 +16,7 @@ const filterRow = document.querySelector('#companies');
 const navCount = document.querySelector('#favoriteNavCount');
 const titleCount = document.querySelector('#favoriteTitleCount');
 const videoSearch = document.querySelector('#videoSearch');
+const videoSearchForm = document.querySelector('#videoSearchForm');
 const companyClass = { OpenAI: 'openai', 'Google DeepMind': 'google', Anthropic: 'anthropic', 'Meta AI': 'meta', 'Mistral AI': 'mistral' };
 
 function escapeHtml(value = '') { return String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[char])); }
@@ -65,7 +66,9 @@ function handleVideoAction(event) {
   const play = event.target.closest('.play'); if (play) openPlayer(play);
 }
 filterRow.addEventListener('click', (event) => { const button = event.target.closest('.chip'); if (!button) return; selectedCompany = button.dataset.company; renderFilters(); render(); });
-videoSearch.addEventListener('input', (event) => { searchQuery = event.target.value.trim().toLowerCase(); render(); });
+function runSearch() { searchQuery = videoSearch.value.trim().toLowerCase(); render(); document.querySelector('#latest').scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+videoSearch.addEventListener('input', runSearch);
+videoSearchForm.addEventListener('submit', (event) => { event.preventDefault(); runSearch(); });
 grid.addEventListener('click', handleVideoAction); favoriteGrid.addEventListener('click', handleVideoAction);
 document.querySelector('#emailForm').addEventListener('submit', (event) => { event.preventDefault(); document.querySelector('#formMessage').textContent = '已收到，明天开始向你发送每日信号。'; event.currentTarget.reset(); });
 document.querySelector('#subscribeButton').addEventListener('click', () => document.querySelector('#email').focus());
