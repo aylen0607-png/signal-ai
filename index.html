@@ -15,6 +15,11 @@
       .header-search input:focus { border-color: #17222b; }
       .header-search span { position: absolute; left: 12px; top: 7px; color: #6c7770; font-size: 14px; pointer-events: none; }
       .header-search button { border: 0; border-radius: 0 18px 18px 0; background: #17222b; color: #fff; padding: 9px 12px; font: 700 11px Manrope, "Noto Sans SC", sans-serif; cursor: pointer; }
+      .pagination { display:flex; justify-content:center; align-items:center; gap:7px; flex-wrap:wrap; margin:38px 0 0; }
+      .pagination button { min-width:32px; height:32px; border:0; border-radius:50%; background:transparent; color:#5274aa; font:600 15px Manrope, "Noto Sans SC", sans-serif; cursor:pointer; }
+      .pagination button.current { background:#17222b; color:#fff; }
+      .pagination button.next { width:auto; padding:0 12px; border-radius:17px; color:#17222b; }
+      .pagination button:disabled { color:#b9c0bc; cursor:default; }
       @media (max-width: 760px) { .header-search { margin-left: auto; } .header-search input { width: 92px; padding-left: 27px; } .header-search span { left: 9px; } .header-search button { padding: 9px 10px; } .subscribe { display: none; } }
     </style>
   </head>
@@ -69,7 +74,7 @@
         <div class="filter-row" id="companies" aria-label="按公司筛选视频"></div>
         <div class="video-grid" id="videoGrid"></div>
         <p class="empty-state" id="emptyState" hidden>这个公司今天还没有新的精选视频。</p>
-        <button class="load-more" id="loadMore" type="button">加载更早的信号 <span>↓</span></button>
+        <nav class="pagination" id="pagination" aria-label="视频分页"></nav>
       </section>
 
       <section class="newsletter" id="about">

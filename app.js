@@ -1,6 +1,8 @@
 let videos = [];
 let selectedCompany = 'all';
 let searchQuery = '';
+let currentPage = 1;
+const pageSize = 50;
 let favorites = new Set();
 try { favorites = new Set(JSON.parse(localStorage.getItem('signal-ai-favorites') || '[]')); } catch { /* local storage unavailable */ }
 
@@ -17,6 +19,7 @@ const navCount = document.querySelector('#favoriteNavCount');
 const titleCount = document.querySelector('#favoriteTitleCount');
 const videoSearch = document.querySelector('#videoSearch');
 const videoSearchForm = document.querySelector('#videoSearchForm');
+const pagination = document.querySelector('#pagination');
 const companyClass = { OpenAI: 'openai', 'Google DeepMind': 'google', Anthropic: 'anthropic', 'Meta AI': 'meta', 'Mistral AI': 'mistral' };
 
 function escapeHtml(value = '') { return String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[char])); }
@@ -42,15 +45,21 @@ function renderFilters() {
 function render() {
   const companyVideos = selectedCompany === 'all' ? videos : videos.filter((video) => video.company === selectedCompany);
   const shown = companyVideos.filter((video) => !searchQuery || `${video.company} ${video.title} ${video.summary_zh || ''} ${video.marketing_takeaway_zh || ''}`.toLowerCase().includes(searchQuery));
+  const totalPages = Math.max(1, Math.ceil(shown.length / pageSize));
+  currentPage = Math.min(currentPage, totalPages);
+  const pageVideos = shown.slice((currentPage - 1) * pageSize, currentPage * pageSize);
   const savedVideos = videos.filter((video) => favorites.has(video.id));
   count.textContent = String(shown.length).padStart(2, '0');
-  grid.innerHTML = shown.map(cardMarkup).join('');
+  grid.innerHTML = pageVideos.map(cardMarkup).join('');
   favoriteGrid.innerHTML = savedVideos.map(cardMarkup).join('');
   emptyState.hidden = shown.length !== 0;
   if (!shown.length) emptyState.textContent = searchQuery ? `没有找到与“${searchQuery}”相关的视频。` : '这个公司今天还没有新的精选视频。';
   favoritesEmpty.hidden = savedVideos.length !== 0;
   navCount.textContent = savedVideos.length ? `(${savedVideos.length})` : '';
   titleCount.textContent = savedVideos.length ? `(${savedVideos.length})` : '';
+  const firstPage = Math.floor((currentPage - 1) / 10) * 10 + 1;
+  const pageButtons = Array.from({ length: Math.min(10, totalPages - firstPage + 1) }, (_, index) => firstPage + index).map((page) => `<button class="${page === currentPage ? 'current' : ''}" data-page="${page}" type="button" aria-label="第 ${page} 页">${page}</button>`).join('');
+  pagination.innerHTML = totalPages > 1 ? `<button class="next" data-page="${currentPage - 1}" type="button" ${currentPage === 1 ? 'disabled' : ''}>上一页</button>${pageButtons}<button class="next" data-page="${currentPage + 1}" type="button" ${currentPage === totalPages ? 'disabled' : ''}>下一页</button>` : '';
 }
 function saveFavorites() { try { localStorage.setItem('signal-ai-favorites', JSON.stringify([...favorites])); } catch { /* browser privacy mode */ } }
 function closePlayer() { document.querySelector('#playerModal')?.remove(); document.body.style.overflow = ''; }
@@ -65,13 +74,13 @@ function handleVideoAction(event) {
   if (favorite) { favorites.has(favorite.dataset.favoriteId) ? favorites.delete(favorite.dataset.favoriteId) : favorites.add(favorite.dataset.favoriteId); saveFavorites(); render(); return; }
   const play = event.target.closest('.play'); if (play) openPlayer(play);
 }
-filterRow.addEventListener('click', (event) => { const button = event.target.closest('.chip'); if (!button) return; selectedCompany = button.dataset.company; renderFilters(); render(); });
-function runSearch() { searchQuery = videoSearch.value.trim().toLowerCase(); render(); document.querySelector('#latest').scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+filterRow.addEventListener('click', (event) => { const button = event.target.closest('.chip'); if (!button) return; selectedCompany = button.dataset.company; currentPage = 1; renderFilters(); render(); });
+function runSearch() { searchQuery = videoSearch.value.trim().toLowerCase(); currentPage = 1; render(); document.querySelector('#latest').scrollIntoView({ behavior: 'smooth', block: 'start' }); }
 videoSearch.addEventListener('input', runSearch);
 videoSearchForm.addEventListener('submit', (event) => { event.preventDefault(); runSearch(); });
 grid.addEventListener('click', handleVideoAction); favoriteGrid.addEventListener('click', handleVideoAction);
 document.querySelector('#emailForm').addEventListener('submit', (event) => { event.preventDefault(); document.querySelector('#formMessage').textContent = '已收到，明天开始向你发送每日信号。'; event.currentTarget.reset(); });
-document.querySelector('#loadMore').addEventListener('click', (event) => { event.currentTarget.textContent = '已加载全部信号'; event.currentTarget.disabled = true; });
+pagination.addEventListener('click', (event) => { const button = event.target.closest('[data-page]'); if (!button || button.disabled) return; currentPage = Number(button.dataset.page); render(); document.querySelector('#latest').scrollIntoView({ behavior: 'smooth', block: 'start' }); });
 document.querySelector('#backToTop').addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 document.addEventListener('keydown', (event) => { if (event.key === 'Escape') closePlayer(); });
 fetch('data/videos.json').then((response) => response.ok ? response.json() : Promise.reject()).then((feed) => { videos = feed.videos || []; renderFilters(); render(); }).catch(() => { emptyState.hidden = false; emptyState.textContent = '暂无已收集的视频。运行采集脚本后，最新内容会出现在这里。'; });
