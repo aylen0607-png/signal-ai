@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-04T11:11:30.523212+00:00",
+  "updated_at": "2026-08-05T11:05:56.620133+00:00",
   "videos": [
+    {
+      "id": "SJJBPwlPpww",
+      "company": "OpenAI",
+      "title": "How AI Helps Solve Medical Mysteries at Boston Children’s Hospital | OpenAI Forum",
+      "description": "",
+      "published_at": "2026-08-04T20:29:24+00:00",
+      "source_url": "https://www.youtube.com/watch?v=SJJBPwlPpww",
+      "thumbnail_url": "https://i.ytimg.com/vi/SJJBPwlPpww/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How AI Helps Solve Medical Mysteries at Boston Children’s Hospital | OpenAI Forum」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "r64krUavXJU",
+      "company": "OpenAI",
+      "title": "Meet Birding Pal",
+      "description": "",
+      "published_at": "2026-08-04T17:43:45+00:00",
+      "source_url": "https://www.youtube.com/watch?v=r64krUavXJU",
+      "thumbnail_url": "https://i.ytimg.com/vi/r64krUavXJU/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Meet Birding Pal」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "1rczYAFvg7w",
+      "company": "ElevenLabs",
+      "title": "How to detect and redact PII in transcripts with Scribe",
+      "description": "",
+      "published_at": "2026-08-04T16:46:45+00:00",
+      "source_url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
+      "thumbnail_url": "https://i.ytimg.com/vi/1rczYAFvg7w/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@ElevenLabs",
+      "platform": "YouTube",
+      "summary_zh": "ElevenLabs 的官方视频围绕「How to detect and redact PII in transcripts with Scribe」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "XB9PlaofL-Q",
+      "company": "Hugging Face",
+      "title": "Hugging Face Journal Club: Scaling Laws for Pre-training & RL",
+      "description": "",
+      "published_at": "2026-08-04T15:41:14+00:00",
+      "source_url": "https://www.youtube.com/watch?v=XB9PlaofL-Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/XB9PlaofL-Q/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Hugging Face Journal Club: Scaling Laws for Pre-training & RL」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "OEmEfobzodE",
       "company": "Google DeepMind",
@@ -10477,32 +10529,6 @@
       "channel_url": "https://www.youtube.com/@GoogleDeepMind",
       "platform": "YouTube",
       "summary_zh": "Google DeepMind 的官方视频围绕「Genie 3: Creating dynamic worlds that you can navigate in real-time」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "7Ga0H4Tr3Fg",
-      "company": "Runway",
-      "title": "How to Transform Videos with Runway Aleph | Runway Academy",
-      "description": "Learn how to edit and transform videos with Aleph.\n\n0:00 Intro\n0:15 About Aleph\n0:33 Accessing Aleph\n0:46 Prompting with Aleph\n1:39 Using image references\n1:55 Outro\n\n—\n\nrunwayml.com\nacademy.runwayml.com",
-      "published_at": "2025-08-04T18:06:37Z",
-      "source_url": "https://www.youtube.com/watch?v=7Ga0H4Tr3Fg",
-      "thumbnail_url": "https://i.ytimg.com/vi/7Ga0H4Tr3Fg/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@RunwayML",
-      "platform": "YouTube",
-      "summary_zh": "Runway 的官方视频围绕「How to Transform Videos with Runway Aleph | Runway Academy」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "3PxXXbiMoVc",
-      "company": "Adobe Firefly",
-      "title": "The Unfinished Film | Firefly",
-      "description": "🎬 What if a film could keep evolving — shaped by your imagination?\n\nThe Unfinished Film is a bold new experiment where human creativity leads and AI follows, building a story that’s never truly complete using #AdobeFirefly. \n\nDive into how Adobe is exploring the future of storytelling, where artists and AI co-create new worlds.",
-      "published_at": "2025-08-04T17:00:20Z",
-      "source_url": "https://www.youtube.com/watch?v=3PxXXbiMoVc",
-      "thumbnail_url": "https://i.ytimg.com/vi/3PxXXbiMoVc/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Adobe",
-      "platform": "YouTube",
-      "summary_zh": "Adobe Firefly 的官方视频围绕「The Unfinished Film | Firefly」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
