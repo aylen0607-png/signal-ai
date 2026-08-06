@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:05:56.620133+00:00",
+  "updated_at": "2026-08-06T11:07:49.828153+00:00",
   "videos": [
     {
       "id": "SJJBPwlPpww",
@@ -10516,19 +10516,6 @@
       "channel_url": "https://www.youtube.com/@huggingface",
       "platform": "YouTube",
       "summary_zh": "Hugging Face 的官方视频围绕「Gradio's new VIBE MODE」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "PDKhUknuQDg",
-      "company": "Google DeepMind",
-      "title": "Genie 3: Creating dynamic worlds that you can navigate in real-time",
-      "description": "Introducing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds that you can navigate in real time at 24 frames per second, retaining consistency for a few minutes at a resolution of 720p. \n\nWatch the Google DeepMind episode on Genie 3 with Hannah Fry here: https://youtu.be/n5x6yXDj0uo?si=nrTi4wsNIpKF_3ql\n\nOur team has been pioneering research in simulated environments for over a",
-      "published_at": "2025-08-05T14:37:17Z",
-      "source_url": "https://www.youtube.com/watch?v=PDKhUknuQDg",
-      "thumbnail_url": "https://i.ytimg.com/vi/PDKhUknuQDg/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Genie 3: Creating dynamic worlds that you can navigate in real-time」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
