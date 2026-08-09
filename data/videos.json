@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T05:10:59.873983+00:00",
+  "updated_at": "2026-08-09T05:30:25.580628+00:00",
   "videos": [
     {
       "id": "8qpEDpNhzWY",
@@ -25,6 +25,19 @@
       "channel_url": "https://www.youtube.com/@RunwayML",
       "platform": "YouTube",
       "summary_zh": "Runway 的官方视频围绕「Seedance 2.5 is Now Available on Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "zlveLhFb64M",
+      "company": "Google DeepMind",
+      "title": "Talking to Apollo about Gemini Robotics 2 🤖",
+      "description": "",
+      "published_at": "2026-08-07T14:47:11+00:00",
+      "source_url": "https://www.youtube.com/watch?v=zlveLhFb64M",
+      "thumbnail_url": "https://i.ytimg.com/vi/zlveLhFb64M/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「Talking to Apollo about Gemini Robotics 2 🤖」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     },
     {
