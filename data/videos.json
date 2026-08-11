@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T06:20:26.121529+00:00",
+  "updated_at": "2026-08-11T05:39:36.058504+00:00",
   "videos": [
     {
       "id": "SkM4k4SKvCM",
@@ -10452,19 +10452,6 @@
       "platform": "YouTube",
       "summary_zh": "Claude（Anthropic） 的官方视频围绕「Pick up where you left off with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "greS_-1vA_0",
-      "company": "Runway",
-      "title": "Runway This Week | August 10",
-      "description": "New Aleph features and mobile updates, Gen-4 Image Turbo comes to the API and another community showcase. Get caught up on what happened This Week with Runway.\n\n—\n\nrunwayml.com",
-      "published_at": "2025-08-10T13:43:15Z",
-      "source_url": "https://www.youtube.com/watch?v=greS_-1vA_0",
-      "thumbnail_url": "https://i.ytimg.com/vi/greS_-1vA_0/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@RunwayML",
-      "platform": "YouTube",
-      "summary_zh": "Runway 的官方视频围绕「Runway This Week | August 10」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
