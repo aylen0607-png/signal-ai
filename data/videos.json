@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-11T05:39:36.058504+00:00",
+  "updated_at": "2026-08-12T06:56:35.139191+00:00",
   "videos": [
+    {
+      "id": "OEkxKdhtQng",
+      "company": "OpenAI",
+      "title": "How Model ML Uses GPT-5.6 Sol to Get Finance Work Done More Efficiently",
+      "description": "",
+      "published_at": "2026-08-10T13:33:42+00:00",
+      "source_url": "https://www.youtube.com/watch?v=OEkxKdhtQng",
+      "thumbnail_url": "https://i.ytimg.com/vi/OEkxKdhtQng/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Model ML Uses GPT-5.6 Sol to Get Finance Work Done More Efficiently」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
+    },
     {
       "id": "SkM4k4SKvCM",
       "company": "Hugging Face",
@@ -10439,19 +10452,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「AGI progress, surprising breakthroughs, and the road ahead — the OpenAI Podcast Ep. 5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
-    },
-    {
-      "id": "UdoY2l5TZaA",
-      "company": "Claude（Anthropic）",
-      "title": "Pick up where you left off with Claude",
-      "description": "Never lose track of your work again. Claude now remembers your past conversations, so you can seamlessly continue projects, reference previous discussions, and build on your ideas without starting from scratch every time.",
-      "published_at": "2025-08-11T19:11:08Z",
-      "source_url": "https://www.youtube.com/watch?v=UdoY2l5TZaA",
-      "thumbnail_url": "https://i.ytimg.com/vi/UdoY2l5TZaA/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Pick up where you left off with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
     }
   ]
 }
