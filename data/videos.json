@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-22T04:06:23.278335+00:00",
+  "updated_at": "2026-08-23T04:21:28.981581+00:00",
   "videos": [
+    {
+      "id": "4IliQGaQwJ8",
+      "company": "Runway",
+      "title": "Introducing Runway Ruby | Runway",
+      "description": "",
+      "published_at": "2026-08-21T20:47:21+00:00",
+      "source_url": "https://www.youtube.com/watch?v=4IliQGaQwJ8",
+      "thumbnail_url": "https://i.ytimg.com/vi/4IliQGaQwJ8/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Introducing Runway Ruby | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
     {
       "id": "HxahKqN1q2g",
       "company": "Hugging Face",
@@ -83,14 +96,14 @@
       "id": "VIiPvMoEnsY",
       "company": "Adobe Firefly",
       "title": "How To Turn One Image Into Multiple Brand Assets With Adobe Stock’s AI Studio | Adobe Creative Cloud",
-      "description": "Learn how to turn a single #AdobeStock image into multiple assets that match your brand's aesthetic perfectly!\n\n@AlexeiDelaCuesta breaks down his workflow using Adobe Stock AI Studio, from changing the color, editing the type, swapping the background, to even animating the image.  \n\nThis is a game-changer for creatives! Especially when you have tight deadlines and budgets but still need to deliver scroll-stopping content fast. \n\nDo you plan on trying this out for yourself? Let us know in the com",
-      "published_at": "2026-08-17T19:46:56Z",
+      "description": "",
+      "published_at": "2026-08-17T19:46:56+00:00",
       "source_url": "https://www.youtube.com/watch?v=VIiPvMoEnsY",
       "thumbnail_url": "https://i.ytimg.com/vi/VIiPvMoEnsY/hqdefault.jpg",
       "channel_url": "https://www.youtube.com/@Adobe",
       "platform": "YouTube",
       "summary_zh": "Adobe Firefly 的官方视频围绕「How To Turn One Image Into Multiple Brand Assets With Adobe Stock’s AI Studio | Adobe Creative Cloud」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
     },
     {
       "id": "wIf9yMGalPU",
