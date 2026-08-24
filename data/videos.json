@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-23T04:21:28.981581+00:00",
+  "updated_at": "2026-08-24T04:30:29.434337+00:00",
   "videos": [
+    {
+      "id": "VDI4MiD6eh4",
+      "company": "OpenAI",
+      "title": "What Codex Unlocks for NTT Data",
+      "description": "",
+      "published_at": "2026-08-24T01:27:29+00:00",
+      "source_url": "https://www.youtube.com/watch?v=VDI4MiD6eh4",
+      "thumbnail_url": "https://i.ytimg.com/vi/VDI4MiD6eh4/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「What Codex Unlocks for NTT Data」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "4IliQGaQwJ8",
       "company": "Runway",
