@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T04:22:41.814466+00:00",
+  "updated_at": "2026-08-26T04:24:12.420865+00:00",
   "videos": [
     {
       "id": "VDI4MiD6eh4",
@@ -13533,19 +13533,6 @@
       "platform": "YouTube",
       "summary_zh": "Gemini 的官方视频围绕「How Technology is Reshaping Geopolitics  | NYT’s David Sanger & Google’s Kent Walker」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "Saxxa0e6As4",
-      "company": "Gemini",
-      "title": "Take your images into the stratosphere with Image 2 Video in Gemini 🪐✨",
-      "description": "Our latest video generation model, designed to empower filmmakers and storytellers. Veo 3 lets you add sound effects, ambient noise, and even dialogue to your creations – generating all audio natively. It also delivers best in class quality, excelling in physics, realism and prompt adherence.\n\nTry Veo for yourself in Flow or Gemini: https://deepmind.google/models/veo/\n\n#GeminiAI #GenAI #Veo3",
-      "published_at": "2025-08-25T18:55:55Z",
-      "source_url": "https://www.youtube.com/watch?v=Saxxa0e6As4",
-      "thumbnail_url": "https://i.ytimg.com/vi/Saxxa0e6As4/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Take your images into the stratosphere with Image 2 Video in Gemini 🪐✨」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
     }
   ]
 }
