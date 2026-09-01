@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-31T02:08:09.748568+00:00",
+  "updated_at": "2026-09-01T07:43:08.825636+00:00",
   "videos": [
+    {
+      "id": "t4QTo8MSjRU",
+      "company": "Adobe Firefly",
+      "title": "How to match images to your brand’s aesthetic with Adobe Stock AI Studio | Adobe Creative Cloud",
+      "description": "",
+      "published_at": "2026-08-31T20:44:56+00:00",
+      "source_url": "https://www.youtube.com/watch?v=t4QTo8MSjRU",
+      "thumbnail_url": "https://i.ytimg.com/vi/t4QTo8MSjRU/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@Adobe",
+      "platform": "YouTube",
+      "summary_zh": "Adobe Firefly 的官方视频围绕「How to match images to your brand’s aesthetic with Adobe Stock AI Studio | Adobe Creative Cloud」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "c2yCePPnrSA",
+      "company": "Runway",
+      "title": "Introducing Solaris our first Interface World Model | Runway",
+      "description": "",
+      "published_at": "2026-08-31T16:36:02+00:00",
+      "source_url": "https://www.youtube.com/watch?v=c2yCePPnrSA",
+      "thumbnail_url": "https://i.ytimg.com/vi/c2yCePPnrSA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Introducing Solaris our first Interface World Model | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
     {
       "id": "S6TIVzqTmu8",
       "company": "OpenAI",
