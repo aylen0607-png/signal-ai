@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-01T07:43:08.825636+00:00",
+  "updated_at": "2026-09-02T07:00:46.275211+00:00",
   "videos": [
+    {
+      "id": "uVS88gnaxcg",
+      "company": "Claude（Anthropic）",
+      "title": "Meet Claude Fable 5.1",
+      "description": "",
+      "published_at": "2026-09-01T19:21:24+00:00",
+      "source_url": "https://www.youtube.com/watch?v=uVS88gnaxcg",
+      "thumbnail_url": "https://i.ytimg.com/vi/uVS88gnaxcg/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Meet Claude Fable 5.1」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "ROF2Nv_KjOM",
+      "company": "Claude（Anthropic）",
+      "title": "Introducing Claude Fable 5.1",
+      "description": "",
+      "published_at": "2026-09-01T18:02:31+00:00",
+      "source_url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "thumbnail_url": "https://i.ytimg.com/vi/ROF2Nv_KjOM/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Introducing Claude Fable 5.1」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
     {
       "id": "t4QTo8MSjRU",
       "company": "Adobe Firefly",
