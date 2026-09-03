@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-02T07:00:46.275211+00:00",
+  "updated_at": "2026-09-03T07:04:24.987733+00:00",
   "videos": [
+    {
+      "id": "nJV3yUuz6DU",
+      "company": "Hugging Face",
+      "title": "Training Agents 4: From reward functions to environments.",
+      "description": "",
+      "published_at": "2026-09-02T09:41:40+00:00",
+      "source_url": "https://www.youtube.com/watch?v=nJV3yUuz6DU",
+      "thumbnail_url": "https://i.ytimg.com/vi/nJV3yUuz6DU/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Training Agents 4: From reward functions to environments」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "uVS88gnaxcg",
       "company": "Claude（Anthropic）",
@@ -13767,110 +13780,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「GPT-5 reshapes how teams work at Moderna」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "ITMouQ_EuXI",
-      "company": "OpenAI",
-      "title": "Build Hour: GPT-5",
-      "description": "GPT-5 is OpenAI’s most steerable reasoning model yet. This Build Hour walks through its new capabilities, how to use it in the Responses API, and practical prompting techniques for coding and agentic tasks.\n\nBill Chen (Applied AI), Eric Han (Research), and Anoop Kotha (Applied AI) cover:\n- GPT-5 capabilities: stronger code quality, front-end/UI generation, agentic task reliability\n- New parameters: minimal reasoning, verbosity, and free-form function calling\n- Live demo: building a Minecraft clo",
-      "published_at": "2025-09-03T00:22:28Z",
-      "source_url": "https://www.youtube.com/watch?v=ITMouQ_EuXI",
-      "thumbnail_url": "https://i.ytimg.com/vi/ITMouQ_EuXI/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: GPT-5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "8St8elOrRPY",
-      "company": "OpenAI",
-      "title": "Build Hour: Built-In Tools",
-      "description": "Built-in tools let you extend models out of the box without writing custom functions.\n\nThis Build Hour shows you how to use web search, file search, code interpreter, MCP, and image generation directly with the Responses API, with demos of adding these tools to real applications.\n\nKatia Gil Guzman (Developer Experience) covers:\n- What are built-in tools? How do they compare to function calling?\n- Available tools: web search, file search, MCP, code interpreter, computer use, image generation\n- Pl",
-      "published_at": "2025-09-03T00:22:24Z",
-      "source_url": "https://www.youtube.com/watch?v=8St8elOrRPY",
-      "thumbnail_url": "https://i.ytimg.com/vi/8St8elOrRPY/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: Built-In Tools」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "rpj1m0wYs8M",
-      "company": "OpenAI",
-      "title": "Build Hour: Voice Agents",
-      "description": "Voice agents don’t just transcribe anymore — they think, talk, and call tools in real time.\n\nThis Build Hour demos speech-to-speech agents built with the Realtime API and Agents SDK that can handle conversations natively in audio, reason about context, and call tools while streaming speech back to the user.\n\nBrian Fioca and Prashant Mital (Applied AI) cover:\n- Why voice agents now: APIs to the real world, expressive + accessible interactions\n- Architectures: chained speech-to-text vs. end-to-end",
-      "published_at": "2025-09-03T00:22:18Z",
-      "source_url": "https://www.youtube.com/watch?v=rpj1m0wYs8M",
-      "thumbnail_url": "https://i.ytimg.com/vi/rpj1m0wYs8M/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: Voice Agents」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "YWLOo_fc5oA",
-      "company": "OpenAI",
-      "title": "Build Hour: Reinforcement Fine-Tuning",
-      "description": "Reinforcement fine-tuning (RFT) lets you improve how models reason by training with graders instead of large labeled datasets. This Build Hour shows you how to set up tasks, design grading functions, and run efficient training loops with just a few hundred examples.\n\nPrashant Mital and Theophile Sautory (Applied AI) cover:\n- Intro to RFT: optimization, fine-tuning options, RFT benefits\n- Task setup: prompts, graders, and training and validation data\n- Live demo: building and running RFT for a cl",
-      "published_at": "2025-09-03T00:22:09Z",
-      "source_url": "https://www.youtube.com/watch?v=YWLOo_fc5oA",
-      "thumbnail_url": "https://i.ytimg.com/vi/YWLOo_fc5oA/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: Reinforcement Fine-Tuning」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "7E-qdsVEoB8",
-      "company": "OpenAI",
-      "title": "Build Hour: Agentic Tool Calling",
-      "description": "In 2025, agents don’t just think — they run code, call tools, and complete tasks.\n\nThis Build Hour is a hands-on walkthrough of how to design agentic systems that reason and act using OpenAI’s latest APIs and SDKs. \n\nIlan Bigio (Developer Experience) covers:\n- What’s new in 2025: Responses API, Agents SDK, Hosted Tools, Codex, and more\n- Chain of thought concepts: reasoning, tool calling, and long-horizon tasks\n- Live demo: building an agentic task system to process a backlog of tickets\n- Delega",
-      "published_at": "2025-09-03T00:22:05Z",
-      "source_url": "https://www.youtube.com/watch?v=7E-qdsVEoB8",
-      "thumbnail_url": "https://i.ytimg.com/vi/7E-qdsVEoB8/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: Agentic Tool Calling」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "8kM5aDD5gLI",
-      "company": "OpenAI",
-      "title": "Build Hour: Image Gen",
-      "description": "Over 130M people created images with Image Gen in its first week inside ChatGPT. Now, with Image Gen in the API, developers can build the same capabilities directly into their own apps and platforms.This Build Hour walks through gpt-image-1 in the API, with demos on streaming, editing, and masking for real-world apps.\n\nBill Chen (Applied AI) covers:\n- What’s new: text rendering, world knowledge, image inputs\n- New capabilities: streaming, multi-turn editing, masking\n- Best practices: picking the",
-      "published_at": "2025-09-03T00:22:02Z",
-      "source_url": "https://www.youtube.com/watch?v=8kM5aDD5gLI",
-      "thumbnail_url": "https://i.ytimg.com/vi/8kM5aDD5gLI/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: Image Gen」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "iF9iV4xponk",
-      "company": "Claude（Anthropic）",
-      "title": "The future of agentic coding with Claude Code",
-      "description": "Anthropic's Boris Cherny (Claude Code) and Alex Albert (Claude Relations) discuss the current and future state of agentic coding, the evolution of coding models, and designing Claude Code's \"hackability.\" Boris also shares some of his favorite tips for using Claude Code.\n\n0:00 - Introductions\n0:39 - The current state of agentic coding\n5:20 - The evolution of coding models\n7:39 - Coding model evaluation \n8:56 - Claude Code user feedback loops\n10:34 - The “hackability” of Claude Code (CLAUDE.md, M",
-      "published_at": "2025-09-02T16:20:36Z",
-      "source_url": "https://www.youtube.com/watch?v=iF9iV4xponk",
-      "thumbnail_url": "https://i.ytimg.com/vi/iF9iV4xponk/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「The future of agentic coding with Claude Code」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "Iet5eRirzlY",
-      "company": "OpenAI",
-      "title": "Bain accelerates client value with GPT-5",
-      "description": "Bain & Company has embedded GPTs across its business, with dozens of proprietary applications and nearly 25,000 custom versions in use. Gene Rapoport, Partner & AI Leader in the Private Equity practice, shares how GPT-5 drives better outputs — and improved client results — by powering everything through one consistent, flexible model.",
-      "published_at": "2025-09-02T16:00:33Z",
-      "source_url": "https://www.youtube.com/watch?v=Iet5eRirzlY",
-      "thumbnail_url": "https://i.ytimg.com/vi/Iet5eRirzlY/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Bain accelerates client value with GPT-5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
     }
   ]
 }
