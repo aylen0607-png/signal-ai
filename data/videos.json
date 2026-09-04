@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-03T07:04:24.987733+00:00",
+  "updated_at": "2026-09-04T07:08:28.889584+00:00",
   "videos": [
+    {
+      "id": "-TTyyY3VWh8",
+      "company": "OpenAI",
+      "title": "First impressions of GPT-6 Astra from developers",
+      "description": "",
+      "published_at": "2026-09-03T21:20:49+00:00",
+      "source_url": "https://www.youtube.com/watch?v=-TTyyY3VWh8",
+      "thumbnail_url": "https://i.ytimg.com/vi/-TTyyY3VWh8/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「First impressions of GPT-6 Astra from developers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "1QNsdr-Qx_I",
+      "company": "OpenAI",
+      "title": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world.",
+      "description": "",
+      "published_at": "2026-09-03T19:40:03+00:00",
+      "source_url": "https://www.youtube.com/watch?v=1QNsdr-Qx_I",
+      "thumbnail_url": "https://i.ytimg.com/vi/1QNsdr-Qx_I/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Introducing GPT-6 Astra: the most intelligent and aligned model in the world」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "pmjyB-lc4KQ",
+      "company": "Runway",
+      "title": "Introducing GWM Worlds 2, a Playable World Model | Runway",
+      "description": "",
+      "published_at": "2026-09-03T15:51:03+00:00",
+      "source_url": "https://www.youtube.com/watch?v=pmjyB-lc4KQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/pmjyB-lc4KQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Introducing GWM Worlds 2, a Playable World Model | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "_6jZlnRsXXQ",
+      "company": "Google DeepMind",
+      "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
+      "description": "",
+      "published_at": "2026-09-03T14:58:32+00:00",
+      "source_url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/_6jZlnRsXXQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「WeatherNext 3: More accurate, timely, and local weather forecasts」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "nJV3yUuz6DU",
       "company": "Hugging Face",
@@ -13766,19 +13818,6 @@
       "channel_url": "https://www.youtube.com/@OpenAI",
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「Lowe’s gets answers faster with GPT-5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "r84e46MDMdc",
-      "company": "OpenAI",
-      "title": "GPT-5 reshapes how teams work at Moderna",
-      "description": "At Moderna, scientists who have never written code are generating algorithms in minutes in plain English using GPT-5. In this short video, Brice Challamel, Head of AI Products & Innovation, shows where GPT-5 is already influencing his work.",
-      "published_at": "2025-09-03T15:01:36Z",
-      "source_url": "https://www.youtube.com/watch?v=r84e46MDMdc",
-      "thumbnail_url": "https://i.ytimg.com/vi/r84e46MDMdc/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「GPT-5 reshapes how teams work at Moderna」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
