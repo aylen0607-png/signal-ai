@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-09-04T07:08:28.889584+00:00",
+  "updated_at": "2026-09-05T06:51:42.548612+00:00",
   "videos": [
+    {
+      "id": "B-jjnydci50",
+      "company": "OpenAI",
+      "title": "GPT-6 Astra with Ben Davis",
+      "description": "",
+      "published_at": "2026-09-05T00:11:56+00:00",
+      "source_url": "https://www.youtube.com/watch?v=B-jjnydci50",
+      "thumbnail_url": "https://i.ytimg.com/vi/B-jjnydci50/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「GPT-6 Astra with Ben Davis」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "bOC3DisEOfg",
+      "company": "OpenAI",
+      "title": "Introducing GPT-6 Astra for developers",
+      "description": "",
+      "published_at": "2026-09-04T20:22:31+00:00",
+      "source_url": "https://www.youtube.com/watch?v=bOC3DisEOfg",
+      "thumbnail_url": "https://i.ytimg.com/vi/bOC3DisEOfg/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Introducing GPT-6 Astra for developers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "6JqKHBGOV38",
+      "company": "Adobe Firefly",
+      "title": "The Unlock | Generative Recolor in Adobe Illustrator with Carly Berry | Adobe Creative Cloud",
+      "description": "",
+      "published_at": "2026-09-04T19:02:28+00:00",
+      "source_url": "https://www.youtube.com/watch?v=6JqKHBGOV38",
+      "thumbnail_url": "https://i.ytimg.com/vi/6JqKHBGOV38/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@Adobe",
+      "platform": "YouTube",
+      "summary_zh": "Adobe Firefly 的官方视频围绕「The Unlock | Generative Recolor in Adobe Illustrator with Carly Berry | Adobe Creative Cloud」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "5iu0nY9lIy8",
+      "company": "OpenAI",
+      "title": "Use ChatGPT Work to analyze ad performance and refine creative",
+      "description": "",
+      "published_at": "2026-09-04T12:29:12+00:00",
+      "source_url": "https://www.youtube.com/watch?v=5iu0nY9lIy8",
+      "thumbnail_url": "https://i.ytimg.com/vi/5iu0nY9lIy8/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Use ChatGPT Work to analyze ad performance and refine creative」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "D-QteDHdHes",
+      "company": "OpenAI",
+      "title": "Use ChatGPT Work to build custom creative tools",
+      "description": "",
+      "published_at": "2026-09-04T12:27:16+00:00",
+      "source_url": "https://www.youtube.com/watch?v=D-QteDHdHes",
+      "thumbnail_url": "https://i.ytimg.com/vi/D-QteDHdHes/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Use ChatGPT Work to build custom creative tools」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "Ez-anO32D_s",
+      "company": "OpenAI",
+      "title": "Use ChatGPT Images to explore campaign concepts",
+      "description": "",
+      "published_at": "2026-09-04T12:25:30+00:00",
+      "source_url": "https://www.youtube.com/watch?v=Ez-anO32D_s",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ez-anO32D_s/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Use ChatGPT Images to explore campaign concepts」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "N-MJ1W8Vj9E",
+      "company": "OpenAI",
+      "title": "Use ChatGPT Work to create campaign emails",
+      "description": "",
+      "published_at": "2026-09-04T12:23:37+00:00",
+      "source_url": "https://www.youtube.com/watch?v=N-MJ1W8Vj9E",
+      "thumbnail_url": "https://i.ytimg.com/vi/N-MJ1W8Vj9E/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Use ChatGPT Work to create campaign emails」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "HHt8CPJRviA",
+      "company": "OpenAI",
+      "title": "Use ChatGPT Work to pressure-test marketing campaign briefs",
+      "description": "",
+      "published_at": "2026-09-04T12:21:56+00:00",
+      "source_url": "https://www.youtube.com/watch?v=HHt8CPJRviA",
+      "thumbnail_url": "https://i.ytimg.com/vi/HHt8CPJRviA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Use ChatGPT Work to pressure-test marketing campaign briefs」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "NSqlZ1L81nQ",
+      "company": "OpenAI",
+      "title": "Use ChatGPT Work to turn marketing ideas into finished work",
+      "description": "",
+      "published_at": "2026-09-04T12:20:19+00:00",
+      "source_url": "https://www.youtube.com/watch?v=NSqlZ1L81nQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/NSqlZ1L81nQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Use ChatGPT Work to turn marketing ideas into finished work」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "-TTyyY3VWh8",
       "company": "OpenAI",
@@ -13793,32 +13910,6 @@
       "platform": "YouTube",
       "summary_zh": "Runway 的官方视频围绕「Runway This Week | September 6」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "tfGjzwwSvGE",
-      "company": "Gemini",
-      "title": "Get ready for spooky season with a little help from #NanoBanana in Gemini 👻✨",
-      "description": "Image editing in Gemini just got a major upgrade. Imagine yourself in different scenes, combine creative elements, make specific edits and more with help from Nano Banana in the Gemini App.\n\n#GoogleGemini  #NanoBanana #HalloweenCostume \n\nLearn More: https://gemini.google/overview/image-generation/",
-      "published_at": "2025-09-04T20:02:12Z",
-      "source_url": "https://www.youtube.com/watch?v=tfGjzwwSvGE",
-      "thumbnail_url": "https://i.ytimg.com/vi/tfGjzwwSvGE/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Get ready for spooky season with a little help from #NanoBanana in Gemini 👻✨」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "2TK9tFZoBRg",
-      "company": "OpenAI",
-      "title": "Lowe’s gets answers faster with GPT-5",
-      "description": "Lowe’s has built their AI strategy around three pillars: \"how we shop\", \"how we sell\", and \"how we work\". GPT-5 can help all three pillars by holding context longer, applying reasoning across multiple inputs, and reducing the number of steps needed to get to the right answer. Hear more from Chandhu Nair, Senior Vice President of Data, AI, and Innovation at Lowe’s.",
-      "published_at": "2025-09-04T15:47:49Z",
-      "source_url": "https://www.youtube.com/watch?v=2TK9tFZoBRg",
-      "thumbnail_url": "https://i.ytimg.com/vi/2TK9tFZoBRg/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Lowe’s gets answers faster with GPT-5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
 }
