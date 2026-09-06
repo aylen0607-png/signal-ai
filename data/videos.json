@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-05T06:51:42.548612+00:00",
+  "updated_at": "2026-09-06T07:02:16.837948+00:00",
   "videos": [
+    {
+      "id": "XWb1kvU1gG8",
+      "company": "ElevenLabs",
+      "title": "Everything we shipped in August",
+      "description": "",
+      "published_at": "2026-09-05T14:30:22+00:00",
+      "source_url": "https://www.youtube.com/watch?v=XWb1kvU1gG8",
+      "thumbnail_url": "https://i.ytimg.com/vi/XWb1kvU1gG8/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@ElevenLabs",
+      "platform": "YouTube",
+      "summary_zh": "ElevenLabs 的官方视频围绕「Everything we shipped in August」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "B-jjnydci50",
       "company": "OpenAI",
@@ -38,6 +51,32 @@
       "channel_url": "https://www.youtube.com/@Adobe",
       "platform": "YouTube",
       "summary_zh": "Adobe Firefly 的官方视频围绕「The Unlock | Generative Recolor in Adobe Illustrator with Carly Berry | Adobe Creative Cloud」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "y9xup6XEP2o",
+      "company": "Hugging Face",
+      "title": "We shipped 207 WebGPU Kernels for Browser AI",
+      "description": "",
+      "published_at": "2026-09-04T15:38:19+00:00",
+      "source_url": "https://www.youtube.com/watch?v=y9xup6XEP2o",
+      "thumbnail_url": "https://i.ytimg.com/vi/y9xup6XEP2o/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「We shipped 207 WebGPU Kernels for Browser AI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "fE59FYMIttQ",
+      "company": "Runway",
+      "title": "Full Metal Lunchbox | Runway",
+      "description": "",
+      "published_at": "2026-09-04T13:37:35+00:00",
+      "source_url": "https://www.youtube.com/watch?v=fE59FYMIttQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/fE59FYMIttQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Full Metal Lunchbox | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     },
     {
@@ -117,6 +156,19 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「Use ChatGPT Work to turn marketing ideas into finished work」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "8YttDoDINhk",
+      "company": "Hugging Face",
+      "title": "Hugging Face Journal Club: AI Research Preference Models",
+      "description": "",
+      "published_at": "2026-09-04T10:46:51+00:00",
+      "source_url": "https://www.youtube.com/watch?v=8YttDoDINhk",
+      "thumbnail_url": "https://i.ytimg.com/vi/8YttDoDINhk/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Hugging Face Journal Club: AI Research Preference Models」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
     },
     {
       "id": "-TTyyY3VWh8",
