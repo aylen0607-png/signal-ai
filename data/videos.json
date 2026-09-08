@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-07T07:13:39.064979+00:00",
+  "updated_at": "2026-09-08T07:09:14.280411+00:00",
   "videos": [
+    {
+      "id": "QDLlQ5IL2Bk",
+      "company": "OpenAI",
+      "title": "GPT-6 Astra with Tom Krcha",
+      "description": "",
+      "published_at": "2026-09-07T17:15:32+00:00",
+      "source_url": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk",
+      "thumbnail_url": "https://i.ytimg.com/vi/QDLlQ5IL2Bk/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「GPT-6 Astra with Tom Krcha」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "J2nV3d_A1f0",
       "company": "OpenAI",
