@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-09-08T07:09:14.280411+00:00",
+  "updated_at": "2026-09-09T07:16:27.035816+00:00",
   "videos": [
+    {
+      "id": "TlZ4J2OgnZo",
+      "company": "Canva",
+      "title": "Reimagine Student Learning with AI-Powered Lessons",
+      "description": "",
+      "published_at": "2026-09-09T01:58:11+00:00",
+      "source_url": "https://www.youtube.com/watch?v=TlZ4J2OgnZo",
+      "thumbnail_url": "https://i.ytimg.com/vi/TlZ4J2OgnZo/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@Canva",
+      "platform": "YouTube",
+      "summary_zh": "Canva 的官方视频围绕「Reimagine Student Learning with AI-Powered Lessons」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "gkuRNUkYbJA",
+      "company": "Runway",
+      "title": "Runway is now in Adobe | Runway",
+      "description": "",
+      "published_at": "2026-09-08T21:37:30+00:00",
+      "source_url": "https://www.youtube.com/watch?v=gkuRNUkYbJA",
+      "thumbnail_url": "https://i.ytimg.com/vi/gkuRNUkYbJA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Runway is now in Adobe | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "A7MSwdXj86k",
+      "company": "OpenAI",
+      "title": "Introducing GPT-Image-2.5 in the API",
+      "description": "",
+      "published_at": "2026-09-08T19:11:55+00:00",
+      "source_url": "https://www.youtube.com/watch?v=A7MSwdXj86k",
+      "thumbnail_url": "https://i.ytimg.com/vi/A7MSwdXj86k/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Introducing GPT-Image-2.5 in the API」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "-VukmrOT1eE",
+      "company": "OpenAI",
+      "title": "Templates with ChatGPT Images 2.5",
+      "description": "",
+      "published_at": "2026-09-08T18:48:03+00:00",
+      "source_url": "https://www.youtube.com/watch?v=-VukmrOT1eE",
+      "thumbnail_url": "https://i.ytimg.com/vi/-VukmrOT1eE/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Templates with ChatGPT Images 2.5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "imPtIEAEHSU",
+      "company": "OpenAI",
+      "title": "Sketch with ChatGPT Images 2.5",
+      "description": "",
+      "published_at": "2026-09-08T18:46:42+00:00",
+      "source_url": "https://www.youtube.com/watch?v=imPtIEAEHSU",
+      "thumbnail_url": "https://i.ytimg.com/vi/imPtIEAEHSU/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Sketch with ChatGPT Images 2.5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "6l7ble9P74o",
+      "company": "OpenAI",
+      "title": "Introducing ChatGPT Images 2.5",
+      "description": "",
+      "published_at": "2026-09-08T18:44:08+00:00",
+      "source_url": "https://www.youtube.com/watch?v=6l7ble9P74o",
+      "thumbnail_url": "https://i.ytimg.com/vi/6l7ble9P74o/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Introducing ChatGPT Images 2.5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "5DsFr19wJFg",
+      "company": "Hugging Face",
+      "title": "Run Local Models in Pi: llama.cpp, GGUF, and the /llama Command",
+      "description": "",
+      "published_at": "2026-09-08T15:00:00+00:00",
+      "source_url": "https://www.youtube.com/watch?v=5DsFr19wJFg",
+      "thumbnail_url": "https://i.ytimg.com/vi/5DsFr19wJFg/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Run Local Models in Pi: llama.cpp, GGUF, and the /llama Command」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
+    },
+    {
+      "id": "ya04CpsRJH0",
+      "company": "Google DeepMind",
+      "title": "AlphaGenome Atlas: Using AI to find disease causing variants 🧬",
+      "description": "",
+      "published_at": "2026-09-08T14:02:28+00:00",
+      "source_url": "https://www.youtube.com/watch?v=ya04CpsRJH0",
+      "thumbnail_url": "https://i.ytimg.com/vi/ya04CpsRJH0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「AlphaGenome Atlas: Using AI to find disease causing variants 🧬」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "U0aToL5C-bQ",
+      "company": "Google DeepMind",
+      "title": "AlphaGenome Atlas: Understanding the human genome",
+      "description": "",
+      "published_at": "2026-09-08T13:58:27+00:00",
+      "source_url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/U0aToL5C-bQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「AlphaGenome Atlas: Understanding the human genome」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "QDLlQ5IL2Bk",
       "company": "OpenAI",
@@ -13962,32 +14079,6 @@
       "platform": "YouTube",
       "summary_zh": "Claude（Anthropic） 的官方视频围绕「Claude can create and edit files」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "RRuR9s0XKro",
-      "company": "Gemini",
-      "title": "Simplify classwork with AI Mode in Search. Just upload your syllabus PDF to get going.",
-      "description": "Even the best builders could use a little help. 😉 Just upload your syllabus to AI Mode, ask questions, and get a breakdown of everything you need. \n\n#AIMode #GoogleGemini #AIStudyHacks",
-      "published_at": "2025-09-08T21:31:22Z",
-      "source_url": "https://www.youtube.com/watch?v=RRuR9s0XKro",
-      "thumbnail_url": "https://i.ytimg.com/vi/RRuR9s0XKro/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Simplify classwork with AI Mode in Search. Just upload your syllabus PDF to get going」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "WvMqA4Xwx_k",
-      "company": "OpenAI",
-      "title": "Build Hour: Codex",
-      "description": "Codex is now one agent for everywhere you code — connected by your ChatGPT account. This Build Hour is a hands-on walkthrough of how to use all its features, including the new IDE extension and code review.\n\nDominik Kundel (Developer Experience) and Pranav Deshpande (Product Marketing) cover:\n- What’s new with Codex? IDE extension, revamped Codex CLI, code review, and local to cloud handoffs\n- How Codex works: where you can use it, and where it runs\n- Live demos for pair programming with Codex C",
-      "published_at": "2025-09-08T17:38:32Z",
-      "source_url": "https://www.youtube.com/watch?v=WvMqA4Xwx_k",
-      "thumbnail_url": "https://i.ytimg.com/vi/WvMqA4Xwx_k/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: Codex」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
