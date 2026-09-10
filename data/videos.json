@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-09T07:16:27.035816+00:00",
+  "updated_at": "2026-09-10T07:12:41.747762+00:00",
   "videos": [
+    {
+      "id": "kuGjypoJKwk",
+      "company": "OpenAI",
+      "title": "ChatGPT Work, now powered by GPT-6 Astra",
+      "description": "",
+      "published_at": "2026-09-09T21:54:53+00:00",
+      "source_url": "https://www.youtube.com/watch?v=kuGjypoJKwk",
+      "thumbnail_url": "https://i.ytimg.com/vi/kuGjypoJKwk/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「ChatGPT Work, now powered by GPT-6 Astra」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "cmN6XVuLEd4",
+      "company": "OpenAI",
+      "title": "GPT-6 Astra turned London into a game",
+      "description": "",
+      "published_at": "2026-09-09T21:39:53+00:00",
+      "source_url": "https://www.youtube.com/watch?v=cmN6XVuLEd4",
+      "thumbnail_url": "https://i.ytimg.com/vi/cmN6XVuLEd4/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「GPT-6 Astra turned London into a game」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "n-dqdVMwoas",
+      "company": "OpenAI",
+      "title": "GPT-6 Astra First Impressions From Businesses",
+      "description": "",
+      "published_at": "2026-09-09T19:00:16+00:00",
+      "source_url": "https://www.youtube.com/watch?v=n-dqdVMwoas",
+      "thumbnail_url": "https://i.ytimg.com/vi/n-dqdVMwoas/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「GPT-6 Astra First Impressions From Businesses」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "O_EWbnkjXdk",
+      "company": "Google DeepMind",
+      "title": "Can AI help us better predict the weather?",
+      "description": "",
+      "published_at": "2026-09-09T16:10:39+00:00",
+      "source_url": "https://www.youtube.com/watch?v=O_EWbnkjXdk",
+      "thumbnail_url": "https://i.ytimg.com/vi/O_EWbnkjXdk/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「Can AI help us better predict the weather?」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "TlZ4J2OgnZo",
       "company": "Canva",
@@ -14052,32 +14104,6 @@
       "channel_url": "https://www.youtube.com/@Adobe",
       "platform": "YouTube",
       "summary_zh": "Adobe Firefly 的官方视频围绕「Max in a Minute | Eran Stern」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "ioSW__2I-B8",
-      "company": "Gemini",
-      "title": "What is the role of AI in enhancing digital defense? | Gen. David H. Petraeus & Google’s Kent Walker",
-      "description": "Join Kent Walker, Google & Alphabet’s President of Global Affairs, in a wide-ranging conversation with General David H. Petraeus, former Commander of US Forces in Iraq & Afghanistan and former Director of the CIA. They explore the important intersection of technology and international security, examining how innovation is creating both new opportunities and complex challenges. \n#Geopolitics #Technology #NationalSecurity\n\n00:00 - Introduction \n01:04 - Technological Advancements and Geopolitics \n0",
-      "published_at": "2025-09-09T21:02:03Z",
-      "source_url": "https://www.youtube.com/watch?v=ioSW__2I-B8",
-      "thumbnail_url": "https://i.ytimg.com/vi/ioSW__2I-B8/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「What is the role of AI in enhancing digital defense? | Gen. David H. Petraeus & Google’s Kent Walker」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "EV89Ws8Ui9Y",
-      "company": "Claude（Anthropic）",
-      "title": "Claude can create and edit files",
-      "description": "Now Claude can create and work directly with your files, eliminating hours of manual busywork. This doesn't just save time; it brings Claude's analytical power straight into documents, spreadsheets, presentations, and PDFs.",
-      "published_at": "2025-09-09T14:27:44Z",
-      "source_url": "https://www.youtube.com/watch?v=EV89Ws8Ui9Y",
-      "thumbnail_url": "https://i.ytimg.com/vi/EV89Ws8Ui9Y/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Claude can create and edit files」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
