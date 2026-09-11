@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-09-10T07:12:41.747762+00:00",
+  "updated_at": "2026-09-11T07:11:51.952403+00:00",
   "videos": [
+    {
+      "id": "nJV3yUuz6DU",
+      "company": "Hugging Face",
+      "title": "Training Agents 4: From reward functions to environments.",
+      "description": "",
+      "published_at": "2026-09-11T04:27:25+00:00",
+      "source_url": "https://www.youtube.com/watch?v=nJV3yUuz6DU",
+      "thumbnail_url": "https://i.ytimg.com/vi/nJV3yUuz6DU/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Training Agents 4: From reward functions to environments」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "0NUm552iB3U",
+      "company": "OpenAI",
+      "title": "GPT-6 Astra built a font playground",
+      "description": "",
+      "published_at": "2026-09-11T04:08:16+00:00",
+      "source_url": "https://www.youtube.com/watch?v=0NUm552iB3U",
+      "thumbnail_url": "https://i.ytimg.com/vi/0NUm552iB3U/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「GPT-6 Astra built a font playground」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "KjPqQksDnvA",
+      "company": "Runway",
+      "title": "Connect Runway to ChatGPT Astra",
+      "description": "",
+      "published_at": "2026-09-10T21:57:09+00:00",
+      "source_url": "https://www.youtube.com/watch?v=KjPqQksDnvA",
+      "thumbnail_url": "https://i.ytimg.com/vi/KjPqQksDnvA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Connect Runway to ChatGPT Astra」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "2YHa1vhnmK0",
+      "company": "OpenAI",
+      "title": "Introducing the Agents API",
+      "description": "",
+      "published_at": "2026-09-10T19:26:05+00:00",
+      "source_url": "https://www.youtube.com/watch?v=2YHa1vhnmK0",
+      "thumbnail_url": "https://i.ytimg.com/vi/2YHa1vhnmK0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Introducing the Agents API」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "PbfXbDbCthA",
+      "company": "OpenAI",
+      "title": "In Harmony",
+      "description": "",
+      "published_at": "2026-09-10T17:29:32+00:00",
+      "source_url": "https://www.youtube.com/watch?v=PbfXbDbCthA",
+      "thumbnail_url": "https://i.ytimg.com/vi/PbfXbDbCthA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「In Harmony」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "qg_54P-oPgI",
+      "company": "OpenAI",
+      "title": "Two blind brothers using ChatGPT to navigate life and run their nonprofit",
+      "description": "",
+      "published_at": "2026-09-10T16:00:27+00:00",
+      "source_url": "https://www.youtube.com/watch?v=qg_54P-oPgI",
+      "thumbnail_url": "https://i.ytimg.com/vi/qg_54P-oPgI/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Two blind brothers using ChatGPT to navigate life and run their nonprofit」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "mPAmXQnhv2E",
+      "company": "OpenAI",
+      "title": "Helping a small business go big with ChatGPT",
+      "description": "",
+      "published_at": "2026-09-10T16:00:09+00:00",
+      "source_url": "https://www.youtube.com/watch?v=mPAmXQnhv2E",
+      "thumbnail_url": "https://i.ytimg.com/vi/mPAmXQnhv2E/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Helping a small business go big with ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "0XLGisanEAs",
+      "company": "OpenAI",
+      "title": "Discovering new antibiotics with ChatGPT",
+      "description": "",
+      "published_at": "2026-09-10T15:59:55+00:00",
+      "source_url": "https://www.youtube.com/watch?v=0XLGisanEAs",
+      "thumbnail_url": "https://i.ytimg.com/vi/0XLGisanEAs/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Discovering new antibiotics with ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "MSiAd36bGeQ",
+      "company": "OpenAI",
+      "title": "Data agent in ChatGPT Work",
+      "description": "",
+      "published_at": "2026-09-10T15:07:22+00:00",
+      "source_url": "https://www.youtube.com/watch?v=MSiAd36bGeQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/MSiAd36bGeQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Data agent in ChatGPT Work」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "kuGjypoJKwk",
       "company": "OpenAI",
@@ -428,19 +545,6 @@
       "channel_url": "https://www.youtube.com/@GoogleDeepMind",
       "platform": "YouTube",
       "summary_zh": "Google DeepMind 的官方视频围绕「WeatherNext 3: More accurate, timely, and local weather forecasts」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "nJV3yUuz6DU",
-      "company": "Hugging Face",
-      "title": "Training Agents 4: From reward functions to environments.",
-      "description": "",
-      "published_at": "2026-09-02T09:41:40+00:00",
-      "source_url": "https://www.youtube.com/watch?v=nJV3yUuz6DU",
-      "thumbnail_url": "https://i.ytimg.com/vi/nJV3yUuz6DU/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@huggingface",
-      "platform": "YouTube",
-      "summary_zh": "Hugging Face 的官方视频围绕「Training Agents 4: From reward functions to environments」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     },
     {
@@ -14092,19 +14196,6 @@
       "platform": "YouTube",
       "summary_zh": "Runway 的官方视频围绕「Runway This Week | September 13」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "8cXco9GKmuU",
-      "company": "Adobe Firefly",
-      "title": "Max in a Minute | Eran Stern",
-      "description": "Motion designer, (@sternfx1) Eran Stern is here to get things moving! Learn how he uses Adobe Firefly with After Effects for award–winning results at #AdobeMAX 🏆 https://adobe.ly/4mPaC2V",
-      "published_at": "2025-09-10T14:00:44Z",
-      "source_url": "https://www.youtube.com/watch?v=8cXco9GKmuU",
-      "thumbnail_url": "https://i.ytimg.com/vi/8cXco9GKmuU/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Adobe",
-      "platform": "YouTube",
-      "summary_zh": "Adobe Firefly 的官方视频围绕「Max in a Minute | Eran Stern」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
 }
