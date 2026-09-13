@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-12T07:03:43.987994+00:00",
+  "updated_at": "2026-09-13T07:22:29.574142+00:00",
   "videos": [
+    {
+      "id": "SiJGdlmdUms",
+      "company": "OpenAI",
+      "title": "GPT-6 Astra needs less babysitting",
+      "description": "",
+      "published_at": "2026-09-12T15:00:30+00:00",
+      "source_url": "https://www.youtube.com/watch?v=SiJGdlmdUms",
+      "thumbnail_url": "https://i.ytimg.com/vi/SiJGdlmdUms/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「GPT-6 Astra needs less babysitting」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "ZlvkQYZo3ZE",
       "company": "OpenAI",
@@ -199,14 +212,14 @@
     {
       "id": "O_EWbnkjXdk",
       "company": "Google DeepMind",
-      "title": "Can AI help us better predict the weather?",
+      "title": "How AI is transforming weather prediction",
       "description": "",
       "published_at": "2026-09-09T16:10:39+00:00",
       "source_url": "https://www.youtube.com/watch?v=O_EWbnkjXdk",
       "thumbnail_url": "https://i.ytimg.com/vi/O_EWbnkjXdk/hqdefault.jpg",
       "channel_url": "https://www.youtube.com/@GoogleDeepMind",
       "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Can AI help us better predict the weather?」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "summary_zh": "Google DeepMind 的官方视频围绕「How AI is transforming weather prediction」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     },
     {
