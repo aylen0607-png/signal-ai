@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-13T07:22:29.574142+00:00",
+  "updated_at": "2026-09-14T07:47:45.260619+00:00",
   "videos": [
+    {
+      "id": "1gc74VKvyzo",
+      "company": "Canva",
+      "title": "Reimagine Student Learning with AI-Powered Lessons",
+      "description": "",
+      "published_at": "2026-09-14T02:05:54+00:00",
+      "source_url": "https://www.youtube.com/watch?v=1gc74VKvyzo",
+      "thumbnail_url": "https://i.ytimg.com/vi/1gc74VKvyzo/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@Canva",
+      "platform": "YouTube",
+      "summary_zh": "Canva 的官方视频围绕「Reimagine Student Learning with AI-Powered Lessons」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "SiJGdlmdUms",
       "company": "OpenAI",
@@ -14235,19 +14248,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「Codex and the future of coding with AI — the OpenAI Podcast Ep. 6」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "f8s65xJdQkY",
-      "company": "Runway",
-      "title": "Runway This Week | September 13",
-      "description": "New updates and features for workflows, tips on creating seamless transitions when modifying video and a community showcase from our Discord. Get caught up on what happened This Week with Runway.\n\n0:00 Intro\n0:07 New Features (Chat Mode + GameWorlds)\n1:20 Tip & Trick: Whip Pans\n2:00 Community Showcase (Christian Louma)\n2:12 Daily Discord Challenge\n2:38 Outro\n\n—\n\nrunwayml.com",
-      "published_at": "2025-09-13T14:15:01Z",
-      "source_url": "https://www.youtube.com/watch?v=f8s65xJdQkY",
-      "thumbnail_url": "https://i.ytimg.com/vi/f8s65xJdQkY/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@RunwayML",
-      "platform": "YouTube",
-      "summary_zh": "Runway 的官方视频围绕「Runway This Week | September 13」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
