@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-21T07:51:34.136076+00:00",
+  "updated_at": "2026-09-22T07:35:23.902909+00:00",
   "videos": [
+    {
+      "id": "rRm3Vnb7UPY",
+      "company": "OpenAI",
+      "title": "Figma Gave GPT-6 Astra a Moonshot. Here's what happened.",
+      "description": "",
+      "published_at": "2026-09-21T19:25:46+00:00",
+      "source_url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY",
+      "thumbnail_url": "https://i.ytimg.com/vi/rRm3Vnb7UPY/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Figma Gave GPT-6 Astra a Moonshot. Here's what happened」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "p7TjXroM4ak",
+      "company": "OpenAI",
+      "title": "One Prompt. A Feature Built and Tested. | Ramp × GPT-6 Astra",
+      "description": "",
+      "published_at": "2026-09-21T19:22:03+00:00",
+      "source_url": "https://www.youtube.com/watch?v=p7TjXroM4ak",
+      "thumbnail_url": "https://i.ytimg.com/vi/p7TjXroM4ak/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「One Prompt. A Feature Built and Tested. | Ramp × GPT-6 Astra」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "dtNlpZI86Dk",
+      "company": "OpenAI",
+      "title": "“A Staff Engineer Collaborator” | Notion’s First Look at GPT-6 Astra",
+      "description": "",
+      "published_at": "2026-09-21T19:17:35+00:00",
+      "source_url": "https://www.youtube.com/watch?v=dtNlpZI86Dk",
+      "thumbnail_url": "https://i.ytimg.com/vi/dtNlpZI86Dk/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「“A Staff Engineer Collaborator” | Notion’s First Look at GPT-6 Astra」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "4swQ0YknTLs",
+      "company": "OpenAI",
+      "title": "“A Jaw Drop. Literally.” How Cooley Is Reimagining IPOs with OpenAI",
+      "description": "",
+      "published_at": "2026-09-21T19:02:38+00:00",
+      "source_url": "https://www.youtube.com/watch?v=4swQ0YknTLs",
+      "thumbnail_url": "https://i.ytimg.com/vi/4swQ0YknTLs/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「“A Jaw Drop. Literally.” How Cooley Is Reimagining IPOs with OpenAI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "QFxDF30qf_4",
+      "company": "OpenAI",
+      "title": "“It Blew Me Away” | Box’s First Look at GPT-6 Astra",
+      "description": "",
+      "published_at": "2026-09-21T16:13:36+00:00",
+      "source_url": "https://www.youtube.com/watch?v=QFxDF30qf_4",
+      "thumbnail_url": "https://i.ytimg.com/vi/QFxDF30qf_4/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「“It Blew Me Away” | Box’s First Look at GPT-6 Astra」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "3V9CPisNs1g",
       "company": "Hugging Face",
