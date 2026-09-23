@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-22T07:35:23.902909+00:00",
+  "updated_at": "2026-09-23T07:37:53.566810+00:00",
   "videos": [
+    {
+      "id": "4oNzKoODTVA",
+      "company": "Runway",
+      "title": "Introducing DIFFUSE | Runway",
+      "description": "",
+      "published_at": "2026-09-22T17:02:25+00:00",
+      "source_url": "https://www.youtube.com/watch?v=4oNzKoODTVA",
+      "thumbnail_url": "https://i.ytimg.com/vi/4oNzKoODTVA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Introducing DIFFUSE | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
     {
       "id": "rRm3Vnb7UPY",
       "company": "OpenAI",
@@ -14547,32 +14560,6 @@
       "platform": "YouTube",
       "summary_zh": "Gemini 的官方视频围绕「Find the AI Mode button in Google Search to unlock a new dimension of learning」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "rFH3CJgkEAw",
-      "company": "Gemini",
-      "title": "Introducing Gemini for Google TV",
-      "description": "Go from just watching TV to exploring it with Gemini on #GoogleTV. Chat naturally with Gemini to easily find what to watch, get answers to your biggest questions, and simplify everyday tasks. \n\nExperience the magic of Gemini on #GoogleTV today: https://tv.google/ \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www",
-      "published_at": "2025-09-22T18:16:08Z",
-      "source_url": "https://www.youtube.com/watch?v=rFH3CJgkEAw",
-      "thumbnail_url": "https://i.ytimg.com/vi/rFH3CJgkEAw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Introducing Gemini for Google TV」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "YixnhkcDsJU",
-      "company": "Gemini",
-      "title": "Try this Gemini hack to make sure you never miss an important date.",
-      "description": "Overwhelmed by all the information in your syllabus? Let Gemini organize your deadlines so you can focus on your work.",
-      "published_at": "2025-09-22T17:56:00Z",
-      "source_url": "https://www.youtube.com/watch?v=YixnhkcDsJU",
-      "thumbnail_url": "https://i.ytimg.com/vi/YixnhkcDsJU/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Try this Gemini hack to make sure you never miss an important date」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
 }
