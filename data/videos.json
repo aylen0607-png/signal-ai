@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-23T07:37:53.566810+00:00",
+  "updated_at": "2026-09-24T07:29:43.818329+00:00",
   "videos": [
+    {
+      "id": "hcAMFjvwduI",
+      "company": "Runway",
+      "title": "Runway is now in DaVinci Resolve | Runway",
+      "description": "",
+      "published_at": "2026-09-23T20:10:32+00:00",
+      "source_url": "https://www.youtube.com/watch?v=hcAMFjvwduI",
+      "thumbnail_url": "https://i.ytimg.com/vi/hcAMFjvwduI/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Runway is now in DaVinci Resolve | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "rmDu2sSBIrw",
+      "company": "OpenAI",
+      "title": "Today’s forecast? Nothing but 80s, baby.",
+      "description": "",
+      "published_at": "2026-09-23T18:48:52+00:00",
+      "source_url": "https://www.youtube.com/watch?v=rmDu2sSBIrw",
+      "thumbnail_url": "https://i.ytimg.com/vi/rmDu2sSBIrw/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Today’s forecast? Nothing but 80s, baby」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "DdCEmlAydcw",
+      "company": "Claude（Anthropic）",
+      "title": "Inside Anthropic's molecular biology lab",
+      "description": "",
+      "published_at": "2026-09-23T18:01:32+00:00",
+      "source_url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+      "thumbnail_url": "https://i.ytimg.com/vi/DdCEmlAydcw/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@anthropic-ai",
+      "platform": "YouTube",
+      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Inside Anthropic's molecular biology lab」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "96ogPwN9ykM",
+      "company": "OpenAI",
+      "title": "Get Stuff Done with ChatGPT Voice",
+      "description": "",
+      "published_at": "2026-09-23T17:11:13+00:00",
+      "source_url": "https://www.youtube.com/watch?v=96ogPwN9ykM",
+      "thumbnail_url": "https://i.ytimg.com/vi/96ogPwN9ykM/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Get Stuff Done with ChatGPT Voice」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "FL6mI_Br-mc",
+      "company": "Google DeepMind",
+      "title": "Create your own voices with Gemini 3.8 text-to-speech",
+      "description": "",
+      "published_at": "2026-09-23T15:23:38+00:00",
+      "source_url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
+      "thumbnail_url": "https://i.ytimg.com/vi/FL6mI_Br-mc/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「Create your own voices with Gemini 3.8 text-to-speech」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "4oNzKoODTVA",
       "company": "Runway",
@@ -14547,19 +14612,6 @@
       "platform": "YouTube",
       "summary_zh": "Gemini 的官方视频围绕「Got your wires crossed? 📺🤷 Show Search your setup for live, step-by-step help」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "pODu1ZMPyQ0",
-      "company": "Gemini",
-      "title": "Find the AI Mode button in Google Search to unlock a new dimension of learning.",
-      "description": "A universe of discovery is just a tap away 🪐 \n\nTap the AI Mode button in Google Search to ask bigger questions and get clearer answers.\n\n#AIMode #AskAIMode #GoogleGemini",
-      "published_at": "2025-09-23T20:20:39Z",
-      "source_url": "https://www.youtube.com/watch?v=pODu1ZMPyQ0",
-      "thumbnail_url": "https://i.ytimg.com/vi/pODu1ZMPyQ0/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Find the AI Mode button in Google Search to unlock a new dimension of learning」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
