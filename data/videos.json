@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T07:31:37.796350+00:00",
+  "updated_at": "2026-09-26T07:25:34.189132+00:00",
   "videos": [
     {
       "id": "b4qE8cnZO0c",
@@ -14521,84 +14521,6 @@
       "platform": "YouTube",
       "summary_zh": "Gemini 的官方视频围绕「Make the pet of your dreams a reality with Nano Banana」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "3ZEPzxqH_M8",
-      "company": "Gemini",
-      "title": "We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨",
-      "description": "Gemini’s ready to roll, helping demystify the menu, one dish at a time. \n\n#GoogleGemini #Hacks",
-      "published_at": "2025-09-25T19:48:02Z",
-      "source_url": "https://www.youtube.com/watch?v=3ZEPzxqH_M8",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ZEPzxqH_M8/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "nk6IjAnCCqw",
-      "company": "OpenAI",
-      "title": "Introducing ChatGPT Pulse",
-      "description": "Today we’re releasing a preview of ChatGPT Pulse to Pro users—a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps. \n\nEach night ChatGPT learns what matters to you—pulling from memory, chats, and feedback—then delivers focused updates the next day. \n\nExpand updates to dive deeper, grab next steps, or save for later so you stay on track with clear, timely info.\n\n\nPulse is the first step toward a more useful Chat",
-      "published_at": "2025-09-25T17:00:51Z",
-      "source_url": "https://www.youtube.com/watch?v=nk6IjAnCCqw",
-      "thumbnail_url": "https://i.ytimg.com/vi/nk6IjAnCCqw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Introducing ChatGPT Pulse」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "AMRxbIO04kQ",
-      "company": "Google DeepMind",
-      "title": "Gemini Robotics 1.5: Using agentic capabilities",
-      "description": "Gemini Robotics 1.5 can use digital tools to solve tasks. For example, if a robot was asked, “Based on my location, can you sort these objects into the correct compost, recycling and trash bins?\" it would need to search for relevant local recycling guidelines on the internet, look at the objects in front of it and figure out how to sort them based on those rules — and then do all the steps needed to completely put them away. So, to help robots complete these types of complex, multi-step tasks, w",
-      "published_at": "2025-09-25T15:54:12Z",
-      "source_url": "https://www.youtube.com/watch?v=AMRxbIO04kQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/AMRxbIO04kQ/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Gemini Robotics 1.5: Using agentic capabilities」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "9FV5ZYytkOQ",
-      "company": "Google DeepMind",
-      "title": "Gemini Robotics 1.5: Learning across embodiments",
-      "description": "Robots come in all shapes and sizes, and have different sensing capabilities and different degrees of freedom, making it difficult to transfer motions learned from one robot to another. \n\nGemini Robotics 1.5 shows a remarkable ability to learn across different embodiments. It can transfer motions learned from one robot to another, without needing to specialize the model to each new embodiment. This breakthrough accelerates learning new behaviors, helping robots become smarter and more useful. \n\n",
-      "published_at": "2025-09-25T15:54:05Z",
-      "source_url": "https://www.youtube.com/watch?v=9FV5ZYytkOQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/9FV5ZYytkOQ/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Gemini Robotics 1.5: Learning across embodiments」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "UObzWjPb6XM",
-      "company": "Google DeepMind",
-      "title": "Gemini Robotics 1.5: Enabling robots to plan, think and use tools to solve complex tasks",
-      "description": "We’re powering an era of physical agents with Gemini Robotics 1.5 — enabling robots to perceive, plan, think, use tools and act to better solve complex, multi-step tasks.\n\n🤖 Gemini Robotics 1.5 is our most capable vision-language-action (VLA) model that turns visual information and instructions into motor commands for a robot to perform a task. This model thinks before taking action and shows its process, helping robots assess and complete complex tasks more transparently. It also learns across ",
-      "published_at": "2025-09-25T15:54:00Z",
-      "source_url": "https://www.youtube.com/watch?v=UObzWjPb6XM",
-      "thumbnail_url": "https://i.ytimg.com/vi/UObzWjPb6XM/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Gemini Robotics 1.5: Enabling robots to plan, think and use tools to solve complex tasks」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
-    },
-    {
-      "id": "eDyXEh8XqjM",
-      "company": "Google DeepMind",
-      "title": "Gemini Robotics 1.5: Thinking while acting",
-      "description": "Previously, robots could complete one tasks per instruction. Now, they can solve longer multi-step challenges. This means they can generate an internal sequence of reasoning and analysis in natural language to perform tasks that require multiple steps or require a deeper semantic understanding. \n\nLearn more at https://deepmind.google/models/gemini-robotics/\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram",
-      "published_at": "2025-09-25T15:53:55Z",
-      "source_url": "https://www.youtube.com/watch?v=eDyXEh8XqjM",
-      "thumbnail_url": "https://i.ytimg.com/vi/eDyXEh8XqjM/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Gemini Robotics 1.5: Thinking while acting」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
     }
   ]
 }
