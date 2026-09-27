@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T07:25:34.189132+00:00",
+  "updated_at": "2026-09-27T07:56:32.143951+00:00",
   "videos": [
     {
       "id": "b4qE8cnZO0c",
@@ -14495,32 +14495,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「Road Trip with ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "vLIDHi-1PVU",
-      "company": "Claude（Anthropic）",
-      "title": "Designing Claude Code",
-      "description": "Anthropic’s Meaghan Choi (Claude Code) and Alex Albert (Claude Relations) discuss the design principles behind Claude Code, the evolution of the terminal in the age of large-language models (LLMs), and how product designers can prototype new features with agentic coding. \n\n0:00 - Introductions \n00:20 - Claude Code’s design principles\n1:40 - The evolution of the terminal \n3:22 - Mapping the developer workflow to Claude Code\n5:10 - Prompting in the terminal\n6:45 - How we design new features\n8:10 -",
-      "published_at": "2025-09-26T19:48:47Z",
-      "source_url": "https://www.youtube.com/watch?v=vLIDHi-1PVU",
-      "thumbnail_url": "https://i.ytimg.com/vi/vLIDHi-1PVU/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Designing Claude Code」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "IcICF_YF_tI",
-      "company": "Gemini",
-      "title": "Make the pet of your dreams a reality with Nano Banana",
-      "description": "Gemini's state-of-the-art image generation and editing lets you create almost anything. Imagine yourself with a pet dinosaur. Try a new hairstyle. Restore an old photo. Combine two photos into one. It's free for everyone. Go Nano Bananas.\n\nTry it now: https://gemini.google.com/ \nLearn more about Nano Banana: https://gemini.google/overview/image-generation/\nFollow Gemini on Instagram: https://www.instagram.com/googlegemini/ \nLearn about our free pro plan for students: https://gemini.google/studen",
-      "published_at": "2025-09-26T19:46:44Z",
-      "source_url": "https://www.youtube.com/watch?v=IcICF_YF_tI",
-      "thumbnail_url": "https://i.ytimg.com/vi/IcICF_YF_tI/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Make the pet of your dreams a reality with Nano Banana」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
