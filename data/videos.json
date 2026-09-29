@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-28T08:32:12.693457+00:00",
+  "updated_at": "2026-09-29T08:15:54.600915+00:00",
   "videos": [
+    {
+      "id": "6wNqpZdHE_s",
+      "company": "OpenAI",
+      "title": "GPT-6 Astra in practice: Turning ideas into projects",
+      "description": "",
+      "published_at": "2026-09-28T18:05:42+00:00",
+      "source_url": "https://www.youtube.com/watch?v=6wNqpZdHE_s",
+      "thumbnail_url": "https://i.ytimg.com/vi/6wNqpZdHE_s/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「GPT-6 Astra in practice: Turning ideas into projects」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "8NPgswgbTnE",
+      "company": "Gemini",
+      "title": "Testing AI chips to survive in space",
+      "description": "",
+      "published_at": "2026-09-28T14:10:18+00:00",
+      "source_url": "https://www.youtube.com/watch?v=8NPgswgbTnE",
+      "thumbnail_url": "https://i.ytimg.com/vi/8NPgswgbTnE/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@Google",
+      "platform": "YouTube",
+      "summary_zh": "Gemini 的官方视频围绕「Testing AI chips to survive in space」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "4QHFkK2MTcw",
+      "company": "ElevenLabs",
+      "title": "Introducing V4 and V4 Turbo for developers",
+      "description": "",
+      "published_at": "2026-09-28T14:04:17+00:00",
+      "source_url": "https://www.youtube.com/watch?v=4QHFkK2MTcw",
+      "thumbnail_url": "https://i.ytimg.com/vi/4QHFkK2MTcw/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@ElevenLabs",
+      "platform": "YouTube",
+      "summary_zh": "ElevenLabs 的官方视频围绕「Introducing V4 and V4 Turbo for developers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "3jDhHA9JGUE",
+      "company": "OpenAI",
+      "title": "The Defender's Window: Cyber security keynote",
+      "description": "",
+      "published_at": "2026-09-28T13:29:06+00:00",
+      "source_url": "https://www.youtube.com/watch?v=3jDhHA9JGUE",
+      "thumbnail_url": "https://i.ytimg.com/vi/3jDhHA9JGUE/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「The Defender's Window: Cyber security keynote」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "b4qE8cnZO0c",
       "company": "ElevenLabs",
@@ -14456,45 +14508,6 @@
       "platform": "YouTube",
       "summary_zh": "Gemini 的官方视频围绕「Messy roommates? There’s a chart for that. Go from chaos to clean with help from Gemini ✨🧺」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "To04SSylvVY",
-      "company": "OpenAI",
-      "title": "Dish with ChatGPT",
-      "description": "Figure out what meal will impress…and learn how to make it with ChatGPT.\n\n🎧 Music: “Fool” by Perfume Genius",
-      "published_at": "2025-09-28T15:55:14Z",
-      "source_url": "https://www.youtube.com/watch?v=To04SSylvVY",
-      "thumbnail_url": "https://i.ytimg.com/vi/To04SSylvVY/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Dish with ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "IqC3YrIzbQw",
-      "company": "OpenAI",
-      "title": "Pull-Up with ChatGPT",
-      "description": "Get stronger, one pull-up at a time with ChatGPT.\n\n🎧 Music: “Someone, Somewhere (In Summertime)” by Simple Minds",
-      "published_at": "2025-09-28T15:55:06Z",
-      "source_url": "https://www.youtube.com/watch?v=IqC3YrIzbQw",
-      "thumbnail_url": "https://i.ytimg.com/vi/IqC3YrIzbQw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Pull-Up with ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "go4o6jiy8qE",
-      "company": "OpenAI",
-      "title": "Road Trip with ChatGPT",
-      "description": "Plan your next road trip, right down to the playlist, with ChatGPT. \n\n🎧 Music: “Brother Love’s Travelling Salvation Show” by Neil Diamond",
-      "published_at": "2025-09-28T15:55:01Z",
-      "source_url": "https://www.youtube.com/watch?v=go4o6jiy8qE",
-      "thumbnail_url": "https://i.ytimg.com/vi/go4o6jiy8qE/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Road Trip with ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
 }
