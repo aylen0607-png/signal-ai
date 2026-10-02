@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-01T08:39:51.542364+00:00",
+  "updated_at": "2026-10-02T08:17:38.447643+00:00",
   "videos": [
+    {
+      "id": "HU03WDFB_tQ",
+      "company": "Hugging Face",
+      "title": "Build Your Own Open-Source Dots with Pi and Telegram",
+      "description": "",
+      "published_at": "2026-10-02T05:47:34+00:00",
+      "source_url": "https://www.youtube.com/watch?v=HU03WDFB_tQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/HU03WDFB_tQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Build Your Own Open-Source Dots with Pi and Telegram」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "fHEIw5CcN5U",
+      "company": "OpenAI",
+      "title": "The dots demo, take two | OpenAI DevDay 2026",
+      "description": "",
+      "published_at": "2026-10-01T17:20:52+00:00",
+      "source_url": "https://www.youtube.com/watch?v=fHEIw5CcN5U",
+      "thumbnail_url": "https://i.ytimg.com/vi/fHEIw5CcN5U/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「The dots demo, take two | OpenAI DevDay 2026」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "HIUzrxQxTtw",
+      "company": "Google DeepMind",
+      "title": "From deepfakes to DNA: the science of watermarking AI",
+      "description": "",
+      "published_at": "2026-10-01T16:37:46+00:00",
+      "source_url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
+      "thumbnail_url": "https://i.ytimg.com/vi/HIUzrxQxTtw/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「From deepfakes to DNA: the science of watermarking AI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "K7Q7FESRHJY",
+      "company": "Runway",
+      "title": "Introducing Continuum: A Real-Time Video Operating System | Runway Labs",
+      "description": "",
+      "published_at": "2026-10-01T15:45:30+00:00",
+      "source_url": "https://www.youtube.com/watch?v=K7Q7FESRHJY",
+      "thumbnail_url": "https://i.ytimg.com/vi/K7Q7FESRHJY/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Introducing Continuum: A Real-Time Video Operating System | Runway Labs」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
     {
       "id": "sXiLq_3TaAI",
       "company": "Runway",
@@ -14391,84 +14443,6 @@
       "platform": "YouTube",
       "summary_zh": "Claude（Anthropic） 的官方视频围绕「Building the future of agents with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "MkONqpRVFDo",
-      "company": "OpenAI",
-      "title": "Bloopers by Sora 2",
-      "description": "",
-      "published_at": "2025-10-02T00:44:31Z",
-      "source_url": "https://www.youtube.com/watch?v=MkONqpRVFDo",
-      "thumbnail_url": "https://i.ytimg.com/vi/MkONqpRVFDo/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Bloopers by Sora 2」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "2xzoQpJXvTg",
-      "company": "Gemini",
-      "title": "Hear What Matters: The Pixel Buds 2a Experience | Made by Google Podcast S8E5",
-      "description": "In this episode of the Made by Google Podcast, we’re plugging in with the brand new Pixel Buds 2a. Find out how the team packed pro-level Active Noise Cancellation and a massive battery life upgrade into the new A-series buds. Join our host, Rachid Finge, as he chats with Vanessa Pau, Product Manager for Pixel Buds, about the smart trade-offs and clever solutions that make Pixel Buds 2a an incredible value.\n\nDiscover the engineering behind the 1.5x stronger Active Noise Cancellation, the AI-powe",
-      "published_at": "2025-10-01T21:29:01Z",
-      "source_url": "https://www.youtube.com/watch?v=2xzoQpJXvTg",
-      "thumbnail_url": "https://i.ytimg.com/vi/2xzoQpJXvTg/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Hear What Matters: The Pixel Buds 2a Experience | Made by Google Podcast S8E5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "RkXopzfW6Vg",
-      "company": "OpenAI",
-      "title": "GPT-5 unites intent and reasoning for Mercado Libre",
-      "description": "For a company that operates at Mercado Libre’s scale - thousands of internal tools, millions of customers - managing AI agents has meant juggling multiple models for different tasks. Early signs with GPT-5 show how one model can handle conversation, reasoning, and tool use together. Daniel Rabinovich, Mercado Libre’s COO, explains in this short clip.",
-      "published_at": "2025-10-01T21:04:29Z",
-      "source_url": "https://www.youtube.com/watch?v=RkXopzfW6Vg",
-      "thumbnail_url": "https://i.ytimg.com/vi/RkXopzfW6Vg/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「GPT-5 unites intent and reasoning for Mercado Libre」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
-    },
-    {
-      "id": "sbkwv-HVhQU",
-      "company": "Claude（Anthropic）",
-      "title": "Connect Slack to Claude with MCP",
-      "description": "When you connect Slack to Claude using the Slack MCP server, Claude can search your workspace's channels, direct messages, and shared files to find the context you need. Claude helps you prepare for meetings by pulling relevant Slack discussions, gather project updates from multiple channels, and find action items buried in team conversations—all without leaving your chat with Claude.",
-      "published_at": "2025-10-01T18:42:28Z",
-      "source_url": "https://www.youtube.com/watch?v=sbkwv-HVhQU",
-      "thumbnail_url": "https://i.ytimg.com/vi/sbkwv-HVhQU/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Connect Slack to Claude with MCP」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "8dYXU3iiyD0",
-      "company": "Runway",
-      "title": "Imagine a World | Runway",
-      "description": "Imagine a world where anyone can create any world they want. This world is coming, very soon.\n\n—\n\nrunwayml.com",
-      "published_at": "2025-10-01T18:29:31Z",
-      "source_url": "https://www.youtube.com/watch?v=8dYXU3iiyD0",
-      "thumbnail_url": "https://i.ytimg.com/vi/8dYXU3iiyD0/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@RunwayML",
-      "platform": "YouTube",
-      "summary_zh": "Runway 的官方视频围绕「Imagine a World | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "lULd8fmxJC0",
-      "company": "Google DeepMind",
-      "title": "From sketches to prototype: Designing with generative AI",
-      "description": "Using Gemini and Google DeepMind’s generative image technology, we worked with Lovegrove Studio to build a fine-tuned model to act as a prototyping tool to support their creative process. The model translates Ross Lovegrove's distinct design language of organic, fluidlike structures and biomorphic forms into outputs that reflect his style, while also offering new directions. The result is a unique, fine-tuned model that can produce new ideas true to the studio’s vision, demonstrating how AI can ",
-      "published_at": "2025-10-01T16:00:20Z",
-      "source_url": "https://www.youtube.com/watch?v=lULd8fmxJC0",
-      "thumbnail_url": "https://i.ytimg.com/vi/lULd8fmxJC0/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「From sketches to prototype: Designing with generative AI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
