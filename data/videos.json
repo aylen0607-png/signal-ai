@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-02T08:17:38.447643+00:00",
+  "updated_at": "2026-10-03T07:53:59.871190+00:00",
   "videos": [
+    {
+      "id": "dud0gIMVKP0",
+      "company": "ElevenLabs",
+      "title": "Developer Changelog: October Livestream",
+      "description": "",
+      "published_at": "2026-10-03T03:44:19+00:00",
+      "source_url": "https://www.youtube.com/watch?v=dud0gIMVKP0",
+      "thumbnail_url": "https://i.ytimg.com/vi/dud0gIMVKP0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@ElevenLabs",
+      "platform": "YouTube",
+      "summary_zh": "ElevenLabs 的官方视频围绕「Developer Changelog: October Livestream」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "0LsQcnZpyQs",
+      "company": "ElevenLabs",
+      "title": "September Changelog: Eleven v4, Music v2.5, Scribe v2, and more",
+      "description": "",
+      "published_at": "2026-10-02T20:18:06+00:00",
+      "source_url": "https://www.youtube.com/watch?v=0LsQcnZpyQs",
+      "thumbnail_url": "https://i.ytimg.com/vi/0LsQcnZpyQs/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@ElevenLabs",
+      "platform": "YouTube",
+      "summary_zh": "ElevenLabs 的官方视频围绕「September Changelog: Eleven v4, Music v2.5, Scribe v2, and more」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "6ZihC9djN1k",
+      "company": "Runway",
+      "title": "Runway Dev for Fashion Brands | Runway",
+      "description": "",
+      "published_at": "2026-10-02T17:30:30+00:00",
+      "source_url": "https://www.youtube.com/watch?v=6ZihC9djN1k",
+      "thumbnail_url": "https://i.ytimg.com/vi/6ZihC9djN1k/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Runway Dev for Fashion Brands | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "HU03WDFB_tQ",
       "company": "Hugging Face",
@@ -78,19 +117,6 @@
       "platform": "YouTube",
       "summary_zh": "Runway 的官方视频围绕「Introducing Runway Ads | Runway」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "dud0gIMVKP0",
-      "company": "ElevenLabs",
-      "title": "Developer Changelog: October Livestream",
-      "description": "",
-      "published_at": "2026-09-30T17:07:18+00:00",
-      "source_url": "https://www.youtube.com/watch?v=dud0gIMVKP0",
-      "thumbnail_url": "https://i.ytimg.com/vi/dud0gIMVKP0/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@ElevenLabs",
-      "platform": "YouTube",
-      "summary_zh": "ElevenLabs 的官方视频围绕「Developer Changelog: October Livestream」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     },
     {
       "id": "SOSL3A7qIew",
@@ -14430,19 +14456,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「The Quack: Part 1 by Sora 2」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "XuvKFsktX0Q",
-      "company": "Claude（Anthropic）",
-      "title": "Building the future of agents with Claude",
-      "description": "Anthropic’s Alex Albert (Claude Relations), Brad Abrams (Product) and Katelyn Lesse (Engineering) discuss the evolution of building agents with Claude, the latest Claude Developer Platform features, and why agents perform best when developers “unhobble” their model with tools. \n\nLearn more about the Claude Developer Platform: https://www.claude.com/platform/api\n\n00:00 - Introductions \n00:30 - What is the Claude Developer Platform? \n2:30 - What is an AI agent\n3:15 - Building frontier intelligence",
-      "published_at": "2025-10-02T16:00:58Z",
-      "source_url": "https://www.youtube.com/watch?v=XuvKFsktX0Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/XuvKFsktX0Q/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Building the future of agents with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
     }
   ]
 }
