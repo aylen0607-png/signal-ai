@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-06T08:49:41.618607+00:00",
+  "updated_at": "2026-10-07T08:28:11.999978+00:00",
   "videos": [
+    {
+      "id": "FB6oCmrIj-Y",
+      "company": "OpenAI",
+      "title": "Introducing the Decisions API",
+      "description": "",
+      "published_at": "2026-10-06T21:33:36+00:00",
+      "source_url": "https://www.youtube.com/watch?v=FB6oCmrIj-Y",
+      "thumbnail_url": "https://i.ytimg.com/vi/FB6oCmrIj-Y/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Introducing the Decisions API」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
     {
       "id": "q0_JXcrx3jk",
       "company": "OpenAI",
@@ -14391,84 +14404,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「Context Engineering & Coding Agents with Cursor」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "QIdUllqmuls",
-      "company": "OpenAI",
-      "title": "Live from DevDay — the OpenAI Podcast Ep. 7",
-      "description": "The OpenAI Podcast is live for the first time. Host Andrew Mayne sits down with startups Cursor, Abridge, SchoolAI, and Jam.dev—each reimagining how AI can transform their industries. From healthcare and education to coding and collaboration, we explore how these builders are putting AI to work in the real world.\n\nSubscribe to the OpenAI Podcast on Spotify and Apple Podcasts",
-      "published_at": "2025-10-06T19:42:46Z",
-      "source_url": "https://www.youtube.com/watch?v=QIdUllqmuls",
-      "thumbnail_url": "https://i.ytimg.com/vi/QIdUllqmuls/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Live from DevDay — the OpenAI Podcast Ep. 7」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "Yct0MvNtdfU",
-      "company": "Claude（Anthropic）",
-      "title": "Claude Coded: Sonnet 4.5, Claude Code 2.0, and more.",
-      "description": "We're covering everything new with Claude for developers, including the launch of Claude Sonnet 4.5, major updates to Claude Code, powerful new API capabilities, and exciting features in the Claude app.\n\nJoin the Claude Developer Discord - https://anthropic.com/discord\nCheck out the Claude Code Docs - https://docs.claude.com/en/docs/claude-code/overview \nCheck out the Memory Cookbook - https://github.com/anthropics/claude-cookbooks/blob/main/tool_use/memory_cookbook.ipynb \n\n00:06 Claude Sonnet 4",
-      "published_at": "2025-10-06T19:17:34Z",
-      "source_url": "https://www.youtube.com/watch?v=Yct0MvNtdfU",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yct0MvNtdfU/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Claude Coded: Sonnet 4.5, Claude Code 2.0, and more」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "hS1YqcewH0c",
-      "company": "OpenAI",
-      "title": "OpenAI DevDay 2025: Opening Keynote with Sam Altman",
-      "description": "Sam Altman kicks off DevDay 2025 with a keynote to explore ideas that will challenge how you think about building. Join us for announcements, live demos, and a vision of how developers are reshaping the future with AI.",
-      "published_at": "2025-10-06T18:27:04Z",
-      "source_url": "https://www.youtube.com/watch?v=hS1YqcewH0c",
-      "thumbnail_url": "https://i.ytimg.com/vi/hS1YqcewH0c/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「OpenAI DevDay 2025: Opening Keynote with Sam Altman」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "2C4Cs6503gw",
-      "company": "OpenAI",
-      "title": "Apps in ChatGPT",
-      "description": "You can now chat with apps in ChatGPT.\n\nApps in ChatGPT are starting to roll out today to Free, Go, Plus, and Pro users outside of the EU. More pilot partner apps and availability coming soon.",
-      "published_at": "2025-10-06T18:05:28Z",
-      "source_url": "https://www.youtube.com/watch?v=2C4Cs6503gw",
-      "thumbnail_url": "https://i.ytimg.com/vi/2C4Cs6503gw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Apps in ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "44eFf-tRiSg",
-      "company": "OpenAI",
-      "title": "Intro to Agent Builder",
-      "description": "Christina Huang from OpenAI guides you through Agent Builder—a new visual tool to create agentic workflows. \n\nDrag and drop nodes, connect tools, and publish your workflows with ChatKit and the Agents SDK. \n\nhttps://platform.openai.com/agent-builder",
-      "published_at": "2025-10-06T18:00:06Z",
-      "source_url": "https://www.youtube.com/watch?v=44eFf-tRiSg",
-      "thumbnail_url": "https://i.ytimg.com/vi/44eFf-tRiSg/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Intro to Agent Builder」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "szxE119K27A",
-      "company": "Gemini",
-      "title": "Lost the plot? Just ask Google to get the tea. ☕️",
-      "description": "Trying to wrap your head around a new topic? Looking for specific recommendations? Need help deciding between two products? Just ask. Type, talk, snap a photo, or upload an image. AI Mode uses advanced multimodal capabilities to deeply understand your question, no matter how you ask.\n\nAI Mode is our most powerful AI search. Ask whatever's on your mind to get an AI powered response, and explore further with follow-up questions and helpful web links. AI Mode uses Gemini 2.5’s advanced reasoning, t",
-      "published_at": "2025-10-06T16:19:47Z",
-      "source_url": "https://www.youtube.com/watch?v=szxE119K27A",
-      "thumbnail_url": "https://i.ytimg.com/vi/szxE119K27A/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Lost the plot? Just ask Google to get the tea. ☕️」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
