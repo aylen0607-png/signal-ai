@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-10T08:20:11.390786+00:00",
+  "updated_at": "2026-10-11T08:36:47.760396+00:00",
   "videos": [
+    {
+      "id": "Ju-JyxDgV7g",
+      "company": "OpenAI",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "description": "",
+      "published_at": "2026-10-10T21:40:25+00:00",
+      "source_url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ju-JyxDgV7g/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Oracle Uses Codex to Help Business Users Get Answers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "p5KxBTUncoE",
       "company": "OpenAI",
@@ -14429,19 +14442,6 @@
       "channel_url": "https://www.youtube.com/@OpenAI",
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「OpenAI x Broadcom — The OpenAI Podcast Ep. 8」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "8Ox_DOdrP4w",
-      "company": "Gemini",
-      "title": "Unboxing the new Pixel Watch 4 in both sizes",
-      "description": "Meet the #PixelWatch 4 ⌚\n\n✨ Design & Display\n- All-new hardware in two sizes\n- A bigger, brighter domed Actua 360 display with smaller bezels\n- Fluid Material 3 Expressive UI with new customizable watch faces\n\n❤️ Health & Fitness\n- Improved sleep tracking and a next-gen skin temperature sensor\n- New dual-frequency GPS for more accurate route tracking\n- Stream cycling workout stats to your phone in real-time\n\n🔒Performance & Safety\n- Increased battery life (up to 40 hours) and a faster charging sy",
-      "published_at": "2025-10-10T16:17:27Z",
-      "source_url": "https://www.youtube.com/watch?v=8Ox_DOdrP4w",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Ox_DOdrP4w/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Unboxing the new Pixel Watch 4 in both sizes」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
