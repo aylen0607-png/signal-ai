@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-11T08:36:47.760396+00:00",
+  "updated_at": "2026-10-12T08:58:18.273470+00:00",
   "videos": [
+    {
+      "id": "44RXU8Cxoas",
+      "company": "Hugging Face",
+      "title": "Build a Business Dashboard with AI in MINUTES (for dummies...)",
+      "description": "",
+      "published_at": "2026-10-12T04:31:24+00:00",
+      "source_url": "https://www.youtube.com/watch?v=44RXU8Cxoas",
+      "thumbnail_url": "https://i.ytimg.com/vi/44RXU8Cxoas/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Build a Business Dashboard with AI in MINUTES (for dummies...)」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
     {
       "id": "Ju-JyxDgV7g",
       "company": "OpenAI",
