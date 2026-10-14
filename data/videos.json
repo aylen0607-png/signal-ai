@@ -1,6 +1,136 @@
 {
-  "updated_at": "2026-10-13T09:13:28.845820+00:00",
+  "updated_at": "2026-10-14T07:23:44.102434+00:00",
   "videos": [
+    {
+      "id": "G-9Y2xNiDKQ",
+      "company": "OpenAI",
+      "title": "Work with your team in ChatGPT Space",
+      "description": "",
+      "published_at": "2026-10-13T21:01:10+00:00",
+      "source_url": "https://www.youtube.com/watch?v=G-9Y2xNiDKQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-9Y2xNiDKQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Work with your team in ChatGPT Space」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "9aDuSpVoB-Y",
+      "company": "OpenAI",
+      "title": "Block on Finding and Fixing Security Risks with OpenAI",
+      "description": "",
+      "published_at": "2026-10-13T18:02:20+00:00",
+      "source_url": "https://www.youtube.com/watch?v=9aDuSpVoB-Y",
+      "thumbnail_url": "https://i.ytimg.com/vi/9aDuSpVoB-Y/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Block on Finding and Fixing Security Risks with OpenAI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "_X1YtJw-bSA",
+      "company": "Adobe Firefly",
+      "title": "Build teaser assets for a campaign fast using Adobe Stock’s AI Studio | Adobe Creative Cloud",
+      "description": "",
+      "published_at": "2026-10-13T18:01:03+00:00",
+      "source_url": "https://www.youtube.com/watch?v=_X1YtJw-bSA",
+      "thumbnail_url": "https://i.ytimg.com/vi/_X1YtJw-bSA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@Adobe",
+      "platform": "YouTube",
+      "summary_zh": "Adobe Firefly 的官方视频围绕「Build teaser assets for a campaign fast using Adobe Stock’s AI Studio | Adobe Creative Cloud」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "N6K_pxaAh0w",
+      "company": "OpenAI",
+      "title": "Block on Finding and Fixing Security Risks with OpenAI",
+      "description": "",
+      "published_at": "2026-10-13T17:59:33+00:00",
+      "source_url": "https://www.youtube.com/watch?v=N6K_pxaAh0w",
+      "thumbnail_url": "https://i.ytimg.com/vi/N6K_pxaAh0w/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Block on Finding and Fixing Security Risks with OpenAI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "LVEfFyijQ2c",
+      "company": "Google DeepMind",
+      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
+      "description": "",
+      "published_at": "2026-10-13T16:38:17+00:00",
+      "source_url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
+      "thumbnail_url": "https://i.ytimg.com/vi/LVEfFyijQ2c/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「Applying Gemini 4 for large-scale codebase maintenance in Chromium」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "ftkic7Tdpcg",
+      "company": "Google DeepMind",
+      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
+      "description": "",
+      "published_at": "2026-10-13T16:38:14+00:00",
+      "source_url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
+      "thumbnail_url": "https://i.ytimg.com/vi/ftkic7Tdpcg/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「Using Gemini 4 Argon to protect against Cyber attackers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "9PICEmtfpWU",
+      "company": "Google DeepMind",
+      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
+      "description": "",
+      "published_at": "2026-10-13T15:58:20+00:00",
+      "source_url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
+      "thumbnail_url": "https://i.ytimg.com/vi/9PICEmtfpWU/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「Teaching a humanoid robot to play cornhole with Gemini 4 Argon」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "9jQA7IgPhBE",
+      "company": "Google DeepMind",
+      "title": "Untangling 500-page chemistry patents with Gemini 4",
+      "description": "",
+      "published_at": "2026-10-13T15:58:17+00:00",
+      "source_url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
+      "thumbnail_url": "https://i.ytimg.com/vi/9jQA7IgPhBE/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
+      "platform": "YouTube",
+      "summary_zh": "Google DeepMind 的官方视频围绕「Untangling 500-page chemistry patents with Gemini 4」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "TD0bImyg_IM",
+      "company": "OpenAI",
+      "title": "Ride out this sticker storm in style",
+      "description": "",
+      "published_at": "2026-10-13T15:47:28+00:00",
+      "source_url": "https://www.youtube.com/watch?v=TD0bImyg_IM",
+      "thumbnail_url": "https://i.ytimg.com/vi/TD0bImyg_IM/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Ride out this sticker storm in style」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "LNy__Ge8OLQ",
+      "company": "Hugging Face",
+      "title": "I Turned Structured Output Into a Game 🎮",
+      "description": "",
+      "published_at": "2026-10-13T13:20:18+00:00",
+      "source_url": "https://www.youtube.com/watch?v=LNy__Ge8OLQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/LNy__Ge8OLQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「I Turned Structured Output Into a Game 🎮」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "EuN8WCWQf7g",
       "company": "Hugging Face",
@@ -14469,19 +14599,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「Build Hour: Responses API」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "qqAbVTFnfk8",
-      "company": "OpenAI",
-      "title": "OpenAI x Broadcom — The OpenAI Podcast Ep. 8",
-      "description": "OpenAI and  Broadcom are teaming up to design our own chips—bringing lessons from building frontier models straight into the hardware. In partnership with Broadcom and alongside our other partners, we’re creating the next generation of AI infrastructure to meet the world’s growing demand.\n\n\nIn this episode, OpenAI’s Sam Altman and Greg Brockman sit down with Broadcom’s Hock Tan and Charlie Kawwas to announce a new partnership focused on custom AI chips and systems that could redefine what’s poss",
-      "published_at": "2025-10-13T13:00:58Z",
-      "source_url": "https://www.youtube.com/watch?v=qqAbVTFnfk8",
-      "thumbnail_url": "https://i.ytimg.com/vi/qqAbVTFnfk8/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「OpenAI x Broadcom — The OpenAI Podcast Ep. 8」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
