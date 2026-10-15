@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-14T07:23:44.102434+00:00",
+  "updated_at": "2026-10-15T07:14:46.279227+00:00",
   "videos": [
+    {
+      "id": "qaP4pymNrEc",
+      "company": "Hugging Face",
+      "title": "RTX 5090 vs M5 Ultra: Which AI Powerhouse Wins?",
+      "description": "",
+      "published_at": "2026-10-14T19:58:14+00:00",
+      "source_url": "https://www.youtube.com/watch?v=qaP4pymNrEc",
+      "thumbnail_url": "https://i.ytimg.com/vi/qaP4pymNrEc/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「RTX 5090 vs M5 Ultra: Which AI Powerhouse Wins?」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "dGhUFqeITbY",
+      "company": "Hugging Face",
+      "title": "LIVE STREAM: New Open Weight Model: catJAM",
+      "description": "",
+      "published_at": "2026-10-14T19:23:58+00:00",
+      "source_url": "https://www.youtube.com/watch?v=dGhUFqeITbY",
+      "thumbnail_url": "https://i.ytimg.com/vi/dGhUFqeITbY/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「LIVE STREAM: New Open Weight Model: catJAM」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "PZxbaIp8PzE",
+      "company": "OpenAI",
+      "title": "Cooking up a catering business with ChatGPT",
+      "description": "",
+      "published_at": "2026-10-14T17:47:37+00:00",
+      "source_url": "https://www.youtube.com/watch?v=PZxbaIp8PzE",
+      "thumbnail_url": "https://i.ytimg.com/vi/PZxbaIp8PzE/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Cooking up a catering business with ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "H4azmWcqO5g",
+      "company": "Hugging Face",
+      "title": "Local AI 202: Get Massive Speed-ups with Speculative Decoding",
+      "description": "",
+      "published_at": "2026-10-14T12:37:42+00:00",
+      "source_url": "https://www.youtube.com/watch?v=H4azmWcqO5g",
+      "thumbnail_url": "https://i.ytimg.com/vi/H4azmWcqO5g/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Local AI 202: Get Massive Speed-ups with Speculative Decoding」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "DTcK95TAZ-k",
+      "company": "OpenAI",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "description": "",
+      "published_at": "2026-10-14T09:35:27+00:00",
+      "source_url": "https://www.youtube.com/watch?v=DTcK95TAZ-k",
+      "thumbnail_url": "https://i.ytimg.com/vi/DTcK95TAZ-k/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Oracle Uses Codex to Help Business Users Get Answers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "G-9Y2xNiDKQ",
       "company": "OpenAI",
@@ -14573,32 +14638,6 @@
       "platform": "YouTube",
       "summary_zh": "Google DeepMind 的官方视频围绕「Veo 3.1 - Designed to empower creatives」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "iqNzfK4_meQ",
-      "company": "OpenAI",
-      "title": "Using OpenAI Codex CLI with GPT-5-Codex",
-      "description": "Learn how to use the Codex CLI + GPT-5-Codex in just 5 minutes.\n\n\nIn this tutorial, Eason Goodale and Romain Huet show you how to build a multiplayer game with Codex — without writing a single line of code! \n\nTimestamps:\n\n00:00 Intro\n00:50 Planning the multiplayer implementation\n1:38 Using CLI commands\n2:55 Implementing the plan\n3:31 Deploy the game\n4:20 Playing the game\n\n\nTo learn more and get started:\n\nCodex: openai.com/codex \nCodex CLI GitHub repo: https://github.com/openai/codex \nDeveloper d",
-      "published_at": "2025-10-14T18:19:27Z",
-      "source_url": "https://www.youtube.com/watch?v=iqNzfK4_meQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/iqNzfK4_meQ/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Using OpenAI Codex CLI with GPT-5-Codex」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "hNr5EebepYs",
-      "company": "OpenAI",
-      "title": "Build Hour: Responses API",
-      "description": "The Responses API is our flagship API for building agents. This Build Hour shows how the Responses API unlocks persistent reasoning, hosted tools, and multimodal workflows for GPT-5.\n\nSteve Coffey (API Engineering) covers:\n• How to use built-in tools, call multiple tools in one API request, and preserve reasoning tokens across turns\n• How the Responses API is faster and more cost-efficient\n• Live demo: building a simulator to bring a day in the life of an OpenAI engineer to life\n• Live Q&A\n\n👉 Fo",
-      "published_at": "2025-10-14T13:08:17Z",
-      "source_url": "https://www.youtube.com/watch?v=hNr5EebepYs",
-      "thumbnail_url": "https://i.ytimg.com/vi/hNr5EebepYs/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: Responses API」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
     }
   ]
 }
