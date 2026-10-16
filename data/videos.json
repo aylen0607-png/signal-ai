@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T07:14:46.279227+00:00",
+  "updated_at": "2026-10-16T06:57:47.387763+00:00",
   "videos": [
     {
       "id": "qaP4pymNrEc",
@@ -14547,97 +14547,6 @@
       "platform": "YouTube",
       "summary_zh": "Claude（Anthropic） 的官方视频围绕「Connect Claude to Microsoft 365」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "ccQSHQ3VGIc",
-      "company": "Claude（Anthropic）",
-      "title": "Introducing Claude Haiku 4.5",
-      "description": "What was recently frontier is now cheaper and faster. \n\nClaude Haiku 4.5, our latest small model, offers similar levels of coding performance but at one-third the cost and twice the speed of Claude Sonnet 4. From multiple agent projects to rapid prototyping, Haiku 4.5 makes the coding experience more responsive than ever before.\n\nPowered by Haiku 4.5, watch Claude Code design and ship a dark mode toggle for a food delivery app in sub-60 seconds. \n\nLearn more: https://www.anthropic.com/news/claud",
-      "published_at": "2025-10-15T16:55:27Z",
-      "source_url": "https://www.youtube.com/watch?v=ccQSHQ3VGIc",
-      "thumbnail_url": "https://i.ytimg.com/vi/ccQSHQ3VGIc/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Introducing Claude Haiku 4.5」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "yuQ7p3d4LLk",
-      "company": "Google DeepMind",
-      "title": "Veo 3.1 - Add and remove objects to your scene",
-      "description": "Add new elements to any scene. Introduce anything you can imagine, from realistic details to fantastical creatures. Veo now handles complex details like shadows and scene lighting, making the addition look natural.\n\nRemove unwanted objects or characters seamlessly. Soon, you’ll be able to take anything out of a scene, and Veo will reconstruct the background and surroundings, making it look as though the object was never there. \n\nTry it today in Flow at flow.google.\n\nLearn more: https://blog.goog",
-      "published_at": "2025-10-15T15:56:43Z",
-      "source_url": "https://www.youtube.com/watch?v=yuQ7p3d4LLk",
-      "thumbnail_url": "https://i.ytimg.com/vi/yuQ7p3d4LLk/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Veo 3.1 - Add and remove objects to your scene」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "ZFh6gVarloc",
-      "company": "Google DeepMind",
-      "title": "Veo 3.1 - Frames to video",
-      "description": "Control the shot from start to finish. Provide a starting and ending image, and Veo will generate a seamless video that bridges the two, perfect for artful and epic transitions. Try it today in Flow at flow.google.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n____\n\nSubscribe to our channel    / @googledeepmind  \nFind us on X   / googledeepmind  \nFollow us on Instagram   / googledeepmind  \nAdd us on Linkedin   / deepmind",
-      "published_at": "2025-10-15T15:56:35Z",
-      "source_url": "https://www.youtube.com/watch?v=ZFh6gVarloc",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZFh6gVarloc/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Veo 3.1 - Frames to video」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "8Uf6OO-XG00",
-      "company": "Google DeepMind",
-      "title": "Veo 3.1 - Ingredients to video",
-      "description": "With \"Ingredients to Video,\" you can use multiple reference images to control the characters, objects and style. Veo uses your ingredients to create a final scene that looks just as you envisioned. Try it today in Flow at flow.google.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n____\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin htt",
-      "published_at": "2025-10-15T15:56:26Z",
-      "source_url": "https://www.youtube.com/watch?v=8Uf6OO-XG00",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Uf6OO-XG00/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Veo 3.1 - Ingredients to video」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "AuLw1H1opgE",
-      "company": "Google DeepMind",
-      "title": "Veo 3.1 - Create longer, seamless shots",
-      "description": "With \"Extend,\" you can create longer videos, even lasting for a minute or more, that connect to and continue the action from your original clip. Each video is generated based on the final second of your previous clip, making it most useful for creating a longer establishing shot. Try it today in Flow at flow.google.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n____\n\nSubscribe to our channel    / @googledeepmind  \nFind us on X   / googledeepmind  \nFollow us on Instagram   / goo",
-      "published_at": "2025-10-15T15:56:20Z",
-      "source_url": "https://www.youtube.com/watch?v=AuLw1H1opgE",
-      "thumbnail_url": "https://i.ytimg.com/vi/AuLw1H1opgE/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Veo 3.1 - Create longer, seamless shots」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "B78BJuPxmBU",
-      "company": "Google DeepMind",
-      "title": "Veo 3.1 and more artistic control in Flow",
-      "description": "We’re introducing Veo 3.1, which brings richer audio, more narrative control, and enhanced realism that captures true-to-life textures. Veo 3.1 is state-of-the-art and builds on Veo 3, with stronger prompt adherence and improved audiovisual quality when turning images into videos. We’re also introducing new capabilities, and bringing audio to existing capabilities for the first time.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n\n____\n\nSubscribe to our channel https://www.youtu",
-      "published_at": "2025-10-15T15:56:16Z",
-      "source_url": "https://www.youtube.com/watch?v=B78BJuPxmBU",
-      "thumbnail_url": "https://i.ytimg.com/vi/B78BJuPxmBU/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Veo 3.1 and more artistic control in Flow」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "I06Ef8alr2Y",
-      "company": "Google DeepMind",
-      "title": "Veo 3.1 - Designed to empower creatives",
-      "description": "We're giving creators more artistic control with increased support for audio across all features. We’re also bringing audio to existing capabilities like “Ingredients to Video,” “Frames to Video” and “Extend.”\n\nWe’re also introducing Veo 3.1, which brings richer audio, more narrative control, and enhanced realism that captures true-to-life textures. Veo 3.1 is state-of-the-art and builds on Veo 3, with stronger prompt adherence and improved audiovisual quality when turning images into videos.\n\nT",
-      "published_at": "2025-10-15T15:56:09Z",
-      "source_url": "https://www.youtube.com/watch?v=I06Ef8alr2Y",
-      "thumbnail_url": "https://i.ytimg.com/vi/I06Ef8alr2Y/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Veo 3.1 - Designed to empower creatives」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
