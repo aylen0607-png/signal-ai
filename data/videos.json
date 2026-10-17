@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T06:57:47.387763+00:00",
+  "updated_at": "2026-10-17T06:48:27.234045+00:00",
   "videos": [
     {
       "id": "qaP4pymNrEc",
@@ -14495,58 +14495,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「OpenAI Codex in your code editor」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "kv-b6RFRbfI",
-      "company": "Google DeepMind",
-      "title": "Part 2: Social engineering, malware, and the future of cybersecurity in AI | Four Flynn",
-      "description": "In part two, Hannah and Four tackle the human element at the heart of cybersecurity: Who are the bad actors, and what motivates them? They dissect the evolving strategies designed to stop social engineering attacks - like passkeys and risk-based authentication - and confront the complex security and privacy challenges that may be introduced by autonomous agents.\n\nIf you haven't watched part one, start here: https://youtu.be/1gO2bC5xLlo\n\nTimecodes:\n00:00 Intro\n01:30 Bad actors \n08:00 Project Zero",
-      "published_at": "2025-10-16T16:08:50Z",
-      "source_url": "https://www.youtube.com/watch?v=kv-b6RFRbfI",
-      "thumbnail_url": "https://i.ytimg.com/vi/kv-b6RFRbfI/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Part 2: Social engineering, malware, and the future of cybersecurity in AI | Four Flynn」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "kS1MJFZWMq4",
-      "company": "Claude（Anthropic）",
-      "title": "Creating custom Skills with Claude",
-      "description": "The skill-creator Skill guides you through building any custom capability you can imagine. In this example, watch Claude ask clarifying questions and build a complete image editing skill—but you can create Skills for any workflow. No manual file editing required.\nSkills work across Claude.ai, Claude Code, and the API. Available to Pro, Max, Team, and Enterprise users.\nLearn more: https://www.anthropic.com/news/skills",
-      "published_at": "2025-10-16T16:02:10Z",
-      "source_url": "https://www.youtube.com/watch?v=kS1MJFZWMq4",
-      "thumbnail_url": "https://i.ytimg.com/vi/kS1MJFZWMq4/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Creating custom Skills with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "IoqpBKrNaZI",
-      "company": "Claude（Anthropic）",
-      "title": "Agent Skills: Specialized capabilities you can customize",
-      "description": "Claude loads Skills—folders with instructions and resources—to excel at specialized tasks like creating presentations or following your brand guidelines.\nSkills work together seamlessly. Watch Claude use our PowerPoint skill alongside a custom brand guidelines skill, then create concept art with a poster design skill. You can build your own Skills and use them across Claude.ai, Claude Code, and the API.\nLearn more: https://www.anthropic.com/news/skills",
-      "published_at": "2025-10-16T15:58:10Z",
-      "source_url": "https://www.youtube.com/watch?v=IoqpBKrNaZI",
-      "thumbnail_url": "https://i.ytimg.com/vi/IoqpBKrNaZI/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Agent Skills: Specialized capabilities you can customize」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "QTfoYDzqXn0",
-      "company": "Claude（Anthropic）",
-      "title": "Connect Claude to Microsoft 365",
-      "description": "Connect Claude with Microsoft 365 using our MCP connector. Claude integrates with SharePoint, Outlook, and Teams to bring context from your documents, emails, and calendar directly into your conversations. Search across files, analyze email threads, and surface insights to help you reason through complex problems, make informed decisions, and take action faster—all without leaving Claude.",
-      "published_at": "2025-10-16T15:57:23Z",
-      "source_url": "https://www.youtube.com/watch?v=QTfoYDzqXn0",
-      "thumbnail_url": "https://i.ytimg.com/vi/QTfoYDzqXn0/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Connect Claude to Microsoft 365」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
 }
