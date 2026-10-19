@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-10-18T07:08:25.947406+00:00",
+  "updated_at": "2026-10-19T07:35:21.359589+00:00",
   "videos": [
+    {
+      "id": "mEulEkuxCnM",
+      "company": "OpenAI",
+      "title": "This is the new ChatGPT Voice, powered by GPT Live",
+      "description": "",
+      "published_at": "2026-10-19T05:30:13+00:00",
+      "source_url": "https://www.youtube.com/watch?v=mEulEkuxCnM",
+      "thumbnail_url": "https://i.ytimg.com/vi/mEulEkuxCnM/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「This is the new ChatGPT Voice, powered by GPT Live」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "xIEzjwReF2s",
+      "company": "OpenAI",
+      "title": "This is the new ChatGPT Voice, powered by GPT Live",
+      "description": "",
+      "published_at": "2026-10-19T04:30:15+00:00",
+      "source_url": "https://www.youtube.com/watch?v=xIEzjwReF2s",
+      "thumbnail_url": "https://i.ytimg.com/vi/xIEzjwReF2s/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「This is the new ChatGPT Voice, powered by GPT Live」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "-vpwIHxkDFw",
+      "company": "OpenAI",
+      "title": "This is the new ChatGPT Voice, powered by GPT Live",
+      "description": "",
+      "published_at": "2026-10-19T04:30:12+00:00",
+      "source_url": "https://www.youtube.com/watch?v=-vpwIHxkDFw",
+      "thumbnail_url": "https://i.ytimg.com/vi/-vpwIHxkDFw/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「This is the new ChatGPT Voice, powered by GPT Live」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "ti3vVYwzW4A",
+      "company": "Hugging Face",
+      "title": "Pi Durable EXPLAINED: Build Always-On Agents with Local Models",
+      "description": "",
+      "published_at": "2026-10-19T03:34:17+00:00",
+      "source_url": "https://www.youtube.com/watch?v=ti3vVYwzW4A",
+      "thumbnail_url": "https://i.ytimg.com/vi/ti3vVYwzW4A/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Pi Durable EXPLAINED: Build Always-On Agents with Local Models」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "_HVHQpboPzo",
+      "company": "Runway",
+      "title": "AI diplomacy in a divided world | Runway Summit SF 2026",
+      "description": "",
+      "published_at": "2026-10-18T14:00:32+00:00",
+      "source_url": "https://www.youtube.com/watch?v=_HVHQpboPzo",
+      "thumbnail_url": "https://i.ytimg.com/vi/_HVHQpboPzo/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「AI diplomacy in a divided world | Runway Summit SF 2026」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "ZmUFbScM7rQ",
+      "company": "Runway",
+      "title": "From pilot to production: creative AI inside the enterprise | Runway Summit SF 2026",
+      "description": "",
+      "published_at": "2026-10-18T14:00:19+00:00",
+      "source_url": "https://www.youtube.com/watch?v=ZmUFbScM7rQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZmUFbScM7rQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「From pilot to production: creative AI inside the enterprise | Runway Summit SF 2026」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "v2IRGziWRKk",
       "company": "Runway",
@@ -56,14 +134,14 @@
     {
       "id": "OMxEUdIgsQc",
       "company": "OpenAI",
-      "title": "Put ChatGPT to work on shared team tasks",
+      "title": "How teams can automate recurring tasks with ChatGPT",
       "description": "",
       "published_at": "2026-10-16T18:00:49+00:00",
       "source_url": "https://www.youtube.com/watch?v=OMxEUdIgsQc",
       "thumbnail_url": "https://i.ytimg.com/vi/OMxEUdIgsQc/hqdefault.jpg",
       "channel_url": "https://www.youtube.com/@OpenAI",
       "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Put ChatGPT to work on shared team tasks」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "summary_zh": "OpenAI 的官方视频围绕「How teams can automate recurring tasks with ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     },
     {
