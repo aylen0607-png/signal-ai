@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-20T07:22:43.251117+00:00",
+  "updated_at": "2026-10-21T07:23:33.593642+00:00",
   "videos": [
+    {
+      "id": "8n-SXxRIrm8",
+      "company": "OpenAI",
+      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
+      "description": "",
+      "published_at": "2026-10-20T22:57:52+00:00",
+      "source_url": "https://www.youtube.com/watch?v=8n-SXxRIrm8",
+      "thumbnail_url": "https://i.ytimg.com/vi/8n-SXxRIrm8/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Build a Better Shopping Experience with OpenAI | Shopping Agent Demo」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "M36FyDpvCWk",
+      "company": "ElevenLabs",
+      "title": "Introducing Eleven Realtime for developers",
+      "description": "",
+      "published_at": "2026-10-20T15:13:24+00:00",
+      "source_url": "https://www.youtube.com/watch?v=M36FyDpvCWk",
+      "thumbnail_url": "https://i.ytimg.com/vi/M36FyDpvCWk/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@ElevenLabs",
+      "platform": "YouTube",
+      "summary_zh": "ElevenLabs 的官方视频围绕「Introducing Eleven Realtime for developers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "aWu4ZNmGZSA",
+      "company": "Runway",
+      "title": "Scaling laws meet the real world | Runway AI Summit SF 2026",
+      "description": "",
+      "published_at": "2026-10-20T14:00:32+00:00",
+      "source_url": "https://www.youtube.com/watch?v=aWu4ZNmGZSA",
+      "thumbnail_url": "https://i.ytimg.com/vi/aWu4ZNmGZSA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「Scaling laws meet the real world | Runway AI Summit SF 2026」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "suqHEh4_ET0",
+      "company": "Runway",
+      "title": "The infrastructure behind frontier intelligence | Runway AI Summit SF 2026",
+      "description": "",
+      "published_at": "2026-10-20T14:00:07+00:00",
+      "source_url": "https://www.youtube.com/watch?v=suqHEh4_ET0",
+      "thumbnail_url": "https://i.ytimg.com/vi/suqHEh4_ET0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「The infrastructure behind frontier intelligence | Runway AI Summit SF 2026」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "v45XAMqH7pE",
+      "company": "OpenAI",
+      "title": "You need a better headshot.",
+      "description": "",
+      "published_at": "2026-10-20T13:00:34+00:00",
+      "source_url": "https://www.youtube.com/watch?v=v45XAMqH7pE",
+      "thumbnail_url": "https://i.ytimg.com/vi/v45XAMqH7pE/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「You need a better headshot」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "H4azmWcqO5g",
       "company": "Hugging Face",
@@ -14690,58 +14755,6 @@
       "platform": "YouTube",
       "summary_zh": "Gemini 的官方视频围绕「Forget to let the phone eat first? Undo bites with #NanoBanana in Google Search. Tap the 🍌!」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "Twf9TnHkjxI",
-      "company": "Gemini",
-      "title": "Struggling with a manual? Use AI Mode to quickly find answers and simplify the steps.",
-      "description": "Need a manual for your manual? Whether it’s in a different language, hundreds of pages long, or plain confusing, use AI Mode to help you quickly find what you need and simplify the steps.\n\n#AIMode #GoogleSearch",
-      "published_at": "2025-10-20T21:34:36Z",
-      "source_url": "https://www.youtube.com/watch?v=Twf9TnHkjxI",
-      "thumbnail_url": "https://i.ytimg.com/vi/Twf9TnHkjxI/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Struggling with a manual? Use AI Mode to quickly find answers and simplify the steps」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "sHImlfVM9r4",
-      "company": "Claude（Anthropic）",
-      "title": "Introducing Claude for Life Sciences",
-      "description": "Anthropic’s Jonah Cool (Head of Life Sciences Partnerships and Deployment) and Eric Kauderer-Abrams (Head of Biology and Life Sciences Research) share their vision for making Claude the go-to AI research assistant for scientists with Claude for Life Sciences.\n\nThey dive into how Anthropic is building AI that actually works for researchers—helping scientists handle real work like running bioinformatics analysis or creating publication-ready figures and reports.\n\nPlus, hear about partnerships with",
-      "published_at": "2025-10-20T16:10:27Z",
-      "source_url": "https://www.youtube.com/watch?v=sHImlfVM9r4",
-      "thumbnail_url": "https://i.ytimg.com/vi/sHImlfVM9r4/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Introducing Claude for Life Sciences」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "Yiy0cU6ChSw",
-      "company": "Claude（Anthropic）",
-      "title": "Scaling enterprise AI: Fireside chat with Eli Lilly’s Diogo Rau and Dario Amodei",
-      "description": "Dario Amodei, CEO and co-founder at Anthropic, sits down with Diogo Rau, Chief Information and Digital Officer at Eli Lilly and Company, to discuss building enterprise AI for regulated industries like life sciences. \n\nIn his role at Lilly, Diogo is responsible for setting the pharmaceutical leader’s AI strategy, including how organizations use models like Claude to power clinical research and drug development. \n\nThe two discuss Anthropic’s approach to building more steerable and reliable AI for ",
-      "published_at": "2025-10-20T16:10:08Z",
-      "source_url": "https://www.youtube.com/watch?v=Yiy0cU6ChSw",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yiy0cU6ChSw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Scaling enterprise AI: Fireside chat with Eli Lilly’s Diogo Rau and Dario Amodei」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "NfoFdsc2ODQ",
-      "company": "Claude（Anthropic）",
-      "title": "How AbbVie accelerates drug discovery with Claude",
-      "description": "Sarah Nam, VP of AI Strategy and Partnerships at AbbVie, and Anthropic’s Ivy Weng discuss how AbbVie is transforming pharmaceutical research and development with AI. \n\n​​Sarah shares how AbbVie uses Claude for Life Sciences to reimagine drug discovery, from analyzing multimodal biological data to optimizing clinical trials with smarter patient stratification and adaptive protocols.\n\nThey also explore AbbVie’s approach to bringing AI skills to employees across the entire company.\n\nLearn more abou",
-      "published_at": "2025-10-20T16:09:08Z",
-      "source_url": "https://www.youtube.com/watch?v=NfoFdsc2ODQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/NfoFdsc2ODQ/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「How AbbVie accelerates drug discovery with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
     }
   ]
 }
