@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-22T07:24:00.749264+00:00",
+  "updated_at": "2026-10-23T07:17:38.970618+00:00",
   "videos": [
+    {
+      "id": "RLQR5_5fJDA",
+      "company": "OpenAI",
+      "title": "Messi asks ChatGPT to teach him a chess opening",
+      "description": "",
+      "published_at": "2026-10-22T21:58:00+00:00",
+      "source_url": "https://www.youtube.com/watch?v=RLQR5_5fJDA",
+      "thumbnail_url": "https://i.ytimg.com/vi/RLQR5_5fJDA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Messi asks ChatGPT to teach him a chess opening」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "l16Gw7oVLNQ",
+      "company": "OpenAI",
+      "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
+      "description": "",
+      "published_at": "2026-10-22T18:00:13+00:00",
+      "source_url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/l16Gw7oVLNQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Uber rolls out ChatGPT Work to 30,000+ employees」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "W1IYLaWyL70",
+      "company": "Adobe Firefly",
+      "title": "Lock In Character Likeness for AI Posters in Firefly",
+      "description": "",
+      "published_at": "2026-10-22T16:31:08+00:00",
+      "source_url": "https://www.youtube.com/watch?v=W1IYLaWyL70",
+      "thumbnail_url": "https://i.ytimg.com/vi/W1IYLaWyL70/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@Adobe",
+      "platform": "YouTube",
+      "summary_zh": "Adobe Firefly 的官方视频围绕「Lock In Character Likeness for AI Posters in Firefly」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "UC9PdhD6Yxg",
+      "company": "Hugging Face",
+      "title": "Automate CSV to Parquet with Hugging Face Buckets, Webhooks & Jobs",
+      "description": "",
+      "published_at": "2026-10-22T12:56:47+00:00",
+      "source_url": "https://www.youtube.com/watch?v=UC9PdhD6Yxg",
+      "thumbnail_url": "https://i.ytimg.com/vi/UC9PdhD6Yxg/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Automate CSV to Parquet with Hugging Face Buckets, Webhooks & Jobs」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "20IRGgQwPkc",
       "company": "OpenAI",
