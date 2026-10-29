@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-10-28T08:11:03.373854+00:00",
+  "updated_at": "2026-10-29T08:17:58.385340+00:00",
   "videos": [
+    {
+      "id": "ujmyzWSj8IU",
+      "company": "OpenAI",
+      "title": "API credits, now in ChatGPT Pro and Business plans",
+      "description": "",
+      "published_at": "2026-10-28T23:45:26+00:00",
+      "source_url": "https://www.youtube.com/watch?v=ujmyzWSj8IU",
+      "thumbnail_url": "https://i.ytimg.com/vi/ujmyzWSj8IU/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「API credits, now in ChatGPT Pro and Business plans」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "kP26OlW5PBk",
+      "company": "OpenAI",
+      "title": "Merge CEO Shensi Ding: AI fluency starts at the top",
+      "description": "",
+      "published_at": "2026-10-28T11:51:11+00:00",
+      "source_url": "https://www.youtube.com/watch?v=kP26OlW5PBk",
+      "thumbnail_url": "https://i.ytimg.com/vi/kP26OlW5PBk/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Merge CEO Shensi Ding: AI fluency starts at the top」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "6ep8Vvm4Bdw",
+      "company": "OpenAI",
+      "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
+      "description": "",
+      "published_at": "2026-10-28T11:50:26+00:00",
+      "source_url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw",
+      "thumbnail_url": "https://i.ytimg.com/vi/6ep8Vvm4Bdw/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Why Merge CEO Shensi Ding stays hands-on with Codex」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "M2Oa42hF67E",
+      "company": "OpenAI",
+      "title": "From legal bottleneck to business partner | Legora’s Emma Kadri Bergström",
+      "description": "",
+      "published_at": "2026-10-28T09:45:24+00:00",
+      "source_url": "https://www.youtube.com/watch?v=M2Oa42hF67E",
+      "thumbnail_url": "https://i.ytimg.com/vi/M2Oa42hF67E/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「From legal bottleneck to business partner | Legora’s Emma Kadri Bergström」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "UOfmD1fY-i8",
+      "company": "OpenAI",
+      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+      "description": "",
+      "published_at": "2026-10-28T09:45:18+00:00",
+      "source_url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
+      "thumbnail_url": "https://i.ytimg.com/vi/UOfmD1fY-i8/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Building the future of legal work with AI | Legora CEO Max Junestrand」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "z-WZMjNsg-k",
+      "company": "OpenAI",
+      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
+      "description": "",
+      "published_at": "2026-10-28T09:45:16+00:00",
+      "source_url": "https://www.youtube.com/watch?v=z-WZMjNsg-k",
+      "thumbnail_url": "https://i.ytimg.com/vi/z-WZMjNsg-k/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "yJxZef1Ylok",
+      "company": "OpenAI",
+      "title": "How Legora is transforming legal work with OpenAI",
+      "description": "",
+      "published_at": "2026-10-28T09:45:14+00:00",
+      "source_url": "https://www.youtube.com/watch?v=yJxZef1Ylok",
+      "thumbnail_url": "https://i.ytimg.com/vi/yJxZef1Ylok/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Legora is transforming legal work with OpenAI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "_XbBqoX_XoQ",
       "company": "Adobe Firefly",
@@ -15145,19 +15236,6 @@
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「Sam, Jakub, and Wojciech on the future of OpenAI with audience Q&A」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "3NQ9EQX3jnE",
-      "company": "Gemini",
-      "title": "Get a ’90s yearbook makeover with Gemini 🤩",
-      "description": "Who knew #GoogleGemini’s Canvas was a time machine?\nDrop your selfie into the Y2K Yearbook Banana-Matic for quick retro vibes ➡️ http://goo.gle/47uW560",
-      "published_at": "2025-10-28T17:00:40Z",
-      "source_url": "https://www.youtube.com/watch?v=3NQ9EQX3jnE",
-      "thumbnail_url": "https://i.ytimg.com/vi/3NQ9EQX3jnE/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Get a ’90s yearbook makeover with Gemini 🤩」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
