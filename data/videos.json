@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-29T08:17:58.385340+00:00",
+  "updated_at": "2026-10-30T08:25:32.918327+00:00",
   "videos": [
+    {
+      "id": "kAyslsGSxnQ",
+      "company": "ElevenLabs",
+      "title": "ElevenLabs x OpenRouter: Live-casting an LLM Battle Royale",
+      "description": "",
+      "published_at": "2026-10-30T04:53:15+00:00",
+      "source_url": "https://www.youtube.com/watch?v=kAyslsGSxnQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/kAyslsGSxnQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@ElevenLabs",
+      "platform": "YouTube",
+      "summary_zh": "ElevenLabs 的官方视频围绕「ElevenLabs x OpenRouter: Live-casting an LLM Battle Royale」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "GNYHDltnwZQ",
+      "company": "OpenAI",
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "description": "",
+      "published_at": "2026-10-29T22:48:11+00:00",
+      "source_url": "https://www.youtube.com/watch?v=GNYHDltnwZQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/GNYHDltnwZQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「ChatGPT Enterprise at Zendesk: Putting Company Data to Work」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "LfM96HcSaGc",
+      "company": "ElevenLabs",
+      "title": "Introducing SFX v3 for developers",
+      "description": "",
+      "published_at": "2026-10-29T21:09:15+00:00",
+      "source_url": "https://www.youtube.com/watch?v=LfM96HcSaGc",
+      "thumbnail_url": "https://i.ytimg.com/vi/LfM96HcSaGc/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@ElevenLabs",
+      "platform": "YouTube",
+      "summary_zh": "ElevenLabs 的官方视频围绕「Introducing SFX v3 for developers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "L6pzlo1QvoM",
+      "company": "OpenAI",
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "description": "",
+      "published_at": "2026-10-29T16:23:43+00:00",
+      "source_url": "https://www.youtube.com/watch?v=L6pzlo1QvoM",
+      "thumbnail_url": "https://i.ytimg.com/vi/L6pzlo1QvoM/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「ChatGPT Enterprise at Zendesk: Putting Company Data to Work」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "FczbSauVvjw",
+      "company": "Hugging Face",
+      "title": "Science Behind the Open Cyber Frontier with Mistral Large 4",
+      "description": "",
+      "published_at": "2026-10-29T15:15:17+00:00",
+      "source_url": "https://www.youtube.com/watch?v=FczbSauVvjw",
+      "thumbnail_url": "https://i.ytimg.com/vi/FczbSauVvjw/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Science Behind the Open Cyber Frontier with Mistral Large 4」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "ujmyzWSj8IU",
       "company": "OpenAI",
@@ -441,19 +506,6 @@
       "channel_url": "https://www.youtube.com/@OpenAI",
       "platform": "YouTube",
       "summary_zh": "OpenAI 的官方视频围绕「Hunt bugs with your dot」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "kAyslsGSxnQ",
-      "company": "ElevenLabs",
-      "title": "ElevenLabs x OpenRouter: Live-casting an LLM Battle Royale",
-      "description": "",
-      "published_at": "2026-10-23T20:07:55+00:00",
-      "source_url": "https://www.youtube.com/watch?v=kAyslsGSxnQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/kAyslsGSxnQ/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@ElevenLabs",
-      "platform": "YouTube",
-      "summary_zh": "ElevenLabs 的官方视频围绕「ElevenLabs x OpenRouter: Live-casting an LLM Battle Royale」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     },
     {
@@ -15145,97 +15197,6 @@
       "platform": "YouTube",
       "summary_zh": "Claude（Anthropic） 的官方视频围绕「Claude Code updates: When to use Haiku 4.5, Claude Code on web, and more」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "EzfHMvC4bKY",
-      "company": "Gemini",
-      "title": "What’s New in Google Accessibility | Episode 10 | American Sign Language",
-      "description": "Thanks for tuning into another episode of What’s New in Google Accessibility, a series where we share the latest news about our accessibility products and features. In this episode, we'll talk about accessibility features on Meet, captions for Gemini Live, a Gemini powered feature that makes complex text easier to understand, and much more! #WhatsNewInGoogleAccessibility #Accessibility #Google #a11y\n\nCheck out our full series at https://www.youtube.com/playlist?list=PL590L5WQmH8ce6ZPBbh0v1XVptLJ",
-      "published_at": "2025-10-29T21:25:51Z",
-      "source_url": "https://www.youtube.com/watch?v=EzfHMvC4bKY",
-      "thumbnail_url": "https://i.ytimg.com/vi/EzfHMvC4bKY/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「What’s New in Google Accessibility | Episode 10 | American Sign Language」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "h1a7O6UzBdY",
-      "company": "Gemini",
-      "title": "What’s New in Google Accessibility | Episode 10",
-      "description": "Thanks for tuning into another episode of What’s New in Google Accessibility, a series where we share the latest news about our accessibility products and features. In this episode, we'll talk about accessibility features on Meet, captions for Gemini Live, a Gemini powered feature that makes complex text easier to understand, and much more! #WhatsNewInGoogle #Accessibility #Google #a11y\n\nCheck out our full series: https://www.youtube.com/playlist?list=PL590L5WQmH8ce6ZPBbh0v1XVptLJXmQ0K\n\nTo watch",
-      "published_at": "2025-10-29T21:25:13Z",
-      "source_url": "https://www.youtube.com/watch?v=h1a7O6UzBdY",
-      "thumbnail_url": "https://i.ytimg.com/vi/h1a7O6UzBdY/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「What’s New in Google Accessibility | Episode 10」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "sAitLFLbgDA",
-      "company": "OpenAI",
-      "title": "Build Hour: AgentKit",
-      "description": "Introducing AgentKit—build, deploy, and optimize agentic workflows with a complete set of tools. This Build Hour demos how to design workflows visually and embed agentic UIs faster to create multi-step tool-calling agents.\n\nSamarth Madduru (Solutions Engineering), Tasia Potasinski (Product Marketing), and Henry Scott-Green (Product, Platform) cover:\n• Build with Agent Builder- a visual canvas based orchestration tool\n• Deploy with ChatKit- an embeddable, customizable chat UI\n• Optimize with new ",
-      "published_at": "2025-10-29T20:21:06Z",
-      "source_url": "https://www.youtube.com/watch?v=sAitLFLbgDA",
-      "thumbnail_url": "https://i.ytimg.com/vi/sAitLFLbgDA/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Build Hour: AgentKit」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "F76OjIk6_ko",
-      "company": "OpenAI",
-      "title": "ENEOS Materials accelerates manufacturing productivity with ChatGPT Enterprise",
-      "description": "As one of Japan’s earliest adopters of ChatGPT Enterprise, ENEOS Materials built 1,000+ custom GPTs, achieved 90%+ weekly usage, and saw over 80% of employees report significant workflow gains. These capabilities now speed complex investigations, enhance training effectiveness with data-driven insights, and improve engineering safety and design quality across plants.\n\nRead the full story: https://openai.com/index/eneos-materials/",
-      "published_at": "2025-10-29T19:55:03Z",
-      "source_url": "https://www.youtube.com/watch?v=F76OjIk6_ko",
-      "thumbnail_url": "https://i.ytimg.com/vi/F76OjIk6_ko/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「ENEOS Materials accelerates manufacturing productivity with ChatGPT Enterprise」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "vSxQXq0Sxow",
-      "company": "OpenAI",
-      "title": "MIXI accelerates secure, organization-wide adoption of ChatGPT Enterprise",
-      "description": "MIXI deployed ChatGPT Enterprise to all employees in 45 days, reaching 80%+ weekly usage within three months and creating 1,600+ GPTs. Teams now work faster and more confidently, with some projects cutting work hours by over 90% and cross-functional workflows becoming routine.\nRead the full story: https://openai.com/index/mixi/",
-      "published_at": "2025-10-29T19:55:02Z",
-      "source_url": "https://www.youtube.com/watch?v=vSxQXq0Sxow",
-      "thumbnail_url": "https://i.ytimg.com/vi/vSxQXq0Sxow/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「MIXI accelerates secure, organization-wide adoption of ChatGPT Enterprise」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "FivF6p4H4Vw",
-      "company": "Gemini",
-      "title": "Find a costume in your closet with Gemini",
-      "description": "Halloween emergency? #GoogleGemini searches your wardrobe, and #NanoBanana visualizes the final look.",
-      "published_at": "2025-10-29T18:56:44Z",
-      "source_url": "https://www.youtube.com/watch?v=FivF6p4H4Vw",
-      "thumbnail_url": "https://i.ytimg.com/vi/FivF6p4H4Vw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Find a costume in your closet with Gemini」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "ngDCxlZcecw",
-      "company": "OpenAI",
-      "title": "Sam, Jakub, and Wojciech on the future of OpenAI with audience Q&A",
-      "description": "",
-      "published_at": "2025-10-29T16:41:31Z",
-      "source_url": "https://www.youtube.com/watch?v=ngDCxlZcecw",
-      "thumbnail_url": "https://i.ytimg.com/vi/ngDCxlZcecw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Sam, Jakub, and Wojciech on the future of OpenAI with audience Q&A」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     }
   ]
 }
