@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-30T08:25:32.918327+00:00",
+  "updated_at": "2026-10-31T08:15:38.798565+00:00",
   "videos": [
+    {
+      "id": "o4D1J1YWjhg",
+      "company": "OpenAI",
+      "title": "There are many futures. Which do you want to build?",
+      "description": "",
+      "published_at": "2026-10-30T20:17:12+00:00",
+      "source_url": "https://www.youtube.com/watch?v=o4D1J1YWjhg",
+      "thumbnail_url": "https://i.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「There are many futures. Which do you want to build?」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "7TtGMileCus",
+      "company": "OpenAI",
+      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+      "description": "",
+      "published_at": "2026-10-30T15:24:48+00:00",
+      "source_url": "https://www.youtube.com/watch?v=7TtGMileCus",
+      "thumbnail_url": "https://i.ytimg.com/vi/7TtGMileCus/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Gen uses ChatGPT Work to turn data Into decisions | OpenAI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "Oi9DHk57KeQ",
+      "company": "OpenAI",
+      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+      "description": "",
+      "published_at": "2026-10-30T15:22:47+00:00",
+      "source_url": "https://www.youtube.com/watch?v=Oi9DHk57KeQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/Oi9DHk57KeQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Gen uses ChatGPT Work to turn data Into decisions | OpenAI」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "kAyslsGSxnQ",
       "company": "ElevenLabs",
@@ -15171,32 +15210,6 @@
       "platform": "YouTube",
       "summary_zh": "Gemini 的官方视频围绕「Planning a Quick Getaway? Just Ask Google」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "kb9suz-kkoM",
-      "company": "OpenAI",
-      "title": "Introducing: Sora 2 Character Cameos",
-      "description": "Now available in the Sora app.",
-      "published_at": "2025-10-30T19:24:23Z",
-      "source_url": "https://www.youtube.com/watch?v=kb9suz-kkoM",
-      "thumbnail_url": "https://i.ytimg.com/vi/kb9suz-kkoM/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Introducing: Sora 2 Character Cameos」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "CBneTpXF1CQ",
-      "company": "Claude（Anthropic）",
-      "title": "Claude Code updates: When to use Haiku 4.5, Claude Code on web, and more.",
-      "description": "We're covering everything new with Claude for developers, including the launch of Claude Code for the Web, Claude Haiku 4.5, and more.\n\nJoin the Claude Developer Discord - https://anthropic.com/discord\nTry Claude Code on the Web - https://claude.ai/code\n\n00:02 Claude Code on the Web\n00:42 Claude Code on the Web demo\n01:26 Claude Haiku 4.5\n02:10 When to use Haiku 4.5\n02:51 Claude Code on the Web follow-up\n03:05 Claude Code on the Web teleport\n04:44 Summary",
-      "published_at": "2025-10-30T17:03:35Z",
-      "source_url": "https://www.youtube.com/watch?v=CBneTpXF1CQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/CBneTpXF1CQ/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Claude Code updates: When to use Haiku 4.5, Claude Code on web, and more」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
