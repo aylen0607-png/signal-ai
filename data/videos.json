@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-11-03T09:18:47.068806+00:00",
+  "updated_at": "2026-11-04T08:53:36.119131+00:00",
   "videos": [
+    {
+      "id": "NCxD-qsQcN0",
+      "company": "OpenAI",
+      "title": "TamaGPT",
+      "description": "",
+      "published_at": "2026-11-03T18:30:30+00:00",
+      "source_url": "https://www.youtube.com/watch?v=NCxD-qsQcN0",
+      "thumbnail_url": "https://i.ytimg.com/vi/NCxD-qsQcN0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「TamaGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "yC72iQx6rM0",
+      "company": "OpenAI",
+      "title": "Qodo brings company context into Codex code review",
+      "description": "",
+      "published_at": "2026-11-03T18:11:23+00:00",
+      "source_url": "https://www.youtube.com/watch?v=yC72iQx6rM0",
+      "thumbnail_url": "https://i.ytimg.com/vi/yC72iQx6rM0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Qodo brings company context into Codex code review」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "63pcV4z0DwI",
+      "company": "OpenAI",
+      "title": "ChatGPT Voice is now in Finances",
+      "description": "",
+      "published_at": "2026-11-03T18:04:51+00:00",
+      "source_url": "https://www.youtube.com/watch?v=63pcV4z0DwI",
+      "thumbnail_url": "https://i.ytimg.com/vi/63pcV4z0DwI/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「ChatGPT Voice is now in Finances」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "JR7xBi2kJjY",
+      "company": "OpenAI",
+      "title": "Glean on privacy and OpenAI Private Intelligence",
+      "description": "",
+      "published_at": "2026-11-03T16:51:36+00:00",
+      "source_url": "https://www.youtube.com/watch?v=JR7xBi2kJjY",
+      "thumbnail_url": "https://i.ytimg.com/vi/JR7xBi2kJjY/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Glean on privacy and OpenAI Private Intelligence」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "2h16j4K_NbA",
+      "company": "OpenAI",
+      "title": "Glean on privacy and OpenAI Private Intelligence",
+      "description": "",
+      "published_at": "2026-11-03T16:46:37+00:00",
+      "source_url": "https://www.youtube.com/watch?v=2h16j4K_NbA",
+      "thumbnail_url": "https://i.ytimg.com/vi/2h16j4K_NbA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Glean on privacy and OpenAI Private Intelligence」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "hb8WqJqM4SE",
+      "company": "Runway",
+      "title": "The Next Industrial Revolution | inside view",
+      "description": "",
+      "published_at": "2026-11-03T14:35:19+00:00",
+      "source_url": "https://www.youtube.com/watch?v=hb8WqJqM4SE",
+      "thumbnail_url": "https://i.ytimg.com/vi/hb8WqJqM4SE/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@RunwayML",
+      "platform": "YouTube",
+      "summary_zh": "Runway 的官方视频围绕「The Next Industrial Revolution | inside view」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "NbDF90z-g6w",
       "company": "OpenAI",
@@ -15171,32 +15249,6 @@
       "platform": "YouTube",
       "summary_zh": "Gemini 的官方视频围绕「How could AI impact the global economy? | Michael Spence, Mohamed El-Erian, & James Manyika」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
-    },
-    {
-      "id": "T5kaBzDThkY",
-      "company": "Gemini",
-      "title": "Why It Accidentally Got Called Nano Banana 🍌 | Made by Google Podcast S8E8",
-      "description": "Since it launched in the Summer of 2025, people created billions upon billions of images with Nano Banana, the amazing image creator and editor in Google Gemini. Several viral trends were a direct result of the creative stuff you can do with Nano Banana in the blink of an eye. Today, we’re talking to David Sharon, a Group Product Manager for the Gemini App, to learn more about Nano Banana’s quick ascend, what makes it so special and why it’s called Nano Banana. \n\n00:00 Welcome to the Podcast: Da",
-      "published_at": "2025-11-03T18:42:34Z",
-      "source_url": "https://www.youtube.com/watch?v=T5kaBzDThkY",
-      "thumbnail_url": "https://i.ytimg.com/vi/T5kaBzDThkY/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Why It Accidentally Got Called Nano Banana 🍌 | Made by Google Podcast S8E8」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "2WZAFwiiKwg",
-      "company": "Adobe Firefly",
-      "title": "Export and Share Artwork in Adobe Illustrator | Adobe Creative Cloud",
-      "description": "Confidently save and export in Adobe Illustrator—keep editable files, export for print, and share artboards or assets online.\n\nPerfect for sharing polished work across print, digital, and social. Which export method will you try first?\n\nContents of this video:\n00:09 Save editable .AI files\n00:24 Export for print as PDF\n01:00 Export artboards with Export for Screens\n01:43 Export assets with the Asset Export panel\n02:39 Bonus tip: Export multiple formats for print and digital at once\n\nGet free pra",
-      "published_at": "2025-11-03T17:00:04Z",
-      "source_url": "https://www.youtube.com/watch?v=2WZAFwiiKwg",
-      "thumbnail_url": "https://i.ytimg.com/vi/2WZAFwiiKwg/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Adobe",
-      "platform": "YouTube",
-      "summary_zh": "Adobe Firefly 的官方视频围绕「Export and Share Artwork in Adobe Illustrator | Adobe Creative Cloud」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
