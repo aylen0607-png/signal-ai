@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-05T09:16:51.832429+00:00",
+  "updated_at": "2026-11-06T09:10:34.499838+00:00",
   "videos": [
+    {
+      "id": "pXRZyOxbDL4",
+      "company": "OpenAI",
+      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
+      "description": "",
+      "published_at": "2026-11-05T17:14:11+00:00",
+      "source_url": "https://www.youtube.com/watch?v=pXRZyOxbDL4",
+      "thumbnail_url": "https://i.ytimg.com/vi/pXRZyOxbDL4/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Mozilla strengthens Firefox security with GPT-6 Cyber」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "il0dgxjpoC0",
+      "company": "Hugging Face",
+      "title": "Local AI 301: Quantization",
+      "description": "",
+      "published_at": "2026-11-05T11:12:56+00:00",
+      "source_url": "https://www.youtube.com/watch?v=il0dgxjpoC0",
+      "thumbnail_url": "https://i.ytimg.com/vi/il0dgxjpoC0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@huggingface",
+      "platform": "YouTube",
+      "summary_zh": "Hugging Face 的官方视频围绕「Local AI 301: Quantization」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "bJldMYfRvMQ",
       "company": "OpenAI",
@@ -82,14 +108,14 @@
     {
       "id": "NCxD-qsQcN0",
       "company": "OpenAI",
-      "title": "TamaGPT",
+      "title": "Design hardware with Astra",
       "description": "",
       "published_at": "2026-11-03T18:30:30+00:00",
       "source_url": "https://www.youtube.com/watch?v=NCxD-qsQcN0",
       "thumbnail_url": "https://i.ytimg.com/vi/NCxD-qsQcN0/hqdefault.jpg",
       "channel_url": "https://www.youtube.com/@OpenAI",
       "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「TamaGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "summary_zh": "OpenAI 的官方视频围绕「Design hardware with Astra」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
     },
     {
@@ -15288,19 +15314,6 @@
       "platform": "YouTube",
       "summary_zh": "Google DeepMind 的官方视频围绕「Waymo: The future of autonomous driving | Vincent Vanhoucke」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
-    },
-    {
-      "id": "l2rquNXRUWQ",
-      "company": "Gemini",
-      "title": "Pomelli Product Walkthrough | Google Labs",
-      "description": "Introducing Pomelli, our latest experiment from Google Labs. Pomelli is an AI marketing tool that helps you easily generate scalable, on-brand content to connect with your audience faster.  #GoogleLabs #AI \n\nWatch our PM, Daniel, demonstrate how it works. \n\nLearn More → https://blog.google/technology/google-labs/pomelli/\nTry Pomelli → https://labs.google.com/pomelli/about/\n\nSpeaker: Daniel Adonai\nProducts Mentioned: Pomelli\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: ",
-      "published_at": "2025-11-05T17:40:53Z",
-      "source_url": "https://www.youtube.com/watch?v=l2rquNXRUWQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/l2rquNXRUWQ/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Pomelli Product Walkthrough | Google Labs」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
