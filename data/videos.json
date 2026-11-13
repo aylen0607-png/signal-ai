@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-12T09:36:43.862352+00:00",
+  "updated_at": "2026-11-13T09:21:39.561317+00:00",
   "videos": [
+    {
+      "id": "YmxpxJZvm4M",
+      "company": "OpenAI",
+      "title": "Cyber at the Frontier",
+      "description": "",
+      "published_at": "2026-11-12T22:37:14+00:00",
+      "source_url": "https://www.youtube.com/watch?v=YmxpxJZvm4M",
+      "thumbnail_url": "https://i.ytimg.com/vi/YmxpxJZvm4M/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Cyber at the Frontier」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "vu3YlUMkvyg",
+      "company": "OpenAI",
+      "title": "What Codex Unlocks for Holiday Extras",
+      "description": "",
+      "published_at": "2026-11-12T09:45:17+00:00",
+      "source_url": "https://www.youtube.com/watch?v=vu3YlUMkvyg",
+      "thumbnail_url": "https://i.ytimg.com/vi/vu3YlUMkvyg/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「What Codex Unlocks for Holiday Extras」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "NS220dAaRMo",
       "company": "OpenAI",
@@ -212,14 +238,14 @@
     {
       "id": "e22nKqT-yzg",
       "company": "ElevenLabs",
-      "title": "Introducing Scribe v3 for developers",
+      "title": "Introducing ElevenLabs Scribe v3 for developers",
       "description": "",
       "published_at": "2026-11-10T18:16:39+00:00",
       "source_url": "https://www.youtube.com/watch?v=e22nKqT-yzg",
       "thumbnail_url": "https://i.ytimg.com/vi/e22nKqT-yzg/hqdefault.jpg",
       "channel_url": "https://www.youtube.com/@ElevenLabs",
       "platform": "YouTube",
-      "summary_zh": "ElevenLabs 的官方视频围绕「Introducing Scribe v3 for developers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "summary_zh": "ElevenLabs 的官方视频围绕「Introducing ElevenLabs Scribe v3 for developers」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     },
     {
@@ -15652,32 +15678,6 @@
       "platform": "YouTube",
       "summary_zh": "Google DeepMind 的官方视频围绕「Introducing SIMA 2, the next milestone in our research creating general and helpful AI agents」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "NGOAUJtdk-4",
-      "company": "Claude（Anthropic）",
-      "title": "Who let the robot dogs out?",
-      "description": "We asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude.\n\nIn the past, we’ve run simulated studies where Claude trained a robot dog. These helped us assess how Claude might contribute to AI research and development. Project Fetch was us trying something similar in practice.\n\nThis project suggests that we’re not far from a world where frontier AI models can interact with previously-unknown pieces of hardware, ",
-      "published_at": "2025-11-12T20:14:24Z",
-      "source_url": "https://www.youtube.com/watch?v=NGOAUJtdk-4",
-      "thumbnail_url": "https://i.ytimg.com/vi/NGOAUJtdk-4/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Who let the robot dogs out?」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
-    },
-    {
-      "id": "Mze0Eth1V78",
-      "company": "Gemini",
-      "title": "What can AI teach us about humanity? | Father Paolo Benanti & Google’s James Manyika",
-      "description": "Google’s Senior Vice President of Research, Labs, Technology & Society James Manyika sits down with Father Paolo Benanti, a leading expert on AI, ethics, and technology, and professor at the Pontifical Gregorian University at the Vatican, for a discussion about the intersection of artificial intelligence and humanity. #Technology #AI \n\n00:23 What does AI mean for humanity?\n01:41 Human flourishing in the AI era\n03:04 The most important ethical issues for AI\n04:43 How Father Benanti uses AI\n07:01 ",
-      "published_at": "2025-11-12T19:24:28Z",
-      "source_url": "https://www.youtube.com/watch?v=Mze0Eth1V78",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mze0Eth1V78/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「What can AI teach us about humanity? | Father Paolo Benanti & Google’s James Manyika」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
     }
   ]
 }
