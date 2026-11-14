@@ -1,18 +1,57 @@
 {
-  "updated_at": "2026-11-13T09:21:39.561317+00:00",
+  "updated_at": "2026-11-14T08:50:09.398070+00:00",
   "videos": [
+    {
+      "id": "ErOVIC-MGVA",
+      "company": "OpenAI",
+      "title": "6 Underrated Ways to Use ChatGPT",
+      "description": "",
+      "published_at": "2026-11-13T18:15:41+00:00",
+      "source_url": "https://www.youtube.com/watch?v=ErOVIC-MGVA",
+      "thumbnail_url": "https://i.ytimg.com/vi/ErOVIC-MGVA/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「6 Underrated Ways to Use ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "PkAmyub12K8",
+      "company": "OpenAI",
+      "title": "How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities",
+      "description": "",
+      "published_at": "2026-11-13T16:56:45+00:00",
+      "source_url": "https://www.youtube.com/watch?v=PkAmyub12K8",
+      "thumbnail_url": "https://i.ytimg.com/vi/PkAmyub12K8/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "pfbfZKxUEDQ",
+      "company": "OpenAI",
+      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
+      "description": "",
+      "published_at": "2026-11-13T16:38:23+00:00",
+      "source_url": "https://www.youtube.com/watch?v=pfbfZKxUEDQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/pfbfZKxUEDQ/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「How Mozilla strengthens Firefox security with GPT-6 Cyber」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
     {
       "id": "YmxpxJZvm4M",
       "company": "OpenAI",
-      "title": "Cyber at the Frontier",
+      "title": "Cyber at the Frontier: Introducing Daybreak Red Team & Daybreak Defense Factory",
       "description": "",
       "published_at": "2026-11-12T22:37:14+00:00",
       "source_url": "https://www.youtube.com/watch?v=YmxpxJZvm4M",
       "thumbnail_url": "https://i.ytimg.com/vi/YmxpxJZvm4M/hqdefault.jpg",
       "channel_url": "https://www.youtube.com/@OpenAI",
       "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Cyber at the Frontier」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+      "summary_zh": "OpenAI 的官方视频围绕「Cyber at the Frontier: Introducing Daybreak Red Team & Daybreak Defense Factory」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     },
     {
       "id": "vu3YlUMkvyg",
@@ -15600,84 +15639,6 @@
       "platform": "YouTube",
       "summary_zh": "Claude（Anthropic） 的官方视频围绕「Accelerating private equity deal flows with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "LXwGSHZXbKs",
-      "company": "OpenAI",
-      "title": "How Philips is scaling AI literacy across 70,000 employees",
-      "description": "Philips is building AI literacy into a company-wide capability, training executives, running use case challenges, and rolling out ChatGPT Enterprise to 70,000+ employees. Read more: https://openai.com/index/philips/",
-      "published_at": "2025-11-14T06:00:30Z",
-      "source_url": "https://www.youtube.com/watch?v=LXwGSHZXbKs",
-      "thumbnail_url": "https://i.ytimg.com/vi/LXwGSHZXbKs/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「How Philips is scaling AI literacy across 70,000 employees」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "6TXXMTYQtHk",
-      "company": "OpenAI",
-      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
-      "description": "With OpenAI, Notion became a natively AI-powered workspace. Their integration of GPT-4o, GPT-4o mini, embeddings, and now GPT-5 powers millions of users' workflows, from writing and summarizing to Q&A and task automation. Learn how they rebuilt their system for agentic AI: https://openai.com/index/notion/",
-      "published_at": "2025-11-14T05:05:00Z",
-      "source_url": "https://www.youtube.com/watch?v=6TXXMTYQtHk",
-      "thumbnail_url": "https://i.ytimg.com/vi/6TXXMTYQtHk/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "OtIuu_xYtpw",
-      "company": "OpenAI",
-      "title": "From pilot to practice: How BBVA is scaling AI across the organization",
-      "description": "Long recognized as one of the world’s most innovative financial institutions, BBVA is applying AI at global scale. \n\nWe sat down with Antonio Bravo, Global Head of Data & AI and Elena Alfaro, Head of Global AI Adoption, to hear how the bank is scaling AI adoption across teams and business units. Get the full story at https://openai.com/index/bbva-2025/",
-      "published_at": "2025-11-14T05:00:27Z",
-      "source_url": "https://www.youtube.com/watch?v=OtIuu_xYtpw",
-      "thumbnail_url": "https://i.ytimg.com/vi/OtIuu_xYtpw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「From pilot to practice: How BBVA is scaling AI across the organization」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "kykP8fy1a9Q",
-      "company": "OpenAI",
-      "title": "New personalities in ChatGPT",
-      "description": "Say hello to GPT-5.1 and new personalization controls, rolling out to all users this week.\n\n8 unique chat styles (including 3 new ones) are now in your ChatGPT personalization tab, making it easier to set the tone and style that feels right for you in ChatGPT.\n\n- Default\n- Professional\n- Candid\n- Quirky\n- Friendly (formerly Listener)\n- Efficient (formerly Robot)\n- Nerdy\n- Cynical\n\nThe new chat styles are available in all ChatGPT models.",
-      "published_at": "2025-11-14T04:17:15Z",
-      "source_url": "https://www.youtube.com/watch?v=kykP8fy1a9Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/kykP8fy1a9Q/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「New personalities in ChatGPT」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "WdbgNC80PMw",
-      "company": "OpenAI",
-      "title": "ChatGPT Atlas and the next era of web browsing — the OpenAI Podcast Ep. 9",
-      "description": "How will the internet feel when your browser can actually do things for you? \n\nOpenAI’s Ben Goodger and Darin Fisher, whose past work shaped some of the most popular modern browsers, dive into the making of ChatGPT Atlas. They explore how AI changes what a browser can be, from tabs you can talk to, to agents that take over tedious tasks. Learn more about the decisions they made along the way and what’s coming next.\n\nGuests: Ben Goodger and Darin Fisher\n\nChapters\n- 00:00:45 What is Atlas?\n- 00:03",
-      "published_at": "2025-11-14T00:16:05Z",
-      "source_url": "https://www.youtube.com/watch?v=WdbgNC80PMw",
-      "thumbnail_url": "https://i.ytimg.com/vi/WdbgNC80PMw/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@OpenAI",
-      "platform": "YouTube",
-      "summary_zh": "OpenAI 的官方视频围绕「ChatGPT Atlas and the next era of web browsing — the OpenAI Podcast Ep. 9」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "Zphax4f6Rls",
-      "company": "Google DeepMind",
-      "title": "Introducing SIMA 2, the next milestone in our research creating general and helpful AI agents.",
-      "description": "We’re introducing SIMA 2, the next major milestone in general and helpful embodied AI agents. 👾\n\nWith Gemini integrated at its core, it moves beyond following basic instructions to think, learn, and collaborate in complex, 3D worlds.\n\n🔵 Advanced reasoning: It can accomplish high-level goals in a wide array of games – describing its intentions, explaining what it sees, and outlining the steps it is taking. \n\n🔵 Improved generalization: It can transfer concepts like “mining” in one game and apply i",
-      "published_at": "2025-11-13T14:51:38Z",
-      "source_url": "https://www.youtube.com/watch?v=Zphax4f6Rls",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zphax4f6Rls/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「Introducing SIMA 2, the next milestone in our research creating general and helpful AI agents」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
