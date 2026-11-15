@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T08:50:09.398070+00:00",
+  "updated_at": "2026-11-15T09:04:48.276605+00:00",
   "videos": [
     {
       "id": "ErOVIC-MGVA",
@@ -15574,71 +15574,6 @@
       "platform": "YouTube",
       "summary_zh": "Google DeepMind 的官方视频围绕「WeatherNext 2: Our most advanced weather forecasting model」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "6C2JRt2Wi5o",
-      "company": "Hugging Face",
-      "title": "MCP's 1st Birthday Kickoff",
-      "description": "🎉 MCP’s 1st Birthday Hackathon — Kickoff Livestream\n\nWelcome to the official kickoff for MCP’s 1st Birthday Hackathon, hosted by Anthropic + Gradio.\nWe’ll also be joined by folks from Anthropic, OpenAI, Modal, SambaNova, and other sponsors to walk you through everything you need to start building: tracks, rules, prizes, examples, and how to submit your project the right way.\n\n🔗 Important Links\nRegister: https://huggingface.co/spaces/MCP-1st-Birthday\nDiscord: https://discord.gg/fveShqytyh\n\n🗓️ Tim",
-      "published_at": "2025-11-15T06:57:23Z",
-      "source_url": "https://www.youtube.com/watch?v=6C2JRt2Wi5o",
-      "thumbnail_url": "https://i.ytimg.com/vi/6C2JRt2Wi5o/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@huggingface",
-      "platform": "YouTube",
-      "summary_zh": "Hugging Face 的官方视频围绕「MCP's 1st Birthday Kickoff」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "M3v4_ypAiZY",
-      "company": "Hugging Face",
-      "title": "MCP's 1st Birthday Kickoff 📱",
-      "description": "🎉 MCP’s 1st Birthday Hackathon — Kickoff Livestream\n\nWelcome to the official kickoff for MCP’s 1st Birthday Hackathon, hosted by Anthropic + Gradio.\nWe’ll also be joined by folks from Anthropic, OpenAI, Modal, SambaNova, and other sponsors to walk you through everything you need to start building: tracks, rules, prizes, examples, and how to submit your project the right way.\n\n🔗 Important Links\nRegister: https://huggingface.co/spaces/MCP-1st-Birthday\nDiscord: https://discord.gg/fveShqytyh\n\n🗓️ Tim",
-      "published_at": "2025-11-15T06:57:09Z",
-      "source_url": "https://www.youtube.com/watch?v=M3v4_ypAiZY",
-      "thumbnail_url": "https://i.ytimg.com/vi/M3v4_ypAiZY/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@huggingface",
-      "platform": "YouTube",
-      "summary_zh": "Hugging Face 的官方视频围绕「MCP's 1st Birthday Kickoff 📱」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "OwMu0pyYZBc",
-      "company": "Claude（Anthropic）",
-      "title": "Claude Code modernizes a legacy COBOL codebase",
-      "description": "Watch how Claude Code helps modernize a mainframe codebase.\n\nStarting with code from an AWS Mainframe Modernization demo environment, Claude Code analyzes business logic, dependencies, and data flows, then helps refactor it into Java while preserving functionality. Claude Code handles the complex, multi-step work—generating documentation, developing migration plans, writing test suites, and iteratively validating the new code—directly from your terminal.",
-      "published_at": "2025-11-14T17:54:23Z",
-      "source_url": "https://www.youtube.com/watch?v=OwMu0pyYZBc",
-      "thumbnail_url": "https://i.ytimg.com/vi/OwMu0pyYZBc/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Claude Code modernizes a legacy COBOL codebase」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
-    },
-    {
-      "id": "Y6wiWlcH5jM",
-      "company": "Claude（Anthropic）",
-      "title": "Generating real-time credit intelligence with Claude",
-      "description": "Watch Claude go from market signal to investment decision in minutes, generating real-time credit intelligence about Walmart's 2030 bonds tightening before a 2pm portfolio review. \n\nIn this demo, Claude pulls live bond curves from LSEG, analyzes three quarters of earnings transcripts from Aiera, and sources four former Walmart executives on Third Bridge—all running in parallel—to deliver a complete credit thesis with verified sources in 30 minutes. The verdict? The market is pricing Walmart as b",
-      "published_at": "2025-11-14T17:42:58Z",
-      "source_url": "https://www.youtube.com/watch?v=Y6wiWlcH5jM",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y6wiWlcH5jM/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Generating real-time credit intelligence with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
-    },
-    {
-      "id": "AY3lif2E4zI",
-      "company": "Claude（Anthropic）",
-      "title": "Accelerating private equity deal flows with Claude",
-      "description": "Watch Claude handle a complete investment banking and private equity deal workflow—from creating a client-ready teaser by pulling financials from Egnyte, to screening the opportunity against investment criteria in SharePoint and building an LBO model.\n\nIn this demo, Claude identifies hidden risks during diligence, stress tests the model with downside scenarios, and runs sensitivity analysis to validate returns across exit multiples. In minutes, Claude delivers an investment committee deck with f",
-      "published_at": "2025-11-14T17:42:33Z",
-      "source_url": "https://www.youtube.com/watch?v=AY3lif2E4zI",
-      "thumbnail_url": "https://i.ytimg.com/vi/AY3lif2E4zI/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@anthropic-ai",
-      "platform": "YouTube",
-      "summary_zh": "Claude（Anthropic） 的官方视频围绕「Accelerating private equity deal flows with Claude」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
     }
   ]
 }
