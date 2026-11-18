@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-17T10:28:06.786499+00:00",
+  "updated_at": "2026-11-18T09:58:08.628479+00:00",
   "videos": [
+    {
+      "id": "2pdF52EVlbM",
+      "company": "OpenAI",
+      "title": "An underrated way to use ChatGPT: Life admin",
+      "description": "",
+      "published_at": "2026-11-18T00:06:39+00:00",
+      "source_url": "https://www.youtube.com/watch?v=2pdF52EVlbM",
+      "thumbnail_url": "https://i.ytimg.com/vi/2pdF52EVlbM/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「An underrated way to use ChatGPT: Life admin」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
+    },
+    {
+      "id": "pmOJIq7Ah00",
+      "company": "OpenAI",
+      "title": "Introducing ChatGPT for Sales",
+      "description": "",
+      "published_at": "2026-11-17T23:24:04+00:00",
+      "source_url": "https://www.youtube.com/watch?v=pmOJIq7Ah00",
+      "thumbnail_url": "https://i.ytimg.com/vi/pmOJIq7Ah00/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Introducing ChatGPT for Sales」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
+    },
+    {
+      "id": "tKoDPOrLMX0",
+      "company": "OpenAI",
+      "title": "Building 3D video sets with GPT-6.2 Astra",
+      "description": "",
+      "published_at": "2026-11-17T18:41:32+00:00",
+      "source_url": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
+      "thumbnail_url": "https://i.ytimg.com/vi/tKoDPOrLMX0/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「Building 3D video sets with GPT-6.2 Astra」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "用真实任务而非抽象参数展示能力。营销物料可沿用“问题—操作—结果”的三段叙事，降低新功能的理解成本。"
+    },
+    {
+      "id": "C1zYX5jwqq4",
+      "company": "OpenAI",
+      "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+      "description": "",
+      "published_at": "2026-11-17T17:55:40+00:00",
+      "source_url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+      "thumbnail_url": "https://i.ytimg.com/vi/C1zYX5jwqq4/hqdefault.jpg",
+      "channel_url": "https://www.youtube.com/@OpenAI",
+      "platform": "YouTube",
+      "summary_zh": "OpenAI 的官方视频围绕「GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
+      "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
+    },
     {
       "id": "ZIpm-0RczCk",
       "company": "OpenAI",
@@ -15691,32 +15743,6 @@
       "platform": "YouTube",
       "summary_zh": "Google DeepMind 的官方视频围绕「Gemini 3: Turn a research paper into an interactive website」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
       "marketing_takeaway_zh": "把技术能力翻译为用户能感知的结果，并补充可信的验证线索；这比单独强调模型指标更易形成传播。"
-    },
-    {
-      "id": "-pxFCdrWX8M",
-      "company": "Gemini",
-      "title": "Make a study guide in Search",
-      "description": "Did you know you can make a study guide with desktop AI Mode, directly in Google Search? Fire up the laptop and get organized for finals season today!\n\n#GoogleSearch #AIMode #StudyHacks",
-      "published_at": "2025-11-17T17:32:17Z",
-      "source_url": "https://www.youtube.com/watch?v=-pxFCdrWX8M",
-      "thumbnail_url": "https://i.ytimg.com/vi/-pxFCdrWX8M/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@Google",
-      "platform": "YouTube",
-      "summary_zh": "Gemini 的官方视频围绕「Make a study guide in Search」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "可留意官方如何选择主角、场景和视觉重点。将一个复杂能力压缩成单一、可复述的信息，是 AI 营销内容的关键。"
-    },
-    {
-      "id": "YQwqoEm_xis",
-      "company": "Google DeepMind",
-      "title": "WeatherNext 2: Our most advanced weather forecasting model",
-      "description": "We’re powering a new era of global weather forecasting with WeatherNext 2, our most advanced and efficient AI model. It delivers more accurate, higher-resolution predictions to help everyone—from businesses managing global supply chains to you planning your day—make better, faster decisions.\n\n☁️ WeatherNext 2 is a breakthrough AI forecasting model from Google DeepMind and Google Research that is 8x faster than previous systems and provides forecasts with resolution up to 1-hour. It surpasses our",
-      "published_at": "2025-11-17T14:56:31Z",
-      "source_url": "https://www.youtube.com/watch?v=YQwqoEm_xis",
-      "thumbnail_url": "https://i.ytimg.com/vi/YQwqoEm_xis/hqdefault.jpg",
-      "channel_url": "https://www.youtube.com/@GoogleDeepMind",
-      "platform": "YouTube",
-      "summary_zh": "Google DeepMind 的官方视频围绕「WeatherNext 2: Our most advanced weather forecasting model」展开，重点呈现相关产品或能力的定位、使用场景与核心价值。",
-      "marketing_takeaway_zh": "新品发布内容要先交代“新在哪里”，再用一个具体场景证明它为何重要；首屏信息应让受众在几秒内看懂变化。"
     }
   ]
 }
